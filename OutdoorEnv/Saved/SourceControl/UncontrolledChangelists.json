@@ -7,7 +7,10 @@
 			"files": [
 				"D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
 				"D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
-				"D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset"
+				"D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset",
+				"D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/Assets/Blocking_Building.uasset",
+				"D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/AZ/A7GPT109Y6ZTTJD4A7TXER.uasset",
+				"D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/7V/CJ9C2TTKUMYIYIIT9DYYZI.uasset"
 			]
 		}
 	]
