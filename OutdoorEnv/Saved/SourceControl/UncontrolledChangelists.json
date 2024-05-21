@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset"
+			]
+		}
+	]
+}
