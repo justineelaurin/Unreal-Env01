@@ -1323,3 +1323,607 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.05.31-18.43.10:401][623]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
 [2024.05.31-18.43.10:407][623]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
 [2024.05.31-18.43.10:437][623]LogFileHelpers: InternalPromptForCheckoutAndSave took 105 ms (total: 609 ms)
+[2024.05.31-18.48.18:659][395]LogEditorFactories: Display: Exporting Texture as PNG Layer 0/1 Block 0/1
+[2024.05.31-18.49.27:778][576]AssetReimport: New page: Outstanding source content changes 10 h 49 min 27 s
+[2024.05.31-18.49.27:782][576]LogSlate: Took 0.000238 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.05.31-18.49.27:825][577]LogInterchangeEngine: [Pending] Importing
+[2024.05.31-18.49.27:912][577]LogInterchangeEngine: [Success] Import Done
+[2024.05.31-18.49.27:916][577]LogTexture: Display: Building textures: /Game/Textures/envRocks_D_02.envRocks_D_02 (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.05.31-18.49.27:981][578]LogInterchangeEngine: [Success] Import Done
+[2024.05.31-18.49.30:982][759]AssetReimport: Reimported asset envRocks_D_02 from D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/Textures/envRocks_D_02.png.
+[2024.05.31-18.50.15:413][666]AssetReimport: New page: Outstanding source content changes 10 h 50 min 15 s
+[2024.05.31-18.50.15:453][667]LogInterchangeEngine: [Pending] Importing
+[2024.05.31-18.50.15:532][667]LogInterchangeEngine: [Success] Import Done
+[2024.05.31-18.50.15:535][667]LogTexture: Display: Building textures: /Game/Textures/envRocks_D_02.envRocks_D_02 (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.05.31-18.50.15:636][668]LogInterchangeEngine: [Success] Import Done
+[2024.05.31-18.50.18:648][860]AssetReimport: Reimported asset envRocks_D_02 from D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/Textures/envRocks_D_02.png.
+[2024.05.31-18.50.23:950][194]LogEditorViewport: Clicking Background
+[2024.05.31-18.50.40:032][346]LogEditorViewport: Clicking Background
+[2024.05.31-18.50.50:489][678]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.05.31-18.50.54:859][907]Cmd: DUPLICATE
+[2024.05.31-18.50.54:859][907]Cmd: ACTOR DUPLICATE
+[2024.05.31-18.50.57:854][ 60]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.05.31-18.51.00:866][217]Cmd: TRANSACTION UNDO
+[2024.05.31-18.51.00:866][217]LogEditorTransaction: Undo Move Elements
+[2024.05.31-18.51.01:443][226]LogShaderCompilers: Display: ================================================
+[2024.05.31-18.51.01:443][226]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.31-18.51.01:443][226]LogShaderCompilers: Display: Total job queries 88, among them cache hits 22 (25.00%)
+[2024.05.31-18.51.01:443][226]LogShaderCompilers: Display: Tracking 66 distinct input hashes that result in 44 distinct outputs (66.67%)
+[2024.05.31-18.51.01:443][226]LogShaderCompilers: Display: RAM used: 1,33 MiB of 1,60 GiB budget. Usage: 0.08%
+[2024.05.31-18.51.01:443][226]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.31-18.51.01:443][226]LogShaderCompilers: Display: Shaders Compiled: 6
+[2024.05.31-18.51.01:443][226]LogShaderCompilers: Display: Jobs assigned 6, completed 6 (100%)
+[2024.05.31-18.51.01:443][226]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.08 s
+[2024.05.31-18.51.01:443][226]LogShaderCompilers: Display: Job execution time: average 0.74 s, max 0.88 s
+[2024.05.31-18.51.01:443][226]LogShaderCompilers: Display: Job life time (pending + execution): average 0.80 s, max 0.96
+[2024.05.31-18.51.01:443][226]LogShaderCompilers: Display: Shader code size: average 35,018 KiB, min 32,285 KiB, max 37,676 KiB
+[2024.05.31-18.51.01:443][226]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.96 s
+[2024.05.31-18.51.01:443][226]LogShaderCompilers: Display: Jobs were issued in 6 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.05.31-18.51.01:443][226]LogShaderCompilers: Display: Average processing rate: 6.27 jobs/sec
+[2024.05.31-18.51.01:443][226]LogShaderCompilers: Display: Total thread time: 2,207 s
+[2024.05.31-18.51.01:443][226]LogShaderCompilers: Display: Total thread preprocess time: 0,232 s
+[2024.05.31-18.51.01:443][226]LogShaderCompilers: Display: Percentage time preprocessing: 10.50%
+[2024.05.31-18.51.01:443][226]LogShaderCompilers: Display: Effective parallelization: 2.31 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.05.31-18.51.01:443][226]LogShaderCompilers: Display: Top 4 most expensive shader types by average time:
+[2024.05.31-18.51.01:443][226]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    1 times, average 0.41 sec, max 0.41 sec, min 0.41 sec)
+[2024.05.31-18.51.01:443][226]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    2 times, average 0.41 sec, max 0.42 sec, min 0.40 sec)
+[2024.05.31-18.51.01:443][226]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    2 times, average 0.40 sec, max 0.45 sec, min 0.36 sec)
+[2024.05.31-18.51.01:443][226]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    1 times, average 0.18 sec, max 0.18 sec, min 0.18 sec)
+[2024.05.31-18.51.01:443][226]LogShaderCompilers: Display: Top 4 shader types by total compile time:
+[2024.05.31-18.51.01:443][226]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 36.86% of total time (compiled    2 times, average 0.41 sec, max 0.42 sec, min 0.40 sec)
+[2024.05.31-18.51.01:443][226]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 36.32% of total time (compiled    2 times, average 0.40 sec, max 0.45 sec, min 0.36 sec)
+[2024.05.31-18.51.01:443][226]LogShaderCompilers: Display:                                                 FLumenCardVS - 18.80% of total time (compiled    1 times, average 0.41 sec, max 0.41 sec, min 0.41 sec)
+[2024.05.31-18.51.01:443][226]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 8.02% of total time (compiled    1 times, average 0.18 sec, max 0.18 sec, min 0.18 sec)
+[2024.05.31-18.51.01:443][226]LogShaderCompilers: Display: ================================================
+[2024.05.31-18.51.06:016][460]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.05.31-18.51.09:551][642]Cmd: DELETE
+[2024.05.31-18.51.09:551][642]Cmd: ACTOR DELETE
+[2024.05.31-18.51.09:556][642]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.31-18.51.09:563][642]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.05.31-18.51.09:566][642]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2024.05.31-18.51.27:635][647]LogEditorViewport: Clicking Background
+[2024.05.31-18.51.34:197][ 87]LogEditorViewport: Clicking Background
+[2024.05.31-18.51.41:237][540]Cmd: TRANSACTION UNDO
+[2024.05.31-18.51.41:237][540]LogEditorTransaction: Undo Rotate Elements
+[2024.05.31-18.51.51:037][108]LogEditorViewport: Clicking Background
+[2024.05.31-18.52.01:921][768]LogEditorViewport: Clicking Background
+[2024.05.31-18.52.06:339][ 59]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.05.31-18.52.14:787][565]LogEditorViewport: Clicking Background
+[2024.05.31-18.52.20:453][950]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.05.31-18.52.30:127][499]Cmd: TRANSACTION UNDO
+[2024.05.31-18.52.30:128][499]LogEditorTransaction: Undo Scale Elements
+[2024.05.31-18.52.31:523][556]Cmd: MODE SCALEGRID=0
+[2024.05.31-18.52.33:209][640]Cmd: TRANSACTION UNDO
+[2024.05.31-18.52.33:209][640]LogEditorTransaction: Undo Scale Elements
+[2024.05.31-18.52.35:090][735]Cmd: TRANSACTION UNDO
+[2024.05.31-18.52.35:090][735]LogEditorTransaction: Undo Scale Elements
+[2024.05.31-18.52.42:619][175]LogEditorViewport: Clicking Background
+[2024.05.31-18.52.48:687][557]Cmd: TRANSACTION UNDO
+[2024.05.31-18.52.48:687][557]LogEditorTransaction: Undo Rotate Elements
+[2024.05.31-18.52.49:624][590]LogEditorViewport: Clicking Background
+[2024.05.31-18.52.58:560][179]LogEditorViewport: Clicking Background
+[2024.05.31-18.52.59:654][244]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.05.31-18.53.05:866][601]Cmd: TRANSACTION UNDO
+[2024.05.31-18.53.05:866][601]LogEditorTransaction: Undo Move Elements
+[2024.05.31-18.53.09:377][779]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.05.31-18.53.12:108][923]Cmd: DUPLICATE
+[2024.05.31-18.53.12:108][923]Cmd: ACTOR DUPLICATE
+[2024.05.31-18.53.14:653][ 53]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.05.31-18.53.19:364][304]Cmd: DELETE
+[2024.05.31-18.53.19:364][304]Cmd: ACTOR DELETE
+[2024.05.31-18.53.19:369][304]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.31-18.53.19:376][304]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2024.05.31-18.53.19:379][304]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2024.05.31-18.53.22:846][491]Cmd: TRANSACTION UNDO
+[2024.05.31-18.53.22:846][491]LogEditorTransaction: Undo Scale Elements
+[2024.05.31-18.53.26:663][679]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.05.31-18.53.39:686][416]LogEditorViewport: Clicking Background
+[2024.05.31-18.53.44:852][693]Cmd: TRANSACTION UNDO
+[2024.05.31-18.53.44:853][693]LogEditorTransaction: Undo Move Elements
+[2024.05.31-18.53.47:940][836]Cmd: TRANSACTION UNDO
+[2024.05.31-18.53.47:940][836]LogEditorTransaction: Undo Move Elements
+[2024.05.31-18.53.53:823][162]Cmd: TRANSACTION UNDO
+[2024.05.31-18.53.53:823][162]LogEditorTransaction: Undo Move Elements
+[2024.05.31-18.53.57:463][344]Cmd: TRANSACTION UNDO
+[2024.05.31-18.53.57:463][344]LogEditorTransaction: Undo Move Elements
+[2024.05.31-18.53.59:688][438]LogEditorViewport: Clicking Background
+[2024.05.31-18.54.05:533][784]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.31-18.54.05:598][784]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2024.05.31-18.54.05:604][784]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2024.05.31-18.54.05:609][784]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2024.05.31-18.54.05:612][784]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/FE/SQNHYG9S0ISAERFMQS927M
+[2024.05.31-18.54.05:613][784]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/SQNHYG9S0ISAERFMQS927M6124A77441D3CB88249EC2979A4BCD40.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/FE/SQNHYG9S0ISAERFMQS927M.uasset'
+[2024.05.31-18.54.05:615][784]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/BT/C2HJBUEI4YNW8W8AJ6KD91
+[2024.05.31-18.54.05:616][784]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/C2HJBUEI4YNW8W8AJ6KD917993782942292A81506716B9CFF684BD.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/BT/C2HJBUEI4YNW8W8AJ6KD91.uasset'
+[2024.05.31-18.54.05:618][784]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/36/WFYQKU3R1OYCZU3CMA4PHJ
+[2024.05.31-18.54.05:618][784]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/WFYQKU3R1OYCZU3CMA4PHJD38EB24341F68ED2D355F0B905DF632E.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/36/WFYQKU3R1OYCZU3CMA4PHJ.uasset'
+[2024.05.31-18.54.05:621][784]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/HU/A7IL7MX2D4Y36Q3AHZE6DW
+[2024.05.31-18.54.05:621][784]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/A7IL7MX2D4Y36Q3AHZE6DWB8A1703345CE5745562168AA010D5136.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/HU/A7IL7MX2D4Y36Q3AHZE6DW.uasset'
+[2024.05.31-18.54.05:649][784]LogFileHelpers: InternalPromptForCheckoutAndSave took 115 ms (total: 725 ms)
+[2024.05.31-18.54.05:651][784]AssetCheck: New page: Asset Save: multiple assets
+[2024.05.31-18.54.05:651][784]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_04D9F51D2510E0FA01_1182927586
+[2024.05.31-18.54.05:651][784]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_04D9F51D2510E0FA01_1157668585
+[2024.05.31-18.54.05:651][784]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_04D9F51D2510E1FA01_1515780759
+[2024.05.31-18.54.05:651][784]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_04D9F51D2510E1FA01_1653026760
+[2024.05.31-18.54.15:772][ 58]LogEditorViewport: Clicking Background
+[2024.05.31-18.54.19:739][279]Cmd: DUPLICATE
+[2024.05.31-18.54.19:739][279]Cmd: ACTOR DUPLICATE
+[2024.05.31-18.54.22:140][400]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.05.31-18.54.37:795][251]Cmd: DUPLICATE
+[2024.05.31-18.54.37:795][251]Cmd: ACTOR DUPLICATE
+[2024.05.31-18.54.48:751][830]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.05.31-18.54.55:342][261]LogEditorViewport: Clicking Background
+[2024.05.31-18.54.57:563][418]Cmd: TRANSACTION UNDO
+[2024.05.31-18.54.57:563][418]LogEditorTransaction: Undo Clicking Background
+[2024.05.31-18.54.58:426][447]LogEditorViewport: Clicking Background
+[2024.05.31-18.55.27:061][427]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.31-18.55.27:135][427]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.05.31-18.55.27:141][427]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2024.05.31-18.55.27:146][427]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2024.05.31-18.55.27:148][427]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/3U/YKQ6QG0TVZZ6U63X1PKDI3
+[2024.05.31-18.55.27:148][427]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/YKQ6QG0TVZZ6U63X1PKDI3D60FFA4D42B0FA88D912E493EE86BF61.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/3U/YKQ6QG0TVZZ6U63X1PKDI3.uasset'
+[2024.05.31-18.55.27:151][427]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/WO/7LBVD8SRW5MDX2LXDF6ST3
+[2024.05.31-18.55.27:151][427]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/7LBVD8SRW5MDX2LXDF6ST3B79D297C461CB875D6A1F79737E2C114.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/WO/7LBVD8SRW5MDX2LXDF6ST3.uasset'
+[2024.05.31-18.55.27:154][427]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/IP/YU8GGFLDWPN5PMNBAAK1H0
+[2024.05.31-18.55.27:154][427]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/YU8GGFLDWPN5PMNBAAK1H05014FBE746B46E2BC69BAB9136C22228.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/IP/YU8GGFLDWPN5PMNBAAK1H0.uasset'
+[2024.05.31-18.55.27:177][427]LogFileHelpers: InternalPromptForCheckoutAndSave took 116 ms (total: 841 ms)
+[2024.05.31-18.55.27:179][427]AssetCheck: New page: Asset Save: multiple assets
+[2024.05.31-18.55.27:179][427]LogContentValidation: Display: Validating /Script/CinematicCamera.CineCameraActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.CineCameraActor_UAID_04D9F51D251092F901_1085744799
+[2024.05.31-18.55.27:179][427]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_04D9F51D2510E1FA01_1720657761
+[2024.05.31-18.55.27:179][427]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_04D9F51D2510E1FA01_1738712762
+[2024.05.31-18.55.36:191][  7]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.05.31-18.55.43:664][486]LogEditorViewport: Clicking Background
+[2024.05.31-18.55.52:653][ 79]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.05.31-18.56.12:559][293]LogEditorViewport: Clicking Background
+[2024.05.31-18.56.20:594][839]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.05.31-18.56.21:810][920]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.05.31-18.56.26:137][144]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.05.31-18.56.38:832][928]LogEditorViewport: Clicking Background
+[2024.05.31-18.56.46:861][448]LogEditorViewport: Clicking Background
+[2024.05.31-18.57.09:715][923]LogEditorViewport: Clicking Background
+[2024.05.31-18.57.16:090][359]Cmd: DUPLICATE
+[2024.05.31-18.57.16:090][359]Cmd: ACTOR DUPLICATE
+[2024.05.31-18.57.21:473][685]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.05.31-18.57.29:774][198]LogEditorViewport: Clicking Background
+[2024.05.31-18.57.36:554][665]LogEditorViewport: Clicking Background
+[2024.05.31-18.57.39:455][838]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.05.31-18.57.50:408][524]LogEditorViewport: Clicking Background
+[2024.05.31-18.58.00:460][172]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.05.31-18.58.02:557][295]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.05.31-18.58.03:001][318]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.05.31-18.58.04:539][403]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.05.31-18.58.12:803][876]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.05.31-18.58.25:918][676]LogEditorViewport: Clicking Background
+[2024.05.31-18.58.36:130][388]LogEditorViewport: Clicking Background
+[2024.05.31-18.58.38:301][510]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.05.31-18.58.47:063][ 13]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.05.31-18.58.56:682][578]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.05.31-18.58.58:869][694]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.05.31-18.59.08:914][269]LogEditorViewport: Clicking Background
+[2024.05.31-18.59.22:348][ 66]Cmd: TRANSACTION UNDO
+[2024.05.31-18.59.22:349][ 66]LogEditorTransaction: Undo Clicking on Elements
+[2024.05.31-18.59.40:218][ 91]LogEditorViewport: Clicking Background
+[2024.05.31-18.59.41:869][170]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.05.31-18.59.54:709][833]Cmd: TRANSACTION UNDO
+[2024.05.31-18.59.54:709][833]LogEditorTransaction: Undo Rotate Elements
+[2024.05.31-19.00.08:543][721]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.05.31-19.00.19:388][347]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.05.31-19.00.25:700][784]LogEditorViewport: Clicking Background
+[2024.05.31-19.00.31:050][132]LogEditorViewport: Clicking Background
+[2024.05.31-19.00.38:718][660]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.05.31-19.00.44:553][975]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.05.31-19.00.50:464][298]Cmd: TRANSACTION UNDO
+[2024.05.31-19.00.50:464][298]LogEditorTransaction: Undo Move Elements
+[2024.05.31-19.00.55:778][566]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.05.31-19.01.03:470][  7]Cmd: TRANSACTION UNDO
+[2024.05.31-19.01.03:470][  7]LogEditorTransaction: Undo Scale Elements
+[2024.05.31-19.01.08:693][278]LogEditorViewport: Clicking Background
+[2024.05.31-19.01.19:493][757]Cmd: DUPLICATE
+[2024.05.31-19.01.19:493][757]Cmd: ACTOR DUPLICATE
+[2024.05.31-19.01.21:323][853]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.05.31-19.01.29:250][259]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.05.31-19.01.35:658][622]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.05.31-19.01.48:355][381]LogEditorViewport: Clicking Background
+[2024.05.31-19.01.53:306][719]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.05.31-19.01.55:045][811]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.05.31-19.02.03:712][363]LogViewport: Scene viewport resized to 1601x807, mode Windowed.
+[2024.05.31-19.02.49:951][407]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2024.05.31-19.02.49:967][407]LogViewport: Scene viewport resized to 1972x807, mode Windowed.
+[2024.05.31-19.02.52:719][573]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.05.31-19.02.58:420][875]Cmd: DUPLICATE
+[2024.05.31-19.02.58:420][875]Cmd: ACTOR DUPLICATE
+[2024.05.31-19.03.14:863][720]LogEditorViewport: Clicking Background
+[2024.05.31-19.03.23:967][417]LogEditorViewport: Clicking Background
+[2024.05.31-19.03.36:914][252]Cmd: TRANSACTION UNDO
+[2024.05.31-19.03.36:914][252]LogEditorTransaction: Undo Rotate Elements
+[2024.05.31-19.03.38:461][321]Cmd: TRANSACTION UNDO
+[2024.05.31-19.03.38:461][321]LogEditorTransaction: Undo Rotate Elements
+[2024.05.31-19.03.39:136][360]LogEditorViewport: Clicking Background
+[2024.05.31-19.03.52:781][684]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.05.31-19.03.57:939][982]Cmd: DUPLICATE
+[2024.05.31-19.03.57:939][982]Cmd: ACTOR DUPLICATE
+[2024.05.31-19.04.16:391][ 79]LogEditorViewport: Clicking Background
+[2024.05.31-19.04.23:403][551]LogEditorViewport: Clicking Background
+[2024.05.31-19.04.27:093][802]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.05.31-19.04.28:479][880]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.05.31-19.04.30:229][961]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.05.31-19.04.50:477][159]LogEditorViewport: Clicking Background
+[2024.05.31-19.04.55:144][469]LogEditorViewport: Clicking Background
+[2024.05.31-19.04.58:315][675]LogEditorViewport: Clicking Background
+[2024.05.31-19.05.16:143][985]LogViewport: Scene viewport resized to 452x254, mode Windowed.
+[2024.05.31-19.05.17:792][ 45]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.05.31-19.05.19:314][124]Cmd: TRANSACTION UNDO
+[2024.05.31-19.05.19:314][124]LogEditorTransaction: Undo Move Elements
+[2024.05.31-19.05.21:448][226]Cmd: TRANSACTION UNDO
+[2024.05.31-19.05.21:448][226]LogEditorTransaction: Undo Move Elements
+[2024.05.31-19.05.33:861][  6]LogEditorViewport: Clicking Background
+[2024.05.31-19.05.35:483][118]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.31-19.05.35:559][118]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_04D9F51D2510E1FA01_2110701764 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/KG/Y5ISV4IHK68IMBPVEJJE7Z.PackageMetaData in its package
+[2024.05.31-19.05.35:560][118]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.05.31-19.05.35:567][118]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.05.31-19.05.35:573][118]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2024.05.31-19.05.35:589][118]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/1M/HG5S9ELEETP2KN1Z2BITM8
+[2024.05.31-19.05.35:590][118]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/HG5S9ELEETP2KN1Z2BITM89D5743F641B1D282313783BF12022ABF.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/1M/HG5S9ELEETP2KN1Z2BITM8.uasset'
+[2024.05.31-19.05.35:593][118]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/3U/YKQ6QG0TVZZ6U63X1PKDI3
+[2024.05.31-19.05.35:593][118]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/YKQ6QG0TVZZ6U63X1PKDI30F9FFFED4628989D048030B2900504E6.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/3U/YKQ6QG0TVZZ6U63X1PKDI3.uasset'
+[2024.05.31-19.05.35:602][118]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/GJ/2C6NLIROC1TRGFR9B9CSAR
+[2024.05.31-19.05.35:603][118]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/2C6NLIROC1TRGFR9B9CSAR7D48F27C44AFCDB7E4AE3393CC5BE373.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/GJ/2C6NLIROC1TRGFR9B9CSAR.uasset'
+[2024.05.31-19.05.35:606][118]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3
+[2024.05.31-19.05.35:606][118]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/SWSI13675DVYIZ0N4NF7Y33E9DDAE64645B036F3B16BAE7F42BB03.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset'
+[2024.05.31-19.05.35:608][118]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/WO/7LBVD8SRW5MDX2LXDF6ST3
+[2024.05.31-19.05.35:609][118]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/7LBVD8SRW5MDX2LXDF6ST355A727DD4C48E7917316CEB46799EBD3.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/WO/7LBVD8SRW5MDX2LXDF6ST3.uasset'
+[2024.05.31-19.05.35:611][118]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/IP/YU8GGFLDWPN5PMNBAAK1H0
+[2024.05.31-19.05.35:612][118]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/YU8GGFLDWPN5PMNBAAK1H0131A0A3A4653CDC2573F39B14A7A54AA.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/IP/YU8GGFLDWPN5PMNBAAK1H0.uasset'
+[2024.05.31-19.05.35:614][118]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/HE/GOY8043NB1JX3U6L29ZF57
+[2024.05.31-19.05.35:615][118]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/GOY8043NB1JX3U6L29ZF57343899C3448438B59D0332A58F131EAD.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/HE/GOY8043NB1JX3U6L29ZF57.uasset'
+[2024.05.31-19.05.35:622][118]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/0K/X9JYF6UVQST5X4XXIFMMD1
+[2024.05.31-19.05.35:622][118]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/X9JYF6UVQST5X4XXIFMMD1CCBEA5AC43423D813F546AB6D7A110EF.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/0K/X9JYF6UVQST5X4XXIFMMD1.uasset'
+[2024.05.31-19.05.35:624][118]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DC/0F685N7XVNVKU9U6Y85TR2
+[2024.05.31-19.05.35:624][118]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/0F685N7XVNVKU9U6Y85TR225E0583243AFF3C070E3AC99655C6CAE.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DC/0F685N7XVNVKU9U6Y85TR2.uasset'
+[2024.05.31-19.05.35:627][118]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/T0/HBNNGV5IZBXUZEKH5H474R
+[2024.05.31-19.05.35:627][118]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/HBNNGV5IZBXUZEKH5H474RC68CD6D942EE6DC04745FB8AEC84F2E4.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/T0/HBNNGV5IZBXUZEKH5H474R.uasset'
+[2024.05.31-19.05.35:636][118]LogFileHelpers: InternalPromptForCheckoutAndSave took 152 ms (total: 994 ms)
+[2024.05.31-19.05.35:638][118]AssetCheck: New page: Asset Save: multiple assets
+[2024.05.31-19.05.35:638][118]LogContentValidation: Display: Validating /Script/Foliage.InstancedFoliageActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.InstancedFoliageActor_25600_-1_0_0
+[2024.05.31-19.05.35:638][118]LogContentValidation: Display: Validating /Script/CinematicCamera.CineCameraActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.CineCameraActor_UAID_04D9F51D251092F901_1085744799
+[2024.05.31-19.05.35:638][118]LogContentValidation: Display: Validating /Script/Foliage.InstancedFoliageActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.InstancedFoliageActor_25600_0_0_0
+[2024.05.31-19.05.35:638][118]LogContentValidation: Display: Validating /Script/Engine.PlayerStart /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.PlayerStart_0
+[2024.05.31-19.05.35:638][118]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_04D9F51D2510E1FA01_1720657761
+[2024.05.31-19.05.35:638][118]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_04D9F51D2510E1FA01_1738712762
+[2024.05.31-19.05.35:638][118]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_04D9F51D2510E1FA01_1897008763
+[2024.05.31-19.05.35:638][118]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_04D9F51D2510E1FA01_2140411765
+[2024.05.31-19.05.35:638][118]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_04D9F51D2510E2FA01_1165596942
+[2024.05.31-19.05.35:638][118]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_04D9F51D2510E2FA01_1225115943
+[2024.05.31-19.05.35:645][118]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.05.31-19.05.43:359][684]LogCore: Display: Tracing Screenshot "HighresScreenshot00000" taken with size: 2869 x 1614
+[2024.05.31-19.05.44:073][685]LogClient: High resolution screenshot saved as D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/Screenshots/WindowsEditor/HighresScreenshot00000.png
+[2024.05.31-19.06.39:909][855]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2024.05.31-19.06.39:910][855]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.008
+[2024.05.31-19.06.39:911][855]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/envRocks_D_02] ([1] browsable assets)...
+[2024.05.31-19.06.39:914][855]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/envRocks_D_02.envRocks_D_02]
+[2024.05.31-19.06.39:914][855]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/envRocks_D_02]
+[2024.05.31-19.06.39:935][855]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Textures/envRocks_D_02_Auto1
+[2024.05.31-19.06.39:935][855]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/envRocks_D_02_Auto1C7A2F9404A7D3E1791479BB5618FC579.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/Autosaves/Game/Textures/envRocks_D_02_Auto1.uasset'
+[2024.05.31-19.06.39:936][855]LogFileHelpers: Auto-saving content packages took 0.026
+[2024.05.31-19.07.06:846][936]Cmd: r.ResetRenderTargetsExtent
+[2024.05.31-19.07.06:846][936]Scene texture extent history reset. Next scene render will reallocate textures at the requested size.
+[2024.05.31-19.07.06:846][936]LogSlate: Window 'High Resolution Screenshot' being destroyed
+[2024.05.31-19.07.08:956][ 65]LogEditorViewport: Clicking Background
+[2024.05.31-19.07.10:049][137]LogEditorViewport: Clicking Background
+[2024.05.31-19.07.10:431][161]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.31-19.07.10:507][161]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2024.05.31-19.07.10:513][161]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2024.05.31-19.07.10:519][161]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2024.05.31-19.07.10:539][161]LogFileHelpers: InternalPromptForCheckoutAndSave took 107 ms (total: 1.10 sec)
+[2024.05.31-19.07.17:042][548]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Materials/matRocks.matRocks
+[2024.05.31-19.07.17:047][548]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.31-19.07.17:047][548]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.31-19.07.17:256][548]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.31-19.07.17:256][548]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.05.31-19.07.17:256][548]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.31-19.07.17:256][548]MaterialEditorStats: Shader Count: 0
+[2024.05.31-19.07.17:271][548]LogViewport: Scene viewport resized to 509x496, mode Windowed.
+[2024.05.31-19.07.17:335][549]LogShaderCompilers: Display: ================================================
+[2024.05.31-19.07.17:335][549]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.31-19.07.17:335][549]LogShaderCompilers: Display: Total job queries 104, among them cache hits 32 (30.77%)
+[2024.05.31-19.07.17:335][549]LogShaderCompilers: Display: Tracking 72 distinct input hashes that result in 49 distinct outputs (68.06%)
+[2024.05.31-19.07.17:335][549]LogShaderCompilers: Display: RAM used: 1,45 MiB of 1,60 GiB budget. Usage: 0.09%
+[2024.05.31-19.07.17:335][549]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.31-19.07.17:335][549]LogShaderCompilers: Display: Shaders Compiled: 6
+[2024.05.31-19.07.17:335][549]LogShaderCompilers: Display: Jobs assigned 6, completed 6 (100%)
+[2024.05.31-19.07.17:335][549]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.08 s
+[2024.05.31-19.07.17:335][549]LogShaderCompilers: Display: Job execution time: average 0.74 s, max 0.88 s
+[2024.05.31-19.07.17:335][549]LogShaderCompilers: Display: Job life time (pending + execution): average 0.80 s, max 0.96
+[2024.05.31-19.07.17:335][549]LogShaderCompilers: Display: Shader code size: average 35,018 KiB, min 32,285 KiB, max 37,676 KiB
+[2024.05.31-19.07.17:335][549]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.96 s
+[2024.05.31-19.07.17:335][549]LogShaderCompilers: Display: Jobs were issued in 6 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.05.31-19.07.17:335][549]LogShaderCompilers: Display: Average processing rate: 6.27 jobs/sec
+[2024.05.31-19.07.17:335][549]LogShaderCompilers: Display: Total thread time: 2,207 s
+[2024.05.31-19.07.17:335][549]LogShaderCompilers: Display: Total thread preprocess time: 0,232 s
+[2024.05.31-19.07.17:335][549]LogShaderCompilers: Display: Percentage time preprocessing: 10.50%
+[2024.05.31-19.07.17:335][549]LogShaderCompilers: Display: Effective parallelization: 2.31 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.05.31-19.07.17:335][549]LogShaderCompilers: Display: Top 4 most expensive shader types by average time:
+[2024.05.31-19.07.17:335][549]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    1 times, average 0.41 sec, max 0.41 sec, min 0.41 sec)
+[2024.05.31-19.07.17:335][549]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    2 times, average 0.41 sec, max 0.42 sec, min 0.40 sec)
+[2024.05.31-19.07.17:335][549]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    2 times, average 0.40 sec, max 0.45 sec, min 0.36 sec)
+[2024.05.31-19.07.17:335][549]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    1 times, average 0.18 sec, max 0.18 sec, min 0.18 sec)
+[2024.05.31-19.07.17:335][549]LogShaderCompilers: Display: Top 4 shader types by total compile time:
+[2024.05.31-19.07.17:335][549]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 36.86% of total time (compiled    2 times, average 0.41 sec, max 0.42 sec, min 0.40 sec)
+[2024.05.31-19.07.17:335][549]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 36.32% of total time (compiled    2 times, average 0.40 sec, max 0.45 sec, min 0.36 sec)
+[2024.05.31-19.07.17:335][549]LogShaderCompilers: Display:                                                 FLumenCardVS - 18.80% of total time (compiled    1 times, average 0.41 sec, max 0.41 sec, min 0.41 sec)
+[2024.05.31-19.07.17:336][549]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 8.02% of total time (compiled    1 times, average 0.18 sec, max 0.18 sec, min 0.18 sec)
+[2024.05.31-19.07.17:336][549]LogShaderCompilers: Display: ================================================
+[2024.05.31-19.07.17:375][550]MaterialEditorStats: Base pass shader: 206 instructions
+[2024.05.31-19.07.17:375][550]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.05.31-19.07.17:375][550]MaterialEditorStats: Texture samplers: 5/16
+[2024.05.31-19.07.17:375][550]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.05.31-19.07.17:375][550]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.31-19.07.17:375][550]MaterialEditorStats: Shader Count: 4
+[2024.05.31-19.07.21:330][742]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.31-19.07.21:330][742]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.05.31-19.07.21:330][742]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.31-19.07.21:330][742]MaterialEditorStats: Shader Count: 0
+[2024.05.31-19.07.21:422][744]MaterialEditorStats: Base pass shader: 206 instructions
+[2024.05.31-19.07.21:423][744]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.05.31-19.07.21:423][744]MaterialEditorStats: Texture samplers: 5/16
+[2024.05.31-19.07.21:423][744]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.05.31-19.07.21:423][744]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.31-19.07.21:423][744]MaterialEditorStats: Shader Count: 4
+[2024.05.31-19.07.24:261][902]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.31-19.07.24:261][902]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.05.31-19.07.24:261][902]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.31-19.07.24:261][902]MaterialEditorStats: Shader Count: 0
+[2024.05.31-19.07.24:359][904]MaterialEditorStats: Base pass shader: 206 instructions
+[2024.05.31-19.07.24:359][904]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.05.31-19.07.24:359][904]MaterialEditorStats: Texture samplers: 5/16
+[2024.05.31-19.07.24:359][904]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.05.31-19.07.24:359][904]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.31-19.07.24:359][904]MaterialEditorStats: Shader Count: 4
+[2024.05.31-19.07.28:820][158]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.31-19.07.28:820][158]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.05.31-19.07.28:820][158]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.31-19.07.28:820][158]MaterialEditorStats: Shader Count: 0
+[2024.05.31-19.07.28:933][161]MaterialEditorStats: Base pass shader: 206 instructions
+[2024.05.31-19.07.28:933][161]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.05.31-19.07.28:933][161]MaterialEditorStats: Texture samplers: 5/16
+[2024.05.31-19.07.28:933][161]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.05.31-19.07.28:933][161]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.31-19.07.28:933][161]MaterialEditorStats: Shader Count: 4
+[2024.05.31-19.07.29:792][208]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.31-19.07.29:792][208]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.05.31-19.07.29:792][208]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.31-19.07.29:792][208]MaterialEditorStats: Shader Count: 0
+[2024.05.31-19.07.29:911][211]MaterialEditorStats: Base pass shader: 206 instructions
+[2024.05.31-19.07.29:911][211]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.05.31-19.07.29:911][211]MaterialEditorStats: Texture samplers: 5/16
+[2024.05.31-19.07.29:911][211]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.05.31-19.07.29:911][211]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.31-19.07.29:911][211]MaterialEditorStats: Shader Count: 4
+[2024.05.31-19.07.31:047][273]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.31-19.07.31:047][273]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.05.31-19.07.31:047][273]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.31-19.07.31:047][273]MaterialEditorStats: Shader Count: 0
+[2024.05.31-19.07.31:839][306]MaterialEditorStats: Texture samplers: 2/16
+[2024.05.31-19.07.31:839][306]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.05.31-19.07.31:839][306]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.31-19.07.31:839][306]MaterialEditorStats: Shader Count: 1
+[2024.05.31-19.07.32:013][307]MaterialEditorStats: Base pass shader: 200 instructions
+[2024.05.31-19.07.32:013][307]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.05.31-19.07.32:013][307]MaterialEditorStats: Texture samplers: 4/16
+[2024.05.31-19.07.32:013][307]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.05.31-19.07.32:013][307]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.31-19.07.32:013][307]MaterialEditorStats: Shader Count: 4
+[2024.05.31-19.07.40:815][766]LogMaterialEditor: Saving and Compiling material matRocks
+[2024.05.31-19.07.40:914][766]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2024.05.31-19.07.41:558][766]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2024.05.31-19.07.41:569][766]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.31-19.07.42:560][766]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/matRocks" FILE="D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/Materials/matRocks.uasset" SILENT=true
+[2024.05.31-19.07.42:563][766]LogSavePackage: Moving output files for package: /Game/Materials/matRocks
+[2024.05.31-19.07.42:563][766]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/matRocks19179AD641AFC2006E4E56BDA5AE6324.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/Materials/matRocks.uasset'
+[2024.05.31-19.07.42:571][766]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.00 sec (total: 2.10 sec)
+[2024.05.31-19.07.42:572][766]AssetCheck: New page: Asset Save: matRocks
+[2024.05.31-19.07.42:572][766]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Materials/matRocks.matRocks
+[2024.05.31-19.07.42:573][766]MaterialEditorStats: Base pass shader: 200 instructions
+[2024.05.31-19.07.42:573][766]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.05.31-19.07.42:573][766]MaterialEditorStats: MaxSampler: 263 instructions
+[2024.05.31-19.07.42:573][766]MaterialEditorStats: Texture samplers: 5/16
+[2024.05.31-19.07.42:573][766]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.05.31-19.07.42:573][766]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.31-19.07.42:573][766]MaterialEditorStats: Shader Count: 16
+[2024.05.31-19.07.51:784][162]LogSlate: Window 'Color Picker' being destroyed
+[2024.05.31-19.07.51:799][162]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.31-19.07.51:799][162]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.05.31-19.07.51:799][162]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.31-19.07.51:799][162]MaterialEditorStats: Shader Count: 0
+[2024.05.31-19.07.51:888][163]MaterialEditorStats: Base pass shader: 206 instructions
+[2024.05.31-19.07.51:888][163]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.05.31-19.07.51:888][163]MaterialEditorStats: Texture samplers: 5/16
+[2024.05.31-19.07.51:888][163]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.05.31-19.07.51:888][163]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.31-19.07.51:888][163]MaterialEditorStats: Shader Count: 4
+[2024.05.31-19.07.53:661][247]LogMaterialEditor: Saving and Compiling material matRocks
+[2024.05.31-19.07.53:723][247]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2024.05.31-19.07.54:251][247]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2024.05.31-19.07.54:261][247]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.31-19.07.55:193][247]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/matRocks" FILE="D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/Materials/matRocks.uasset" SILENT=true
+[2024.05.31-19.07.55:197][247]LogSavePackage: Moving output files for package: /Game/Materials/matRocks
+[2024.05.31-19.07.55:197][247]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/matRocks2CF6E44A40D17EC0B2EB5F8F58E42076.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/Materials/matRocks.uasset'
+[2024.05.31-19.07.55:204][247]LogFileHelpers: InternalPromptForCheckoutAndSave took 942 ms (total: 3.04 sec)
+[2024.05.31-19.07.55:205][247]AssetCheck: New page: Asset Save: matRocks
+[2024.05.31-19.07.55:205][247]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Materials/matRocks.matRocks
+[2024.05.31-19.07.55:206][247]MaterialEditorStats: Base pass shader: 206 instructions
+[2024.05.31-19.07.55:206][247]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.05.31-19.07.55:206][247]MaterialEditorStats: MaxSampler: 270 instructions
+[2024.05.31-19.07.55:206][247]MaterialEditorStats: Texture samplers: 6/16
+[2024.05.31-19.07.55:206][247]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.05.31-19.07.55:206][247]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.31-19.07.55:207][247]MaterialEditorStats: Shader Count: 16
+[2024.05.31-19.08.04:105][602]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.31-19.08.04:105][602]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.05.31-19.08.04:105][602]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.31-19.08.04:105][602]MaterialEditorStats: Shader Count: 0
+[2024.05.31-19.08.04:247][605]MaterialEditorStats: Base pass shader: 206 instructions
+[2024.05.31-19.08.04:247][605]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.05.31-19.08.04:247][605]MaterialEditorStats: Texture samplers: 5/16
+[2024.05.31-19.08.04:247][605]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.05.31-19.08.04:247][605]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.31-19.08.04:247][605]MaterialEditorStats: Shader Count: 4
+[2024.05.31-19.08.10:762][935]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.31-19.08.10:762][935]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.05.31-19.08.10:762][935]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.31-19.08.10:762][935]MaterialEditorStats: Shader Count: 0
+[2024.05.31-19.08.11:102][944]MaterialEditorStats: Texture samplers: 3/16
+[2024.05.31-19.08.11:102][944]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.05.31-19.08.11:102][944]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.31-19.08.11:102][944]MaterialEditorStats: Shader Count: 1
+[2024.05.31-19.08.11:277][952]MaterialEditorStats: Base pass shader: 209 instructions
+[2024.05.31-19.08.11:277][952]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.05.31-19.08.11:277][952]MaterialEditorStats: Texture samplers: 5/16
+[2024.05.31-19.08.11:277][952]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.05.31-19.08.11:277][952]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.31-19.08.11:277][952]MaterialEditorStats: Shader Count: 4
+[2024.05.31-19.08.18:033][222]LogSlate: Window 'Message' being destroyed
+[2024.05.31-19.08.18:040][222]Message dialog closed, result: Yes, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/Materials/matRocks.matRocks
+(Selecting 'No' will cause all changes to be lost!)
+[2024.05.31-19.08.18:101][222]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.05.31-19.08.18:639][222]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2024.05.31-19.08.18:658][222]LogSlate: Window 'matRocks' being destroyed
+[2024.05.31-19.08.18:660][222]LogSlate: Window 'matRocks' being destroyed
+[2024.05.31-19.08.18:682][222]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2024.05.31-19.08.18:682][222]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.31-19.08.38:278][379]LogContentBrowser: Deferred new asset file creation: matRocks_Inst
+[2024.05.31-19.08.38:304][379]LogContentBrowser: Creating deferred item: matRocks_Inst
+[2024.05.31-19.08.38:323][380]LogContentBrowser: Renaming the item being created (Deferred Item: matRocks_Inst).
+[2024.05.31-19.08.39:609][459]LogContentBrowser: Attempting asset rename: matRocks_Inst -> matRocks_Inst
+[2024.05.31-19.08.39:610][459]LogContentBrowser: End creating deferred item matRocks_Inst
+[2024.05.31-19.08.43:852][778]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.31-19.08.43:977][778]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Instances/matRocks_Inst" FILE="D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/Materials/Instances/matRocks_Inst.uasset" SILENT=true
+[2024.05.31-19.08.43:979][778]LogSavePackage: Moving output files for package: /Game/Materials/Instances/matRocks_Inst
+[2024.05.31-19.08.43:979][778]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/matRocks_Inst736F2A0340F06B1270E9AE9DD480AFC4.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/Materials/Instances/matRocks_Inst.uasset'
+[2024.05.31-19.08.43:987][778]LogFileHelpers: InternalPromptForCheckoutAndSave took 135 ms (total: 3.18 sec)
+[2024.05.31-19.08.43:996][778]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.05.31-19.08.44:005][778]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.05.31-19.08.44:010][778]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2024.05.31-19.08.44:024][778]AssetCheck: New page: Asset Save: matRocks_Inst
+[2024.05.31-19.08.44:024][778]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Materials/Instances/matRocks_Inst.matRocks_Inst
+[2024.05.31-19.09.19:181][975]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Materials/Instances/matRocks_Inst.matRocks_Inst
+[2024.05.31-19.09.19:184][975]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.31-19.09.19:184][975]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.31-19.09.19:434][975]LogViewport: Scene viewport resized to 744x998, mode Windowed.
+[2024.05.31-19.09.23:658][130]LogEditorViewport: Clicking Background
+[2024.05.31-19.09.47:314][588]LogSlate: Window 'Color Picker' being destroyed
+[2024.05.31-19.09.49:288][702]LogSlate: Window 'matRocks_Inst' being destroyed
+[2024.05.31-19.09.49:293][702]LogSlate: Window 'matRocks_Inst' being destroyed
+[2024.05.31-19.09.49:300][702]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.05.31-19.09.49:364][702]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.05.31-19.09.49:392][702]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2024.05.31-19.09.49:392][702]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.31-19.10.00:053][379]LogEditorViewport: Clicking Background
+[2024.05.31-19.10.05:892][762]LogEditorViewport: Clicking Background
+[2024.05.31-19.10.25:458][957]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Materials/Instances/matRocks_Inst.matRocks_Inst
+[2024.05.31-19.10.25:460][957]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.31-19.10.25:461][957]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.31-19.10.25:705][957]LogViewport: Scene viewport resized to 744x998, mode Windowed.
+[2024.05.31-19.10.47:353][268]LogSlate: Window 'Color Picker' being destroyed
+[2024.05.31-19.10.47:970][295]LogEditorViewport: Clicking Background
+[2024.05.31-19.10.52:172][549]LogSlate: Window 'matRocks_Inst' being destroyed
+[2024.05.31-19.10.52:178][549]LogSlate: Window 'matRocks_Inst' being destroyed
+[2024.05.31-19.10.52:186][549]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2024.05.31-19.10.52:274][549]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.05.31-19.10.52:300][549]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2024.05.31-19.10.52:300][549]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.31-19.10.56:280][778]LogShaderCompilers: Display: ================================================
+[2024.05.31-19.10.56:280][778]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.31-19.10.56:280][778]LogShaderCompilers: Display: Total job queries 264, among them cache hits 148 (56.06%)
+[2024.05.31-19.10.56:280][778]LogShaderCompilers: Display: Tracking 116 distinct input hashes that result in 77 distinct outputs (66.38%)
+[2024.05.31-19.10.56:280][778]LogShaderCompilers: Display: RAM used: 2,49 MiB of 1,60 GiB budget. Usage: 0.15%
+[2024.05.31-19.10.56:280][778]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.31-19.10.56:280][778]LogShaderCompilers: Display: Shaders Compiled: 42
+[2024.05.31-19.10.56:280][778]LogShaderCompilers: Display: Jobs assigned 42, completed 42 (100%)
+[2024.05.31-19.10.56:280][778]LogShaderCompilers: Display: Average time worker was idle: 290.16 s
+[2024.05.31-19.10.56:280][778]LogShaderCompilers: Display: Time job spent in pending queue: average 0.11 s, longest 0.54 s
+[2024.05.31-19.10.56:280][778]LogShaderCompilers: Display: Job execution time: average 0.49 s, max 0.88 s
+[2024.05.31-19.10.56:280][778]LogShaderCompilers: Display: Job life time (pending + execution): average 0.60 s, max 0.96
+[2024.05.31-19.10.56:280][778]LogShaderCompilers: Display: Shader code size: average 41,582 KiB, min 30,363 KiB, max 62,719 KiB
+[2024.05.31-19.10.56:280][778]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 5.50 s
+[2024.05.31-19.10.56:280][778]LogShaderCompilers: Display: Jobs were issued in 42 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.05.31-19.10.56:280][778]LogShaderCompilers: Display: Average processing rate: 7.64 jobs/sec
+[2024.05.31-19.10.56:280][778]LogShaderCompilers: Display: Total thread time: 14,094 s
+[2024.05.31-19.10.56:280][778]LogShaderCompilers: Display: Total thread preprocess time: 1,407 s
+[2024.05.31-19.10.56:280][778]LogShaderCompilers: Display: Percentage time preprocessing: 9.98%
+[2024.05.31-19.10.56:280][778]LogShaderCompilers: Display: Effective parallelization: 2.56 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.05.31-19.10.56:280][778]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.05.31-19.10.56:280][778]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    2 times, average 0.43 sec, max 0.44 sec, min 0.42 sec)
+[2024.05.31-19.10.56:281][778]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled    2 times, average 0.42 sec, max 0.43 sec, min 0.42 sec)
+[2024.05.31-19.10.56:281][778]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    2 times, average 0.42 sec, max 0.42 sec, min 0.41 sec)
+[2024.05.31-19.10.56:281][778]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    2 times, average 0.40 sec, max 0.41 sec, min 0.38 sec)
+[2024.05.31-19.10.56:281][778]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    2 times, average 0.39 sec, max 0.40 sec, min 0.39 sec)
+[2024.05.31-19.10.56:281][778]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.05.31-19.10.56:281][778]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 13.02% of total time (compiled    5 times, average 0.37 sec, max 0.45 sec, min 0.27 sec)
+[2024.05.31-19.10.56:281][778]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 12.88% of total time (compiled    5 times, average 0.36 sec, max 0.42 sec, min 0.31 sec)
+[2024.05.31-19.10.56:281][778]LogShaderCompilers: Display:                                                 FLumenCardVS - 7.51% of total time (compiled    3 times, average 0.35 sec, max 0.41 sec, min 0.31 sec)
+[2024.05.31-19.10.56:281][778]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight - 6.07% of total time (compiled    2 times, average 0.43 sec, max 0.44 sec, min 0.42 sec)
+[2024.05.31-19.10.56:281][778]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy - 5.98% of total time (compiled    2 times, average 0.42 sec, max 0.43 sec, min 0.42 sec)
+[2024.05.31-19.10.56:281][778]LogShaderCompilers: Display: ================================================
+[2024.05.31-19.10.59:131][929]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.05.31-19.11.00:535][929]LogSlate: Window 'Delete Assets' being destroyed
+[2024.05.31-19.11.00:552][929]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_04D9F51D251085FA01_1933745587 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/WQ/IY3Z5TPU2A6YZ6P58C5T49.PackageMetaData in its package
+[2024.05.31-19.11.00:552][929]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_04D9F51D251085FA01_1933639584 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/2U/GY3LFGS9J665VH175LK6CK.PackageMetaData in its package
+[2024.05.31-19.11.00:552][929]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_04D9F51D251085FA01_1933603583 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/E2/LME76FF32CLX1CHE5UUR2C.PackageMetaData in its package
+[2024.05.31-19.11.00:552][929]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_04D9F51D251085FA01_1933533581 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/IA/FJKCDAVO0N4IFI26S58MAB.PackageMetaData in its package
+[2024.05.31-19.11.00:552][929]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_04D9F51D251085FA01_1933710586 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/4Y/HNQJ9FMIIKKDEESLU8NEWF.PackageMetaData in its package
+[2024.05.31-19.11.00:552][929]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_04D9F51D251085FA01_1933497580 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/XI/14PH2SU6KORQTARX9FQQF2.PackageMetaData in its package
+[2024.05.31-19.11.00:552][929]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_04D9F51D251085FA01_1933568582 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/U4/QKQ7RORD9M02IS6178AGWH.PackageMetaData in its package
+[2024.05.31-19.11.00:552][929]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_04D9F51D251085FA01_1933675585 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/7H/ICEC0S26SR635N6CS5EGAC.PackageMetaData in its package
+[2024.05.31-19.11.00:553][929]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2024.05.31-19.11.00:560][929]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.05.31-19.11.00:565][929]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2024.05.31-19.11.00:574][929]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2024.05.31-19.11.03:549][ 93]LogEditorViewport: Clicking Background
+[2024.05.31-19.11.08:128][468]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2024.05.31-19.11.08:133][468]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.31-19.11.08:176][468]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/F4/IQOIG4M2G52U2Y549SIBA8
+[2024.05.31-19.11.08:176][468]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/IQOIG4M2G52U2Y549SIBA83D854BC549F33D43D76D7587193AB596.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/F4/IQOIG4M2G52U2Y549SIBA8.uasset'
+[2024.05.31-19.11.08:179][468]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/FE/SQNHYG9S0ISAERFMQS927M
+[2024.05.31-19.11.08:179][468]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/SQNHYG9S0ISAERFMQS927M1000768246B30B5BDF7120AB7F15733D.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/FE/SQNHYG9S0ISAERFMQS927M.uasset'
+[2024.05.31-19.11.08:181][468]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/36/WFYQKU3R1OYCZU3CMA4PHJ
+[2024.05.31-19.11.08:182][468]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/WFYQKU3R1OYCZU3CMA4PHJ05B8DD6F4B38B767A0495B9020BDC1CD.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/36/WFYQKU3R1OYCZU3CMA4PHJ.uasset'
+[2024.05.31-19.11.08:185][468]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/HU/A7IL7MX2D4Y36Q3AHZE6DW
+[2024.05.31-19.11.08:185][468]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/A7IL7MX2D4Y36Q3AHZE6DW4A82448A4C16633F39DFB389F1304A2C.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/HU/A7IL7MX2D4Y36Q3AHZE6DW.uasset'
+[2024.05.31-19.11.08:188][468]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/WO/7LBVD8SRW5MDX2LXDF6ST3
+[2024.05.31-19.11.08:188][468]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/7LBVD8SRW5MDX2LXDF6ST385CBC6C444B559E797EF8298EBCC581F.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/WO/7LBVD8SRW5MDX2LXDF6ST3.uasset'
+[2024.05.31-19.11.08:191][468]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/BT/C2HJBUEI4YNW8W8AJ6KD91
+[2024.05.31-19.11.08:191][468]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/C2HJBUEI4YNW8W8AJ6KD910A2DDDAD47512482BC3DF983F1ED61E2.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/BT/C2HJBUEI4YNW8W8AJ6KD91.uasset'
+[2024.05.31-19.11.08:194][468]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/IP/YU8GGFLDWPN5PMNBAAK1H0
+[2024.05.31-19.11.08:194][468]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/YU8GGFLDWPN5PMNBAAK1H0A0DD2E9240AF7B56A7B1AFB5650FF417.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/IP/YU8GGFLDWPN5PMNBAAK1H0.uasset'
+[2024.05.31-19.11.08:197][468]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/HE/GOY8043NB1JX3U6L29ZF57
+[2024.05.31-19.11.08:197][468]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/GOY8043NB1JX3U6L29ZF579B416F4F4800C2F08920FD9821CC24A9.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/HE/GOY8043NB1JX3U6L29ZF57.uasset'
+[2024.05.31-19.11.08:200][468]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/T0/HBNNGV5IZBXUZEKH5H474R
+[2024.05.31-19.11.08:201][468]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/HBNNGV5IZBXUZEKH5H474R8C80EB96476A05093D42A79FAE5A1D41.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/T0/HBNNGV5IZBXUZEKH5H474R.uasset'
+[2024.05.31-19.11.08:203][468]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/0K/X9JYF6UVQST5X4XXIFMMD1
+[2024.05.31-19.11.08:204][468]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/X9JYF6UVQST5X4XXIFMMD136AE263B47D4F5561287018F7900D006.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/0K/X9JYF6UVQST5X4XXIFMMD1.uasset'
+[2024.05.31-19.11.08:206][468]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DC/0F685N7XVNVKU9U6Y85TR2
+[2024.05.31-19.11.08:207][468]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/0F685N7XVNVKU9U6Y85TR28A8B11F04E89BB75D259E0A6E8C0ADF4.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DC/0F685N7XVNVKU9U6Y85TR2.uasset'
+[2024.05.31-19.11.09:314][468]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/matRocks" FILE="D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/Materials/matRocks.uasset" SILENT=true
+[2024.05.31-19.11.09:317][468]LogSavePackage: Moving output files for package: /Game/Materials/matRocks
+[2024.05.31-19.11.09:318][468]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/matRocks02B6E8C843A6F57AC1DDE89D181A9028.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/Materials/matRocks.uasset'
+[2024.05.31-19.11.09:319][468]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/envRocks_D_02" FILE="D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/Textures/envRocks_D_02.uasset" SILENT=true
+[2024.05.31-19.11.09:413][468]LogSavePackage: Moving output files for package: /Game/Textures/envRocks_D_02
+[2024.05.31-19.11.09:414][468]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/envRocks_D_02E128FC5645F94AEC90F96A9C6908DBF5.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/Textures/envRocks_D_02.uasset'
+[2024.05.31-19.11.09:428][468]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.29 sec (total: 4.47 sec)
+[2024.05.31-19.11.09:436][468]AssetCheck: New page: Asset Save: multiple assets
+[2024.05.31-19.11.09:436][468]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_04D9F51D2510DFFA01_2055185408
+[2024.05.31-19.11.09:436][468]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_04D9F51D2510E0FA01_1182927586
+[2024.05.31-19.11.09:436][468]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_04D9F51D2510E1FA01_1515780759
+[2024.05.31-19.11.09:436][468]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_04D9F51D2510E1FA01_1653026760
+[2024.05.31-19.11.09:437][468]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_04D9F51D2510E1FA01_1720657761
+[2024.05.31-19.11.09:437][468]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_04D9F51D2510E0FA01_1157668585
+[2024.05.31-19.11.09:437][468]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_04D9F51D2510E1FA01_1738712762
+[2024.05.31-19.11.09:437][468]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_04D9F51D2510E1FA01_1897008763
+[2024.05.31-19.11.09:437][468]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_04D9F51D2510E2FA01_1225115943
+[2024.05.31-19.11.09:437][468]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_04D9F51D2510E1FA01_2140411765
+[2024.05.31-19.11.09:437][468]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_04D9F51D2510E2FA01_1165596942
+[2024.05.31-19.11.09:437][468]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Materials/matRocks.matRocks
+[2024.05.31-19.11.09:437][468]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Textures/envRocks_D_02.envRocks_D_02
+[2024.05.31-19.11.12:275][671]LogEditorViewport: Clicking Background
