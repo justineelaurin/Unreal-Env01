@@ -2563,3 +2563,596 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.06.04-18.21.39:410][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
 [2024.06.04-18.21.39:416][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
 [2024.06.04-18.21.39:423][ 94]LogFileHelpers: InternalPromptForCheckoutAndSave took 85 ms (total: 4.55 sec)
+[2024.06.04-18.25.28:333][988]LogEditorViewport: Clicking Background
+[2024.06.04-18.25.37:976][275]LogEditorViewport: Clicking Background
+[2024.06.04-18.26.33:760][149]LogWindows: LaunchFileInExternalEditor D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/Textures/leaf_Opacity01.tga 
+[2024.06.04-18.26.33:814][149]LogWindows: Launch application code for D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/Textures/leaf_Opacity01.tga : 42
+[2024.06.04-18.26.58:577][179]LogEditorFactories: Display: Exporting Texture as PNG Layer 0/1 Block 0/1
+[2024.06.04-18.49.22:537][643]AssetReimport: New page: Outstanding source content changes 10 h 49 min 22 s
+[2024.06.04-18.49.22:579][644]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/Textures/Leaf_04.png)
+[2024.06.04-18.49.22:596][644]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.04-18.49.22:798][644]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Leaf_04" FILE="D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/Textures/Leaf_04.uasset" SILENT=true
+[2024.06.04-18.49.22:804][644]LogSavePackage: Moving output files for package: /Game/Textures/Leaf_04
+[2024.06.04-18.49.22:804][644]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/Leaf_0409241BFC4D4C2AE5A1C3529F00939E3C.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/Textures/Leaf_04.uasset'
+[2024.06.04-18.49.22:912][644]LogFileHelpers: InternalPromptForCheckoutAndSave took 315 ms (total: 4.87 sec)
+[2024.06.04-18.49.22:968][645]AssetCheck: New page: Asset Save: Leaf_04
+[2024.06.04-18.49.22:968][645]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Textures/Leaf_04.Leaf_04
+[2024.06.04-18.49.25:913][826]AssetReimport: Importing new asset /Game/Textures/Leaf_04.
+[2024.06.04-18.49.30:483][ 84]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Materials/Instances/matTree_Leaves_02_Inst.matTree_Leaves_02_Inst
+[2024.06.04-18.49.30:485][ 84]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.04-18.49.30:485][ 84]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.04-18.49.30:744][ 84]LogViewport: Scene viewport resized to 157x924, mode Windowed.
+[2024.06.04-18.49.38:158][472]LogEditorViewport: Clicking Background
+[2024.06.04-18.49.48:013][ 93]Cmd: TRANSACTION UNDO
+[2024.06.04-18.49.48:013][ 93]LogEditorTransaction: Undo Edit Opacity Mask
+[2024.06.04-18.49.48:707][112]Cmd: TRANSACTION UNDO
+[2024.06.04-18.49.48:707][112]LogEditorTransaction: Undo Edit Opacity Mask
+[2024.06.04-18.49.49:284][141]Cmd: TRANSACTION UNDO
+[2024.06.04-18.49.49:284][141]LogEditorTransaction: Undo Clicking Background
+[2024.06.04-18.49.49:987][173]Cmd: TRANSACTION UNDO
+[2024.06.04-18.49.49:988][173]LogEditorTransaction: Undo Edit Opacity Mask
+[2024.06.04-18.49.54:980][448]LogEditorViewport: Clicking Background
+[2024.06.04-18.49.57:191][584]Cmd: TRANSACTION UNDO
+[2024.06.04-18.49.57:191][584]LogEditorTransaction: Undo Clicking Background
+[2024.06.04-18.49.57:871][599]Cmd: TRANSACTION UNDO
+[2024.06.04-18.49.57:871][599]LogEditorTransaction: Undo Edit Opacity Mask
+[2024.06.04-18.49.59:448][683]LogSlate: Window 'matTree_Leaves_02_Inst' being destroyed
+[2024.06.04-18.49.59:454][683]LogSlate: Window 'matTree_Leaves_02_Inst' being destroyed
+[2024.06.04-18.49.59:476][683]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2024.06.04-18.49.59:476][683]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.04-18.49.59:833][703]LogEditorViewport: Clicking Background
+[2024.06.04-18.50.05:558][ 47]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Materials/Instances/matTree_Leaves_03_Inst.matTree_Leaves_03_Inst
+[2024.06.04-18.50.05:561][ 47]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.04-18.50.05:561][ 47]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.04-18.50.05:836][ 47]LogViewport: Scene viewport resized to 157x924, mode Windowed.
+[2024.06.04-18.50.12:445][428]Cmd: TRANSACTION UNDO
+[2024.06.04-18.50.12:446][428]LogEditorTransaction: Undo Edit Opacity Mask
+[2024.06.04-18.50.14:021][496]LogSlate: Window 'matTree_Leaves_03_Inst' being destroyed
+[2024.06.04-18.50.14:027][496]LogSlate: Window 'matTree_Leaves_03_Inst' being destroyed
+[2024.06.04-18.50.14:047][496]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2024.06.04-18.50.14:047][496]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.04-18.50.19:018][774]LogContentBrowser: Deferred new asset file creation: matTree_Leaves_02_Inst1
+[2024.06.04-18.50.19:031][774]LogContentBrowser: Creating deferred item: matTree_Leaves_02_Inst1
+[2024.06.04-18.50.19:054][775]LogContentBrowser: Renaming the item being created (Deferred Item: matTree_Leaves_02_Inst1).
+[2024.06.04-18.50.26:492][531]LogContentBrowser: Attempting asset rename: matTree_Leaves_02_Inst1 -> matTree_Leaves_04_Inst
+[2024.06.04-18.50.26:493][531]LogContentBrowser: End creating deferred item matTree_Leaves_02_Inst1
+[2024.06.04-18.50.29:003][666]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Materials/Instances/matTree_Leaves_04_Inst.matTree_Leaves_04_Inst
+[2024.06.04-18.50.29:005][666]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.04-18.50.29:005][666]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.04-18.50.29:271][666]LogViewport: Scene viewport resized to 157x924, mode Windowed.
+[2024.06.04-18.50.34:037][943]LogSlate: Window 'matTree_Leaves_04_Inst' being destroyed
+[2024.06.04-18.50.34:044][943]LogSlate: Window 'matTree_Leaves_04_Inst' being destroyed
+[2024.06.04-18.50.34:054][943]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2024.06.04-18.50.34:118][943]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.06.04-18.50.34:146][943]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2024.06.04-18.50.34:146][943]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.04-18.50.48:734][879]LogEditorViewport: Clicking Background
+[2024.06.04-18.50.53:517][221]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Materials/Instances/matTree_Leaves_04_Inst.matTree_Leaves_04_Inst
+[2024.06.04-18.50.53:520][221]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.04-18.50.53:520][221]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.04-18.50.53:772][221]LogViewport: Scene viewport resized to 157x924, mode Windowed.
+[2024.06.04-18.51.17:412][178]LogSlate: Window 'Color Picker' being destroyed
+[2024.06.04-18.51.42:937][555]LogSlate: Window 'Color Picker' being destroyed
+[2024.06.04-18.51.56:762][353]LogSlate: Window 'Color Picker' being destroyed
+[2024.06.04-18.51.59:675][544]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.04-18.51.59:793][544]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.06.04-18.51.59:802][544]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2024.06.04-18.51.59:805][544]LogSavePackage: Moving output files for package: /Game/Materials/Instances/matTree_Leaves_04_Inst
+[2024.06.04-18.51.59:805][544]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/matTree_Leaves_04_InstFE66724F44C9FEADA511C793D7A3E193.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/Materials/Instances/matTree_Leaves_04_Inst.uasset'
+[2024.06.04-18.51.59:813][544]LogFileHelpers: InternalPromptForCheckoutAndSave took 137 ms (total: 5.00 sec)
+[2024.06.04-18.51.59:814][544]AssetCheck: New page: Asset Save: matTree_Leaves_04_Inst
+[2024.06.04-18.51.59:814][544]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Materials/Instances/matTree_Leaves_04_Inst.matTree_Leaves_04_Inst
+[2024.06.04-18.52.01:545][635]LogSlate: Window 'matTree_Leaves_04_Inst' being destroyed
+[2024.06.04-18.52.01:550][635]LogSlate: Window 'matTree_Leaves_04_Inst' being destroyed
+[2024.06.04-18.52.01:571][635]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2024.06.04-18.52.01:572][635]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.04-18.52.11:558][256]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/envTree_04_Leaves.envTree_04_Leaves
+[2024.06.04-18.52.11:558][256]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/envTree_04_Leaves.envTree_04_Leaves
+[2024.06.04-18.52.11:558][256]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/envTree_04_Leaves.envTree_04_Leaves as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_6
+[2024.06.04-18.52.28:337][355]Cmd: TRANSACTION UNDO
+[2024.06.04-18.52.28:337][355]LogEditorTransaction: Undo Rotate Elements
+[2024.06.04-18.52.39:504][ 63]Cmd: TRANSACTION UNDO
+[2024.06.04-18.52.39:504][ 63]LogEditorTransaction: Undo Edit Static Mesh
+[2024.06.04-18.52.53:537][928]LogEditorViewport: Clicking Background
+[2024.06.04-18.53.15:731][374]LogEditorViewport: Clicking Background
+[2024.06.04-18.53.19:087][599]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.06.04-18.53.25:726][950]Cmd: TRANSACTION UNDO
+[2024.06.04-18.53.25:726][950]LogEditorTransaction: Undo Move Elements
+[2024.06.04-18.53.26:277][959]Cmd: TRANSACTION UNDO
+[2024.06.04-18.53.26:277][959]LogEditorTransaction: Undo Rotate Elements
+[2024.06.04-18.53.35:035][462]LogEditorViewport: Clicking Background
+[2024.06.04-18.53.51:941][648]Cmd: TRANSACTION UNDO
+[2024.06.04-18.53.51:941][648]LogEditorTransaction: Undo Set Location
+[2024.06.04-18.53.55:388][842]LogEditorViewport: Clicking Background
+[2024.06.04-18.53.59:285][109]LogEditorViewport: Clicking Background
+[2024.06.04-18.54.00:133][148]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.06.04-18.54.07:189][576]LogEditorViewport: Clicking Background
+[2024.06.04-18.54.11:068][836]Cmd: TRANSACTION UNDO
+[2024.06.04-18.54.11:068][836]LogEditorTransaction: Undo Set Location
+[2024.06.04-18.54.22:393][523]Cmd: TRANSACTION UNDO
+[2024.06.04-18.54.22:393][523]LogEditorTransaction: Undo Move Elements
+[2024.06.04-18.54.28:334][875]LogEditorViewport: Clicking Background
+[2024.06.04-18.54.34:056][247]LogEditorViewport: Clicking Background
+[2024.06.04-18.54.40:028][652]Cmd: TRANSACTION UNDO
+[2024.06.04-18.54.40:028][652]LogEditorTransaction: Undo Set Location
+[2024.06.04-18.54.42:753][805]Cmd: TRANSACTION UNDO
+[2024.06.04-18.54.42:753][805]LogEditorTransaction: Undo Set Rotation
+[2024.06.04-18.54.45:267][990]Cmd: TRANSACTION UNDO
+[2024.06.04-18.54.45:268][990]LogEditorTransaction: Undo Set Rotation
+[2024.06.04-18.54.51:011][396]LogEditorViewport: Clicking Background
+[2024.06.04-18.54.51:775][440]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.06.04-18.54.59:644][934]LogEditorViewport: Clicking Background
+[2024.06.04-18.55.01:818][ 79]LogEditorViewport: Clicking Background
+[2024.06.04-18.55.22:281][416]LogEditorViewport: Clicking Background
+[2024.06.04-18.55.31:587][ 14]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.06.04-18.55.39:439][486]LogEditorViewport: Clicking Background
+[2024.06.04-18.55.46:052][924]Cmd: TRANSACTION UNDO
+[2024.06.04-18.55.46:052][924]LogEditorTransaction: Undo Move Elements
+[2024.06.04-18.55.49:469][116]Cmd: DUPLICATE
+[2024.06.04-18.55.49:469][116]Cmd: ACTOR DUPLICATE
+[2024.06.04-18.56.00:402][611]Cmd: TRANSACTION UNDO
+[2024.06.04-18.56.00:402][611]LogEditorTransaction: Undo Move Elements
+[2024.06.04-18.56.06:446][968]Cmd: TRANSACTION UNDO
+[2024.06.04-18.56.06:446][968]LogEditorTransaction: Undo Rotate Elements
+[2024.06.04-18.56.30:005][296]Cmd: TRANSACTION UNDO
+[2024.06.04-18.56.30:005][296]LogEditorTransaction: Undo Set Location
+[2024.06.04-18.56.46:043][309]LogEditorViewport: Clicking Background
+[2024.06.04-18.56.58:954][921]Cmd: DUPLICATE
+[2024.06.04-18.56.58:954][921]Cmd: ACTOR DUPLICATE
+[2024.06.04-18.57.32:194][989]Cmd: TRANSACTION UNDO
+[2024.06.04-18.57.32:194][989]LogEditorTransaction: Undo Move Elements
+[2024.06.04-18.57.34:863][130]LogEditorViewport: Clicking Background
+[2024.06.04-18.57.40:318][508]Cmd: TRANSACTION UNDO
+[2024.06.04-18.57.40:318][508]LogEditorTransaction: Undo Clicking on Elements
+[2024.06.04-18.57.40:960][524]Cmd: TRANSACTION UNDO
+[2024.06.04-18.57.40:960][524]LogEditorTransaction: Undo Clicking Background
+[2024.06.04-18.57.41:441][549]Cmd: TRANSACTION UNDO
+[2024.06.04-18.57.41:441][549]LogEditorTransaction: Undo Move Elements
+[2024.06.04-18.57.52:882][265]Cmd: TRANSACTION UNDO
+[2024.06.04-18.57.52:882][265]LogEditorTransaction: Undo Set Location
+[2024.06.04-18.58.03:173][903]LogEditorViewport: Clicking Background
+[2024.06.04-18.58.13:753][606]Cmd: TRANSACTION UNDO
+[2024.06.04-18.58.13:753][606]LogEditorTransaction: Undo Move Elements
+[2024.06.04-18.58.14:838][651]LogEditorViewport: Clicking Background
+[2024.06.04-18.58.19:927][971]LogEditorViewport: Clicking Background
+[2024.06.04-18.58.26:484][416]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.06.04-18.58.29:830][598]Cmd: TRANSACTION UNDO
+[2024.06.04-18.58.29:831][598]LogEditorTransaction: Undo Move Elements
+[2024.06.04-18.58.32:601][729]Cmd: TRANSACTION UNDO
+[2024.06.04-18.58.32:601][729]LogEditorTransaction: Undo Scale Elements
+[2024.06.04-18.58.35:723][891]Cmd: TRANSACTION UNDO
+[2024.06.04-18.58.35:724][891]LogEditorTransaction: Undo Scale Elements
+[2024.06.04-18.58.44:666][402]LogEditorViewport: Clicking Background
+[2024.06.04-18.58.49:015][677]LogEditorViewport: Clicking Background
+[2024.06.04-18.59.07:391][895]LogEditorViewport: Clicking Background
+[2024.06.04-18.59.14:276][370]Cmd: DUPLICATE
+[2024.06.04-18.59.14:276][370]Cmd: ACTOR DUPLICATE
+[2024.06.04-18.59.25:472][ 71]Cmd: DUPLICATE
+[2024.06.04-18.59.25:472][ 71]Cmd: ACTOR DUPLICATE
+[2024.06.04-18.59.32:790][523]Cmd: DUPLICATE
+[2024.06.04-18.59.32:790][523]Cmd: ACTOR DUPLICATE
+[2024.06.04-18.59.40:439][991]LogEditorViewport: Clicking Background
+[2024.06.04-18.59.44:216][234]LogEditorViewport: Clicking Background
+[2024.06.04-18.59.45:608][322]Cmd: DUPLICATE
+[2024.06.04-18.59.45:608][322]Cmd: ACTOR DUPLICATE
+[2024.06.04-18.59.52:752][766]Cmd: DUPLICATE
+[2024.06.04-18.59.52:752][766]Cmd: ACTOR DUPLICATE
+[2024.06.04-18.59.56:049][962]LogDerivedDataCache: C:/Users/justinel/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:11.178 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 5715 files in 7823 folders with total size 293 MiB.
+[2024.06.04-19.00.00:188][218]LogEditorViewport: Clicking Background
+[2024.06.04-19.00.05:432][563]LogEditorViewport: Clicking Background
+[2024.06.04-19.00.12:319][ 15]LogEditorViewport: Clicking Background
+[2024.06.04-19.00.19:211][437]LogEditorViewport: Clicking Background
+[2024.06.04-19.00.24:032][765]Cmd: DUPLICATE
+[2024.06.04-19.00.24:032][765]Cmd: ACTOR DUPLICATE
+[2024.06.04-19.00.33:314][330]LogEditorViewport: Clicking Background
+[2024.06.04-19.00.36:099][515]Cmd: DUPLICATE
+[2024.06.04-19.00.36:099][515]Cmd: ACTOR DUPLICATE
+[2024.06.04-19.00.36:099][515]LogConsoleManager: Warning: Performance warning: Many (31) failed FindConsoleObject() for 'ACTOR'. 
+[2024.06.04-19.00.54:582][739]LogEditorViewport: Clicking Background
+[2024.06.04-19.00.55:998][829]Cmd: DUPLICATE
+[2024.06.04-19.00.55:998][829]Cmd: ACTOR DUPLICATE
+[2024.06.04-19.01.04:160][324]LogEditorViewport: Clicking Background
+[2024.06.04-19.01.10:636][742]Cmd: DUPLICATE
+[2024.06.04-19.01.10:636][742]Cmd: ACTOR DUPLICATE
+[2024.06.04-19.01.24:693][643]LogEditorViewport: Clicking Background
+[2024.06.04-19.01.31:686][ 82]LogEditorViewport: Clicking Background
+[2024.06.04-19.01.32:610][144]Cmd: TRANSACTION UNDO
+[2024.06.04-19.01.32:610][144]LogEditorTransaction: Undo Clicking Background
+[2024.06.04-19.01.33:911][200]LogEditorViewport: Clicking Background
+[2024.06.04-19.01.34:805][260]Cmd: TRANSACTION UNDO
+[2024.06.04-19.01.34:805][260]LogEditorTransaction: Undo Clicking Background
+[2024.06.04-19.01.43:256][781]LogEditorViewport: Clicking Background
+[2024.06.04-19.01.59:064][723]LogEditorViewport: Clicking Background
+[2024.06.04-19.02.02:803][953]LogEditorViewport: Clicking Background
+[2024.06.04-19.02.09:079][374]Cmd: DUPLICATE
+[2024.06.04-19.02.09:079][374]Cmd: ACTOR DUPLICATE
+[2024.06.04-19.02.17:699][913]LogEditorViewport: Clicking Background
+[2024.06.04-19.02.21:984][197]Cmd: DUPLICATE
+[2024.06.04-19.02.21:984][197]Cmd: ACTOR DUPLICATE
+[2024.06.04-19.02.40:612][331]LogEditorViewport: Clicking Background
+[2024.06.04-19.02.47:182][773]Cmd: DUPLICATE
+[2024.06.04-19.02.47:182][773]Cmd: ACTOR DUPLICATE
+[2024.06.04-19.02.58:891][510]LogEditorViewport: Clicking Background
+[2024.06.04-19.03.04:869][869]LogEditorViewport: Clicking Background
+[2024.06.04-19.03.10:586][232]LogEditorViewport: Clicking Background
+[2024.06.04-19.04.04:077][929]LogEditorViewport: Clicking Background
+[2024.06.04-19.04.07:654][208]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.06.04-19.04.07:665][208]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.04-19.04.07:717][208]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/F4/IQOIG4M2G52U2Y549SIBA8
+[2024.06.04-19.04.07:718][208]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/IQOIG4M2G52U2Y549SIBA877E40D17477453C55F06B08577AC6A70.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/F4/IQOIG4M2G52U2Y549SIBA8.uasset'
+[2024.06.04-19.04.07:720][208]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/PF/SQMHVW6LDGQC42E8N4X75S
+[2024.06.04-19.04.07:720][208]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/SQMHVW6LDGQC42E8N4X75S5C82151A45A1486F9BBDCEAA6E23FC92.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/PF/SQMHVW6LDGQC42E8N4X75S.uasset'
+[2024.06.04-19.04.07:723][208]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/IP/YU8GGFLDWPN5PMNBAAK1H0
+[2024.06.04-19.04.07:724][208]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/YU8GGFLDWPN5PMNBAAK1H093DC738B486FC0A50F2EC3818BF5E5F2.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/IP/YU8GGFLDWPN5PMNBAAK1H0.uasset'
+[2024.06.04-19.04.07:726][208]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/HE/GOY8043NB1JX3U6L29ZF57
+[2024.06.04-19.04.07:727][208]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/GOY8043NB1JX3U6L29ZF57EB2B866A4FD9A68CCE7739B538880C36.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/HE/GOY8043NB1JX3U6L29ZF57.uasset'
+[2024.06.04-19.04.07:734][208]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/BL/703YARPISP5L29DTQE1LX1
+[2024.06.04-19.04.07:735][208]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/703YARPISP5L29DTQE1LX1D2071D3E47A655E4EBED7CB9655AF408.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/BL/703YARPISP5L29DTQE1LX1.uasset'
+[2024.06.04-19.04.07:737][208]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/HU/A7IL7MX2D4Y36Q3AHZE6DW
+[2024.06.04-19.04.07:737][208]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/A7IL7MX2D4Y36Q3AHZE6DW8DF67AF04C28414FCF4BA3B09771AF29.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/HU/A7IL7MX2D4Y36Q3AHZE6DW.uasset'
+[2024.06.04-19.04.07:740][208]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/BT/C2HJBUEI4YNW8W8AJ6KD91
+[2024.06.04-19.04.07:741][208]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/C2HJBUEI4YNW8W8AJ6KD91B556CE6442E1010604DB0F9BB8690391.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/BT/C2HJBUEI4YNW8W8AJ6KD91.uasset'
+[2024.06.04-19.04.07:743][208]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/WO/7LBVD8SRW5MDX2LXDF6ST3
+[2024.06.04-19.04.07:744][208]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/7LBVD8SRW5MDX2LXDF6ST30196796344538B3EF64915A762B10762.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/WO/7LBVD8SRW5MDX2LXDF6ST3.uasset'
+[2024.06.04-19.04.07:746][208]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/0V/VBOI8PX72NWR6FCIQWTSBJ
+[2024.06.04-19.04.07:747][208]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/VBOI8PX72NWR6FCIQWTSBJC16DA1574F9A575203A785A779DE7333.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/0V/VBOI8PX72NWR6FCIQWTSBJ.uasset'
+[2024.06.04-19.04.07:749][208]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/36/WFYQKU3R1OYCZU3CMA4PHJ
+[2024.06.04-19.04.07:750][208]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/WFYQKU3R1OYCZU3CMA4PHJ218FF5BA490F0B1886161AAAE2BE04F1.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/36/WFYQKU3R1OYCZU3CMA4PHJ.uasset'
+[2024.06.04-19.04.07:753][208]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/8N/AXSSS41D0XLB618E3C3C7U
+[2024.06.04-19.04.07:754][208]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/AXSSS41D0XLB618E3C3C7UAE56E95C4EF319E0D1086DBF6376B9E8.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/8N/AXSSS41D0XLB618E3C3C7U.uasset'
+[2024.06.04-19.04.07:756][208]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/T0/HBNNGV5IZBXUZEKH5H474R
+[2024.06.04-19.04.07:757][208]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/HBNNGV5IZBXUZEKH5H474R20715FEC4CE04E79C9827FA3FFA79E2F.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/T0/HBNNGV5IZBXUZEKH5H474R.uasset'
+[2024.06.04-19.04.07:759][208]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/P3/215TXX7JTT2XVJFUHOCZS6
+[2024.06.04-19.04.07:759][208]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/215TXX7JTT2XVJFUHOCZS6EE6EB7364528975C2B5F4E8C69BF34AA.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/P3/215TXX7JTT2XVJFUHOCZS6.uasset'
+[2024.06.04-19.04.07:762][208]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/SV/T4KDGAS3R07DU270M1DVTV
+[2024.06.04-19.04.07:763][208]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/T4KDGAS3R07DU270M1DVTV9E18A8454ABFF56995EC7DB7365CAE25.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/SV/T4KDGAS3R07DU270M1DVTV.uasset'
+[2024.06.04-19.04.07:766][208]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/GC/X39EG6X1VL6CT42DF0QX3J
+[2024.06.04-19.04.07:766][208]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/X39EG6X1VL6CT42DF0QX3J97D1B16646028942FC76748E81184054.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/GC/X39EG6X1VL6CT42DF0QX3J.uasset'
+[2024.06.04-19.04.07:769][208]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DC/0F685N7XVNVKU9U6Y85TR2
+[2024.06.04-19.04.07:769][208]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/0F685N7XVNVKU9U6Y85TR24EBC90A849D18B11924A80A991C670FE.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DC/0F685N7XVNVKU9U6Y85TR2.uasset'
+[2024.06.04-19.04.07:772][208]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/0K/X9JYF6UVQST5X4XXIFMMD1
+[2024.06.04-19.04.07:773][208]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/X9JYF6UVQST5X4XXIFMMD109BC47B146AB407C33EC4DB1A3402BCF.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/0K/X9JYF6UVQST5X4XXIFMMD1.uasset'
+[2024.06.04-19.04.07:775][208]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/SE/3GZW1OQD47PXVX76J8KJCR
+[2024.06.04-19.04.07:776][208]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/3GZW1OQD47PXVX76J8KJCR3BF472764E9E6A2964389BA1D487F435.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/SE/3GZW1OQD47PXVX76J8KJCR.uasset'
+[2024.06.04-19.04.07:778][208]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/GC/590KUAUQLZ22W6RQQGZBKU
+[2024.06.04-19.04.07:779][208]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/590KUAUQLZ22W6RQQGZBKU806CBB3443D73C4B940B298212E73D66.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/GC/590KUAUQLZ22W6RQQGZBKU.uasset'
+[2024.06.04-19.04.07:781][208]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/T6/LJ1U4C0UQT3B91E5J1TFH9
+[2024.06.04-19.04.07:782][208]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/LJ1U4C0UQT3B91E5J1TFH9543808694DDA233F7C35A48ED5488E75.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/T6/LJ1U4C0UQT3B91E5J1TFH9.uasset'
+[2024.06.04-19.04.07:784][208]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/LE/RXLTNQXE04YMYQWZ3UWOY6
+[2024.06.04-19.04.07:784][208]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/RXLTNQXE04YMYQWZ3UWOY62FFBCF3D447C215D18F8E692D7E6B950.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/LE/RXLTNQXE04YMYQWZ3UWOY6.uasset'
+[2024.06.04-19.04.07:788][208]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/QB/ZAAIRHPWFDV1I5SG9FA8Z2
+[2024.06.04-19.04.07:789][208]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/ZAAIRHPWFDV1I5SG9FA8Z23E57C43B4E84E846D4FB6E8F4D77B5F1.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/QB/ZAAIRHPWFDV1I5SG9FA8Z2.uasset'
+[2024.06.04-19.04.07:791][208]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/85/M7FEX2FTQSCIEF3AZSLE83
+[2024.06.04-19.04.07:792][208]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/M7FEX2FTQSCIEF3AZSLE838DE994F9476734933EBE439EBEF3A2BD.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/85/M7FEX2FTQSCIEF3AZSLE83.uasset'
+[2024.06.04-19.04.07:794][208]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/LU/5M1A1JA7VM2VEW6UXT64TF
+[2024.06.04-19.04.07:794][208]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/5M1A1JA7VM2VEW6UXT64TF5C6C71FB4CA73206F50BE4B7230C871D.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/LU/5M1A1JA7VM2VEW6UXT64TF.uasset'
+[2024.06.04-19.04.07:797][208]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/AF/0DPBNVR01517KVNYA3KREX
+[2024.06.04-19.04.07:797][208]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/0DPBNVR01517KVNYA3KREX71CF0EDB4AC3B114D5FD12A2344D8298.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/AF/0DPBNVR01517KVNYA3KREX.uasset'
+[2024.06.04-19.04.07:800][208]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/MU/HUNVXJ7EKH8L7LTOPTAXP0
+[2024.06.04-19.04.07:800][208]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/HUNVXJ7EKH8L7LTOPTAXP05BEE41A04458375A2E3FC9B28FEA930A.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/MU/HUNVXJ7EKH8L7LTOPTAXP0.uasset'
+[2024.06.04-19.04.07:803][208]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/DI/YF67TPVVR2WV4FAACQJ55G
+[2024.06.04-19.04.07:803][208]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/YF67TPVVR2WV4FAACQJ55GCF08CFAE4B775D437D0F41907DDA6E6D.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/DI/YF67TPVVR2WV4FAACQJ55G.uasset'
+[2024.06.04-19.04.07:805][208]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/U5/DS4H0EX6PORSXZ5FJ7VB0O
+[2024.06.04-19.04.07:806][208]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/DS4H0EX6PORSXZ5FJ7VB0OAE3E6BB54C756EE205705C85BFBD14F2.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/U5/DS4H0EX6PORSXZ5FJ7VB0O.uasset'
+[2024.06.04-19.04.07:813][208]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/7/S4/741E1UH1PPTBJCWF1LFDAI
+[2024.06.04-19.04.07:813][208]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/741E1UH1PPTBJCWF1LFDAIE5C3FF7F4AE45717BBC5A394E2AB3F5A.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/7/S4/741E1UH1PPTBJCWF1LFDAI.uasset'
+[2024.06.04-19.04.07:817][208]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/H3/VG1LOD75JIPYQK7RXGFP9L
+[2024.06.04-19.04.07:817][208]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/VG1LOD75JIPYQK7RXGFP9LAB23C20743ED9BE66BC324A3A4A8B5FC.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/H3/VG1LOD75JIPYQK7RXGFP9L.uasset'
+[2024.06.04-19.04.07:819][208]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/RD/TCMRKYBAAZKY2672EO143G
+[2024.06.04-19.04.07:819][208]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/TCMRKYBAAZKY2672EO143G69582C7749EE3D83B27EB3A9B079BD4C.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/RD/TCMRKYBAAZKY2672EO143G.uasset'
+[2024.06.04-19.04.07:822][208]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/ZB/TSU6ICC2KLT39HHSVP0N1I
+[2024.06.04-19.04.07:822][208]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/TSU6ICC2KLT39HHSVP0N1I354BDDAF457F90F278874D8963D18B8F.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/ZB/TSU6ICC2KLT39HHSVP0N1I.uasset'
+[2024.06.04-19.04.07:825][208]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/3N/J0OU3KBK7K9P4UOEF8TEBV
+[2024.06.04-19.04.07:825][208]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/J0OU3KBK7K9P4UOEF8TEBVB186B59D42848AADB47617A4B95DB46F.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/3N/J0OU3KBK7K9P4UOEF8TEBV.uasset'
+[2024.06.04-19.04.07:828][208]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/9I/9MQM0H053BXWNACU00MR0H
+[2024.06.04-19.04.07:828][208]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/9MQM0H053BXWNACU00MR0HD5637CC14B17AA631B7FA6A66BDDAD24.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/9I/9MQM0H053BXWNACU00MR0H.uasset'
+[2024.06.04-19.04.07:831][208]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/96/JV5DTWHQ9K63DVDBK93FU3
+[2024.06.04-19.04.07:831][208]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/JV5DTWHQ9K63DVDBK93FU342D47E9C447EDAE7C040E09C2905A113.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/96/JV5DTWHQ9K63DVDBK93FU3.uasset'
+[2024.06.04-19.04.07:834][208]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/EL/XDEQ5Z7D6MBYE0PG19R6EJ
+[2024.06.04-19.04.07:834][208]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/XDEQ5Z7D6MBYE0PG19R6EJ9F56CD774B2B768E10572F8E91869067.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/EL/XDEQ5Z7D6MBYE0PG19R6EJ.uasset'
+[2024.06.04-19.04.07:836][208]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/RF/9ITM6DOBZADR09Q7UD26JC
+[2024.06.04-19.04.07:836][208]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/9ITM6DOBZADR09Q7UD26JCF2149379489CD275096974837942D8BC.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/RF/9ITM6DOBZADR09Q7UD26JC.uasset'
+[2024.06.04-19.04.07:839][208]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/1H/N3IBR1E9CSUTSOPIWMU84O
+[2024.06.04-19.04.07:839][208]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/N3IBR1E9CSUTSOPIWMU84O6208FC73422EE32E4DFCCD84B542D406.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/1H/N3IBR1E9CSUTSOPIWMU84O.uasset'
+[2024.06.04-19.04.07:842][208]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/YR/Y3OIZWX2Z0IC51258J59SR
+[2024.06.04-19.04.07:842][208]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/Y3OIZWX2Z0IC51258J59SRD4D12EF541075A05267F89A1C3130261.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/YR/Y3OIZWX2Z0IC51258J59SR.uasset'
+[2024.06.04-19.04.07:847][208]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/7Y/D1CMMSUDEHZL1147I32DQH
+[2024.06.04-19.04.07:847][208]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/D1CMMSUDEHZL1147I32DQH73A674E24082313511835B8DCE9C7761.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/7Y/D1CMMSUDEHZL1147I32DQH.uasset'
+[2024.06.04-19.04.07:850][208]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/YX/3XU3NBRYR1N6FIFO4UBCSO
+[2024.06.04-19.04.07:850][208]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/3XU3NBRYR1N6FIFO4UBCSOA9CA47CF4E73F1E7327366922B3C0A5C.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/YX/3XU3NBRYR1N6FIFO4UBCSO.uasset'
+[2024.06.04-19.04.07:853][208]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/CW/3YNA180VSNIUXFN1XORH8D
+[2024.06.04-19.04.07:853][208]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/3YNA180VSNIUXFN1XORH8DDEEE954341019D027CCCBFB8908DCAF8.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/CW/3YNA180VSNIUXFN1XORH8D.uasset'
+[2024.06.04-19.04.07:855][208]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/RY/AY7Q3TQDV4QOMDNQVN2G9S
+[2024.06.04-19.04.07:855][208]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/AY7Q3TQDV4QOMDNQVN2G9S5B131B0A416262E9CFB7619C814910C6.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/RY/AY7Q3TQDV4QOMDNQVN2G9S.uasset'
+[2024.06.04-19.04.07:886][208]LogFileHelpers: InternalPromptForCheckoutAndSave took 220 ms (total: 5.23 sec)
+[2024.06.04-19.04.07:895][208]AssetCheck: New page: Asset Save: multiple assets
+[2024.06.04-19.04.07:895][208]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_04D9F51D2510DFFA01_2055185408
+[2024.06.04-19.04.07:895][208]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_04D9F51D2510D6FB01_1141289881
+[2024.06.04-19.04.07:895][208]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_04D9F51D2510E1FA01_1738712762
+[2024.06.04-19.04.07:895][208]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_04D9F51D2510E1FA01_1897008763
+[2024.06.04-19.04.07:895][208]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_04D9F51D2510D6FB01_1263665882
+[2024.06.04-19.04.07:895][208]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_04D9F51D2510E1FA01_1653026760
+[2024.06.04-19.04.07:895][208]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_04D9F51D2510E0FA01_1157668585
+[2024.06.04-19.04.07:895][208]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_04D9F51D2510E1FA01_1720657761
+[2024.06.04-19.04.07:895][208]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_04D9F51D2510E2FA01_1752713944
+[2024.06.04-19.04.07:895][208]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_04D9F51D2510E1FA01_1515780759
+[2024.06.04-19.04.07:895][208]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_04D9F51D25100CF801_1139260164
+[2024.06.04-19.04.07:895][208]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_04D9F51D2510E2FA01_1225115943
+[2024.06.04-19.04.07:895][208]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_04D9F51D2510DAFB01_1822216587
+[2024.06.04-19.04.07:895][208]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_04D9F51D2510D6FB01_1084129880
+[2024.06.04-19.04.07:895][208]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_04D9F51D2510E2FA01_1815576945
+[2024.06.04-19.04.07:895][208]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_04D9F51D2510E2FA01_1165596942
+[2024.06.04-19.04.07:895][208]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_04D9F51D2510E1FA01_2140411765
+[2024.06.04-19.04.07:895][208]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_04D9F51D251013FC01_1419906616
+[2024.06.04-19.04.07:895][208]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_04D9F51D251013FC01_1394093615
+[2024.06.04-19.04.07:895][208]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_04D9F51D251014FC01_1785201797
+[2024.06.04-19.04.07:895][208]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_04D9F51D251020FC01_1111689911
+[2024.06.04-19.04.07:895][208]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_04D9F51D251020FC01_1109891910
+[2024.06.04-19.04.07:895][208]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_04D9F51D251020FC01_1331238912
+[2024.06.04-19.04.07:895][208]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_04D9F51D251020FC01_1331240913
+[2024.06.04-19.04.07:895][208]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_04D9F51D251020FC01_1427551915
+[2024.06.04-19.04.07:895][208]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_04D9F51D251020FC01_1427553916
+[2024.06.04-19.04.07:895][208]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_04D9F51D251020FC01_1993596919
+[2024.06.04-19.04.07:895][208]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_04D9F51D251020FC01_1902714918
+[2024.06.04-19.04.07:895][208]LogContentValidation: Display: Validating /Script/Engine.ActorFolder /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.ActorFolder_UID_A29B3402-4AC2DA7E-E0B719B8-5354A205
+[2024.06.04-19.04.07:895][208]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_04D9F51D251023FC01_1665520448
+[2024.06.04-19.04.07:895][208]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_04D9F51D251023FC01_1735005449
+[2024.06.04-19.04.07:895][208]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_04D9F51D251023FC01_1870326450
+[2024.06.04-19.04.07:895][208]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_04D9F51D251023FC01_1881522451
+[2024.06.04-19.04.07:896][208]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_04D9F51D251023FC01_1888841452
+[2024.06.04-19.04.07:896][208]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_04D9F51D251023FC01_1901658453
+[2024.06.04-19.04.07:896][208]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_04D9F51D251023FC01_1908803454
+[2024.06.04-19.04.07:896][208]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_04D9F51D251023FC01_1940083455
+[2024.06.04-19.04.07:896][208]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_04D9F51D251023FC01_1952150456
+[2024.06.04-19.04.07:896][208]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_04D9F51D251023FC01_1972049457
+[2024.06.04-19.04.07:896][208]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_04D9F51D251023FC01_1986687458
+[2024.06.04-19.04.07:896][208]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_04D9F51D251023FC01_2045129459
+[2024.06.04-19.04.07:896][208]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_04D9F51D251023FC01_2058035460
+[2024.06.04-19.04.07:896][208]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_04D9F51D251023FC01_2083233461
+[2024.06.04-19.04.10:681][452]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2024.06.04-19.04.11:975][547]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.04-19.04.12:043][547]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2024.06.04-19.04.12:050][547]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2024.06.04-19.04.12:056][547]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2024.06.04-19.04.12:085][547]LogFileHelpers: InternalPromptForCheckoutAndSave took 109 ms (total: 5.33 sec)
+[2024.06.04-19.04.14:511][713]LogEditorViewport: Clicking Background
+[2024.06.04-19.04.20:338][ 56]Cmd: DUPLICATE
+[2024.06.04-19.04.20:338][ 56]Cmd: ACTOR DUPLICATE
+[2024.06.04-19.04.23:098][207]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.06.04-19.04.31:151][674]LogEditorViewport: Clicking Background
+[2024.06.04-19.04.32:627][777]Cmd: TRANSACTION UNDO
+[2024.06.04-19.04.32:628][777]LogEditorTransaction: Undo Clicking Background
+[2024.06.04-19.04.35:914][945]LogEditorViewport: Clicking Background
+[2024.06.04-19.04.36:885][ 11]Cmd: TRANSACTION UNDO
+[2024.06.04-19.04.36:885][ 11]LogEditorTransaction: Undo Clicking Background
+[2024.06.04-19.04.42:637][343]LogEditorViewport: Clicking Background
+[2024.06.04-19.04.44:730][472]LogEditorViewport: Clicking Background
+[2024.06.04-19.04.51:368][881]LogEditorViewport: Clicking Background
+[2024.06.04-19.04.55:836][158]LogEditorViewport: Clicking Background
+[2024.06.04-19.04.58:670][342]LogEditorViewport: Clicking Background
+[2024.06.04-19.05.06:060][799]LogEditorViewport: Clicking Background
+[2024.06.04-19.05.11:218][137]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.06.04-19.05.19:254][650]LogEditorViewport: Clicking Background
+[2024.06.04-19.05.19:951][696]Cmd: TRANSACTION UNDO
+[2024.06.04-19.05.19:951][696]LogEditorTransaction: Undo Clicking Background
+[2024.06.04-19.05.22:843][850]LogEditorViewport: Clicking Background
+[2024.06.04-19.05.23:444][889]Cmd: TRANSACTION UNDO
+[2024.06.04-19.05.23:444][889]LogEditorTransaction: Undo Clicking Background
+[2024.06.04-19.05.24:144][927]LogEditorViewport: Clicking Background
+[2024.06.04-19.05.30:932][375]LogEditorViewport: Clicking Background
+[2024.06.04-19.05.51:804][392]LogEditorViewport: Clicking Background
+[2024.06.04-19.06.10:876][648]LogEditorViewport: Clicking Background
+[2024.06.04-19.06.11:813][711]Cmd: TRANSACTION UNDO
+[2024.06.04-19.06.11:813][711]LogEditorTransaction: Undo Clicking Background
+[2024.06.04-19.06.13:976][822]LogEditorViewport: Clicking Background
+[2024.06.04-19.06.16:946][  6]LogEditorViewport: Clicking Background
+[2024.06.04-19.06.19:271][149]LogEditorViewport: Clicking Background
+[2024.06.04-19.06.24:627][482]LogEditorViewport: Clicking Background
+[2024.06.04-19.06.28:769][766]LogEditorViewport: Clicking Background
+[2024.06.04-19.06.46:153][871]LogEditorViewport: Clicking Background
+[2024.06.04-19.06.52:098][238]LogEditorViewport: Clicking Background
+[2024.06.04-19.06.55:053][420]LogEditorViewport: Clicking Background
+[2024.06.04-19.07.03:035][905]LogEditorViewport: Clicking Background
+[2024.06.04-19.07.41:594][429]LogEditorViewport: Clicking Background
+[2024.06.04-19.08.17:582][813]Cmd: TRANSACTION UNDO
+[2024.06.04-19.08.17:582][813]LogEditorTransaction: Undo Set Location
+[2024.06.04-19.08.21:756][ 42]LogEditorViewport: Clicking Background
+[2024.06.04-19.08.39:828][185]LogEditorViewport: Clicking Background
+[2024.06.04-19.08.47:713][686]LogEditorViewport: Clicking Background
+[2024.06.04-19.08.58:919][445]LogEditorViewport: Clicking Background
+[2024.06.04-19.09.04:446][822]LogEditorViewport: Clicking Background
+[2024.06.04-19.09.13:870][493]LogViewport: Scene viewport resized to 1601x807, mode Windowed.
+[2024.06.04-19.09.15:848][610]LogShaderCompilers: Display: ================================================
+[2024.06.04-19.09.15:848][610]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.06.04-19.09.15:848][610]LogShaderCompilers: Display: Total job queries 148, among them cache hits 42 (28.38%)
+[2024.06.04-19.09.15:848][610]LogShaderCompilers: Display: Tracking 106 distinct input hashes that result in 77 distinct outputs (72.64%)
+[2024.06.04-19.09.15:848][610]LogShaderCompilers: Display: RAM used: 2,55 MiB of 1,60 GiB budget. Usage: 0.16%
+[2024.06.04-19.09.15:848][610]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.06.04-19.09.15:848][610]LogShaderCompilers: Display: Shaders Compiled: 20
+[2024.06.04-19.09.15:848][610]LogShaderCompilers: Display: Jobs assigned 20, completed 20 (100%)
+[2024.06.04-19.09.15:848][610]LogShaderCompilers: Display: Average time worker was idle: 23.18 s
+[2024.06.04-19.09.15:848][610]LogShaderCompilers: Display: Time job spent in pending queue: average 0.44 s, longest 1.18 s
+[2024.06.04-19.09.15:848][610]LogShaderCompilers: Display: Job execution time: average 0.58 s, max 0.81 s
+[2024.06.04-19.09.15:849][610]LogShaderCompilers: Display: Job life time (pending + execution): average 1.02 s, max 1.60
+[2024.06.04-19.09.15:849][610]LogShaderCompilers: Display: Shader code size: average 67,479 KiB, min 35,938 KiB, max 73,125 KiB
+[2024.06.04-19.09.15:849][610]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 2.36 s
+[2024.06.04-19.09.15:849][610]LogShaderCompilers: Display: Jobs were issued in 20 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.06.04-19.09.15:849][610]LogShaderCompilers: Display: Average processing rate: 8.49 jobs/sec
+[2024.06.04-19.09.15:849][610]LogShaderCompilers: Display: Total thread time: 7,782 s
+[2024.06.04-19.09.15:849][610]LogShaderCompilers: Display: Total thread preprocess time: 0,706 s
+[2024.06.04-19.09.15:849][610]LogShaderCompilers: Display: Percentage time preprocessing: 9.07%
+[2024.06.04-19.09.15:849][610]LogShaderCompilers: Display: Effective parallelization: 3.30 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.06.04-19.09.15:849][610]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.06.04-19.09.15:849][610]LogShaderCompilers: Display:             TBasePassVSFSelfShadowedVolumetricLightmapPolicy (compiled    1 times, average 0.47 sec, max 0.47 sec, min 0.47 sec)
+[2024.06.04-19.09.15:849][610]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy (compiled    1 times, average 0.46 sec, max 0.46 sec, min 0.46 sec)
+[2024.06.04-19.09.15:849][610]LogShaderCompilers: Display:    TBasePassVSFSelfShadowedCachedPointIndirectLightingPolicy (compiled    1 times, average 0.45 sec, max 0.45 sec, min 0.45 sec)
+[2024.06.04-19.09.15:849][610]LogShaderCompilers: Display:                TBasePassVSFCachedPointIndirectLightingPolicy (compiled    1 times, average 0.45 sec, max 0.45 sec, min 0.45 sec)
+[2024.06.04-19.09.15:849][610]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 0.41 sec, max 0.41 sec, min 0.41 sec)
+[2024.06.04-19.09.15:849][610]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.06.04-19.09.15:849][610]LogShaderCompilers: Display:             TBasePassVSFSelfShadowedVolumetricLightmapPolicy - 6.05% of total time (compiled    1 times, average 0.47 sec, max 0.47 sec, min 0.47 sec)
+[2024.06.04-19.09.15:849][610]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy - 5.87% of total time (compiled    1 times, average 0.46 sec, max 0.46 sec, min 0.46 sec)
+[2024.06.04-19.09.15:849][610]LogShaderCompilers: Display:    TBasePassVSFSelfShadowedCachedPointIndirectLightingPolicy - 5.84% of total time (compiled    1 times, average 0.45 sec, max 0.45 sec, min 0.45 sec)
+[2024.06.04-19.09.15:849][610]LogShaderCompilers: Display:                TBasePassVSFCachedPointIndirectLightingPolicy - 5.81% of total time (compiled    1 times, average 0.45 sec, max 0.45 sec, min 0.45 sec)
+[2024.06.04-19.09.15:849][610]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 5.28% of total time (compiled    1 times, average 0.41 sec, max 0.41 sec, min 0.41 sec)
+[2024.06.04-19.09.15:849][610]LogShaderCompilers: Display: ================================================
+[2024.06.04-19.13.13:097][639]LogViewport: Scene viewport resized to 795x370, mode Windowed.
+[2024.06.04-19.13.14:446][759]LogViewport: Scene viewport resized to 795x804, mode Windowed.
+[2024.06.04-19.13.15:682][867]LogViewport: Scene viewport resized to 1601x807, mode Windowed.
+[2024.06.04-19.13.40:882][408]LogViewport: Scene viewport resized to 1972x807, mode Windowed.
+[2024.06.04-19.13.51:232][ 46]Cmd: DUPLICATE
+[2024.06.04-19.13.51:232][ 46]Cmd: ACTOR DUPLICATE
+[2024.06.04-19.14.08:793][ 86]LogEditorViewport: Clicking Background
+[2024.06.04-19.14.16:560][557]Cmd: DELETE
+[2024.06.04-19.14.16:560][557]Cmd: ACTOR DELETE
+[2024.06.04-19.14.16:578][557]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.06.04-19.14.16:586][557]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_04D9F51D25100CF801_1443666168 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/89/Q7625CAAU76QS7JYAES2GG.PackageMetaData in its package
+[2024.06.04-19.14.16:586][557]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_04D9F51D25100BF801_1311684987 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/0O/W35OJL8F957AWLVLU8MHFO.PackageMetaData in its package
+[2024.06.04-19.14.16:586][557]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_04D9F51D25100CF801_1295602165 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/XJ/5OHUMD2UW83I3U17E0ATA1.PackageMetaData in its package
+[2024.06.04-19.14.16:586][557]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_04D9F51D25100CF801_1489889170 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/1F/MKZAUZ6I5U4833G6XZIOAG.PackageMetaData in its package
+[2024.06.04-19.14.16:586][557]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_04D9F51D25100CF801_1443668169 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/7R/UUVT6BK65AZ5H4SUSGGVNE.PackageMetaData in its package
+[2024.06.04-19.14.16:586][557]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_04D9F51D251002F801_1175390401 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/UD/HX4AULT1E3WMKQFFS6WSIV.PackageMetaData in its package
+[2024.06.04-19.14.16:586][557]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_04D9F51D25100CF801_1295604166 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/J1/WTCNS8LH7MJVIS73FV7OS8.PackageMetaData in its package
+[2024.06.04-19.14.16:586][557]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_04D9F51D251020FC01_1657702917 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/E0/ULYFO7HFBB1YECMLLC123U.PackageMetaData in its package
+[2024.06.04-19.14.16:586][557]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_04D9F51D251014FC01_1592938794 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/95/C80CM91V09IL8LCMW6F6OM.PackageMetaData in its package
+[2024.06.04-19.14.16:586][557]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_04D9F51D251014FC01_1592936793 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/LP/R8K1TLOCTT1X76T8HDG5JX.PackageMetaData in its package
+[2024.06.04-19.14.16:586][557]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_04D9F51D251014FC01_1707839795 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/09/96RRYJ6ILI9V6UOA5WT5Z3.PackageMetaData in its package
+[2024.06.04-19.14.16:586][557]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_04D9F51D251014FC01_1728184796 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/LF/FN26C29OXLRETU9FODORJ1.PackageMetaData in its package
+[2024.06.04-19.14.16:588][557]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.06.04-19.14.16:590][557]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2024.06.04-19.14.16:598][557]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2024.06.04-19.14.20:319][775]LogEditorViewport: Clicking Background
+[2024.06.04-19.14.26:674][140]Cmd: DUPLICATE
+[2024.06.04-19.14.26:674][140]Cmd: ACTOR DUPLICATE
+[2024.06.04-19.14.28:694][252]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.06.04-19.14.45:882][247]LogEditorViewport: Clicking Background
+[2024.06.04-19.14.49:269][453]LogEditorViewport: Clicking Background
+[2024.06.04-19.14.52:071][623]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.06.04-19.15.03:166][287]LogEditorViewport: Clicking Background
+[2024.06.04-19.15.07:378][564]Cmd: TRANSACTION UNDO
+[2024.06.04-19.15.07:378][564]LogEditorTransaction: Undo Clicking Background
+[2024.06.04-19.15.12:477][840]Cmd: TRANSACTION UNDO
+[2024.06.04-19.15.12:477][840]LogEditorTransaction: Undo Move Elements
+[2024.06.04-19.15.13:586][880]Cmd: DELETE
+[2024.06.04-19.15.13:587][880]Cmd: ACTOR DELETE
+[2024.06.04-19.15.13:594][880]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.06.04-19.15.13:601][880]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2024.06.04-19.15.13:605][880]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2024.06.04-19.15.23:113][455]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.06.04-19.15.34:194][ 80]LogEditorViewport: Clicking Background
+[2024.06.04-19.15.35:673][176]Cmd: TRANSACTION UNDO
+[2024.06.04-19.15.35:673][176]LogEditorTransaction: Undo Clicking Background
+[2024.06.04-19.15.35:910][178]Cmd: TRANSACTION UNDO
+[2024.06.04-19.15.35:910][178]LogEditorTransaction: Undo Move Elements
+[2024.06.04-19.15.36:092][180]Cmd: TRANSACTION UNDO
+[2024.06.04-19.15.36:092][180]LogEditorTransaction: Undo Move Elements
+[2024.06.04-19.15.36:258][182]Cmd: TRANSACTION UNDO
+[2024.06.04-19.15.36:258][182]LogEditorTransaction: Undo Clicking on Elements
+[2024.06.04-19.15.36:399][183]Cmd: TRANSACTION UNDO
+[2024.06.04-19.15.36:399][183]LogEditorTransaction: Undo Move Elements
+[2024.06.04-19.15.36:519][184]Cmd: TRANSACTION UNDO
+[2024.06.04-19.15.36:519][184]LogEditorTransaction: Undo Move Elements
+[2024.06.04-19.15.40:114][400]LogEditorViewport: Clicking Background
+[2024.06.04-19.15.47:084][839]Cmd: DELETE
+[2024.06.04-19.15.47:084][839]Cmd: ACTOR DELETE
+[2024.06.04-19.15.47:091][839]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.06.04-19.15.47:097][839]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2024.06.04-19.15.47:100][839]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2024.06.04-19.15.58:012][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2024.06.04-19.15.58:018][ 53]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.04-19.15.58:078][ 53]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_CV14BYXA2DLRUVRWAOB08Y4IO_126_2_2_0.Weightmap_0 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.182285 MB), EncodeSpeed: Fast
+[2024.06.04-19.15.58:078][ 53]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_CV14BYXA2DLRUVRWAOB08Y4IO_126_2_2_0.Weightmap_1 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.06.04-19.15.58:079][ 53]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_CV14BYXA2DLRUVRWAOB08Y4IO_126_2_2_0.Weightmap_2 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.182285 MB), EncodeSpeed: Fast
+[2024.06.04-19.15.58:079][ 53]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_CV14BYXA2DLRUVRWAOB08Y4IO_126_2_2_0.Weightmap_3 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.06.04-19.15.58:080][ 53]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_CV14BYXA2DLRUVRWAOB08Y4IO_126_2_1_0.Weightmap_0 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.182285 MB), EncodeSpeed: Fast
+[2024.06.04-19.15.58:080][ 53]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_CV14BYXA2DLRUVRWAOB08Y4IO_126_2_1_0.Weightmap_1 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.06.04-19.15.58:081][ 53]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_CV14BYXA2DLRUVRWAOB08Y4IO_126_1_1_0.Weightmap_0 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.182285 MB), EncodeSpeed: Fast
+[2024.06.04-19.15.58:081][ 53]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_CV14BYXA2DLRUVRWAOB08Y4IO_126_1_1_0.Weightmap_1 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.06.04-19.15.58:083][ 53]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_CV14BYXA2DLRUVRWAOB08Y4IO_126_1_2_0.Weightmap_0 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.182285 MB), EncodeSpeed: Fast
+[2024.06.04-19.15.58:083][ 53]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_CV14BYXA2DLRUVRWAOB08Y4IO_126_1_2_0.Weightmap_2 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.182285 MB), EncodeSpeed: Fast
+[2024.06.04-19.15.58:083][ 53]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_CV14BYXA2DLRUVRWAOB08Y4IO_126_1_2_0.Weightmap_1 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.06.04-19.15.58:083][ 53]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_CV14BYXA2DLRUVRWAOB08Y4IO_126_1_2_0.Weightmap_3 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.06.04-19.15.58:086][ 53]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/EL/XDEQ5Z7D6MBYE0PG19R6EJ
+[2024.06.04-19.15.58:086][ 53]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/XDEQ5Z7D6MBYE0PG19R6EJ9250777A4D0FFF8BAB10F08F1FA5EF3F.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/EL/XDEQ5Z7D6MBYE0PG19R6EJ.uasset'
+[2024.06.04-19.15.58:156][ 53]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/V0/IJHNE6GIO7YGKBFDE06UAJ
+[2024.06.04-19.15.58:157][ 53]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/IJHNE6GIO7YGKBFDE06UAJ409530BA45C2C9818F3D40BCF0813CCF.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/V0/IJHNE6GIO7YGKBFDE06UAJ.uasset'
+[2024.06.04-19.15.58:165][ 53]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_CV14BYXA2DLRUVRWAOB08Y4IO_126_2_2_0.Weightmap_0 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.182285 MB), EncodeSpeed: Fast
+[2024.06.04-19.15.58:167][ 53]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_CV14BYXA2DLRUVRWAOB08Y4IO_126_2_2_0.Weightmap_2 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.182285 MB), EncodeSpeed: Fast
+[2024.06.04-19.15.58:175][ 53]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/77/2LNAUYI83NE93E78JR9BLE
+[2024.06.04-19.15.58:176][ 53]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/2LNAUYI83NE93E78JR9BLEA71A4CAD49183C962262B1AC61955C58.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/77/2LNAUYI83NE93E78JR9BLE.uasset'
+[2024.06.04-19.15.58:179][ 53]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_CV14BYXA2DLRUVRWAOB08Y4IO_126_2_1_0.Weightmap_0 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.182285 MB), EncodeSpeed: Fast
+[2024.06.04-19.15.58:186][ 53]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/PM/K528M5IQ3T9OSTXSDX52OL
+[2024.06.04-19.15.58:187][ 53]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/K528M5IQ3T9OSTXSDX52OL98A8DDA1476CC5C251B6E982BB4DDD15.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/PM/K528M5IQ3T9OSTXSDX52OL.uasset'
+[2024.06.04-19.15.58:190][ 53]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_CV14BYXA2DLRUVRWAOB08Y4IO_126_1_1_0.Weightmap_0 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.182285 MB), EncodeSpeed: Fast
+[2024.06.04-19.15.58:197][ 53]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/G8/341TQNOMEGI7QA7ECZA29C
+[2024.06.04-19.15.58:198][ 53]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/341TQNOMEGI7QA7ECZA29C0C00FCBF41FD719BBE1C8580E288F1B7.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/G8/341TQNOMEGI7QA7ECZA29C.uasset'
+[2024.06.04-19.15.58:201][ 53]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/RF/9ITM6DOBZADR09Q7UD26JC
+[2024.06.04-19.15.58:201][ 53]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/9ITM6DOBZADR09Q7UD26JC4CF4EC9C4942DA8614E80F8F748A0DE2.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/RF/9ITM6DOBZADR09Q7UD26JC.uasset'
+[2024.06.04-19.15.58:204][ 53]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/1H/N3IBR1E9CSUTSOPIWMU84O
+[2024.06.04-19.15.58:204][ 53]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/N3IBR1E9CSUTSOPIWMU84O51E6E3D24163881ADAF5A893504B69A6.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/1H/N3IBR1E9CSUTSOPIWMU84O.uasset'
+[2024.06.04-19.15.58:207][ 53]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/YR/Y3OIZWX2Z0IC51258J59SR
+[2024.06.04-19.15.58:207][ 53]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/Y3OIZWX2Z0IC51258J59SR3D64A199449A1FCBF2D6D2A383B0F7C0.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/YR/Y3OIZWX2Z0IC51258J59SR.uasset'
+[2024.06.04-19.15.58:210][ 53]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/7Y/D1CMMSUDEHZL1147I32DQH
+[2024.06.04-19.15.58:210][ 53]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/D1CMMSUDEHZL1147I32DQH56B25A074BC8F72B483497A236C13DEF.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/7Y/D1CMMSUDEHZL1147I32DQH.uasset'
+[2024.06.04-19.15.58:213][ 53]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/YX/3XU3NBRYR1N6FIFO4UBCSO
+[2024.06.04-19.15.58:213][ 53]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/3XU3NBRYR1N6FIFO4UBCSOAEF74D6A40E152FCB6ADD69B32DDA4E2.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/YX/3XU3NBRYR1N6FIFO4UBCSO.uasset'
+[2024.06.04-19.15.58:218][ 53]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/YY/EYJPQPROZT8UAHESPFQYL6
+[2024.06.04-19.15.58:219][ 53]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/EYJPQPROZT8UAHESPFQYL6DA81AEF248C2A3016AA789BC55F2083A.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/YY/EYJPQPROZT8UAHESPFQYL6.uasset'
+[2024.06.04-19.15.58:221][ 53]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/CW/3YNA180VSNIUXFN1XORH8D
+[2024.06.04-19.15.58:222][ 53]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/3YNA180VSNIUXFN1XORH8D39CCD8894308C81F77C76595C9118EED.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/CW/3YNA180VSNIUXFN1XORH8D.uasset'
+[2024.06.04-19.15.58:247][ 53]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/OR/8RKYALE5KRYJ85UZ0DF32D
+[2024.06.04-19.15.58:248][ 53]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/8RKYALE5KRYJ85UZ0DF32DF5C4D6344A91E731711419BCEC648022.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/OR/8RKYALE5KRYJ85UZ0DF32D.uasset'
+[2024.06.04-19.15.58:257][ 53]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/02/E2BBF4FVHFI8FR3HJ3867V
+[2024.06.04-19.15.58:257][ 53]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/E2BBF4FVHFI8FR3HJ3867VBF2F0CED4D5FE63E6F3951A715FCDB75.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/02/E2BBF4FVHFI8FR3HJ3867V.uasset'
+[2024.06.04-19.15.58:267][ 53]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/2Y/EXME7P4EBYMNNL5OIHFKNX
+[2024.06.04-19.15.58:267][ 53]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/EXME7P4EBYMNNL5OIHFKNXC441B8234AED22B9B18DB0BF26F97385.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/2Y/EXME7P4EBYMNNL5OIHFKNX.uasset'
+[2024.06.04-19.15.58:270][ 53]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_CV14BYXA2DLRUVRWAOB08Y4IO_126_1_2_0.Weightmap_0 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.182285 MB), EncodeSpeed: Fast
+[2024.06.04-19.15.58:272][ 53]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_CV14BYXA2DLRUVRWAOB08Y4IO_126_1_2_0.Weightmap_2 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.182285 MB), EncodeSpeed: Fast
+[2024.06.04-19.15.58:281][ 53]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/PW/OXARHY5IZF595U4BPGBAK6
+[2024.06.04-19.15.58:282][ 53]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/OXARHY5IZF595U4BPGBAK6B44D257A4792CE0562B92986D4A038E9.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/PW/OXARHY5IZF595U4BPGBAK6.uasset'
+[2024.06.04-19.15.58:285][ 53]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/1M/BCXCQNNAVVO2NQXQ9YHBTL
+[2024.06.04-19.15.58:285][ 53]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/BCXCQNNAVVO2NQXQ9YHBTL1846020F43CF9A2C6D5D4EB9770D9608.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/1M/BCXCQNNAVVO2NQXQ9YHBTL.uasset'
+[2024.06.04-19.15.58:288][ 53]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/NB/RTDU9RVI7VIJ2YB7LEHQVQ
+[2024.06.04-19.15.58:288][ 53]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/RTDU9RVI7VIJ2YB7LEHQVQ4D2348BD47579A6E9D271591ACBC7D24.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/NB/RTDU9RVI7VIJ2YB7LEHQVQ.uasset'
+[2024.06.04-19.15.58:291][ 53]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/RY/AY7Q3TQDV4QOMDNQVN2G9S
+[2024.06.04-19.15.58:291][ 53]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/AY7Q3TQDV4QOMDNQVN2G9SC08482484163941E7DBD07A2DDDA7F6A.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/RY/AY7Q3TQDV4QOMDNQVN2G9S.uasset'
+[2024.06.04-19.15.58:293][ 53]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/DI/YF67TPVVR2WV4FAACQJ55G
+[2024.06.04-19.15.58:294][ 53]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/YF67TPVVR2WV4FAACQJ55G97407E534D19289B2AF844B0A547F659.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/DI/YF67TPVVR2WV4FAACQJ55G.uasset'
+[2024.06.04-19.15.58:296][ 53]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/ZB/TSU6ICC2KLT39HHSVP0N1I
+[2024.06.04-19.15.58:297][ 53]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/TSU6ICC2KLT39HHSVP0N1I11BB5E894F3ADF19408339BC912EB42D.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/ZB/TSU6ICC2KLT39HHSVP0N1I.uasset'
+[2024.06.04-19.15.58:299][ 53]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/3N/J0OU3KBK7K9P4UOEF8TEBV
+[2024.06.04-19.15.58:300][ 53]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/J0OU3KBK7K9P4UOEF8TEBVF2104EE94686F5A4316C7C8CFD5FC8B9.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/3N/J0OU3KBK7K9P4UOEF8TEBV.uasset'
+[2024.06.04-19.15.58:302][ 53]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/9I/9MQM0H053BXWNACU00MR0H
+[2024.06.04-19.15.58:302][ 53]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/9MQM0H053BXWNACU00MR0H55BDF0394DCA784256BF428BBD454DC8.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/9I/9MQM0H053BXWNACU00MR0H.uasset'
+[2024.06.04-19.15.58:305][ 53]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/96/JV5DTWHQ9K63DVDBK93FU3
+[2024.06.04-19.15.58:305][ 53]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/JV5DTWHQ9K63DVDBK93FU369B706014F55D0427E619A9AFBF9DF0F.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/96/JV5DTWHQ9K63DVDBK93FU3.uasset'
+[2024.06.04-19.15.58:314][ 53]LogFileHelpers: InternalPromptForCheckoutAndSave took 295 ms (total: 5.63 sec)
+[2024.06.04-19.15.58:321][ 53]AssetCheck: New page: Asset Save: multiple assets
+[2024.06.04-19.15.58:321][ 53]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_04D9F51D251023FC01_1908803454
+[2024.06.04-19.15.58:321][ 53]LogContentValidation: Display: Validating /Script/Foliage.InstancedFoliageActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.InstancedFoliageActor_25600_-1_-1_-1
+[2024.06.04-19.15.58:321][ 53]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_CV14BYXA2DLRUVRWAOB08Y4IO_126_2_2_0
+[2024.06.04-19.15.58:321][ 53]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_CV14BYXA2DLRUVRWAOB08Y4IO_126_2_1_0
+[2024.06.04-19.15.58:321][ 53]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_CV14BYXA2DLRUVRWAOB08Y4IO_126_1_1_0
+[2024.06.04-19.15.58:321][ 53]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_04D9F51D251023FC01_1940083455
+[2024.06.04-19.15.58:321][ 53]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_04D9F51D251023FC01_1952150456
+[2024.06.04-19.15.58:321][ 53]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_04D9F51D251023FC01_1972049457
+[2024.06.04-19.15.58:321][ 53]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_04D9F51D251023FC01_1986687458
+[2024.06.04-19.15.58:321][ 53]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_04D9F51D251023FC01_2045129459
+[2024.06.04-19.15.58:321][ 53]LogContentValidation: Display: Validating /Script/Foliage.InstancedFoliageActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.InstancedFoliageActor_25600_0_-1_0
+[2024.06.04-19.15.58:321][ 53]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_04D9F51D251023FC01_2058035460
+[2024.06.04-19.15.58:321][ 53]LogContentValidation: Display: Validating /Script/Foliage.InstancedFoliageActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.InstancedFoliageActor_25600_0_-1_-1
+[2024.06.04-19.15.58:321][ 53]LogContentValidation: Display: Validating /Script/Foliage.InstancedFoliageActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.InstancedFoliageActor_25600_-1_-1_0
+[2024.06.04-19.15.58:321][ 53]LogContentValidation: Display: Validating /Script/Foliage.InstancedFoliageActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.InstancedFoliageActor_25600_0_0_-1
+[2024.06.04-19.15.58:321][ 53]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_CV14BYXA2DLRUVRWAOB08Y4IO_126_1_2_0
+[2024.06.04-19.15.58:321][ 53]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_04D9F51D251024FC01_1102649639
+[2024.06.04-19.15.58:321][ 53]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_04D9F51D251024FC01_1102647638
+[2024.06.04-19.15.58:321][ 53]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_04D9F51D251023FC01_2083233461
+[2024.06.04-19.15.58:321][ 53]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_04D9F51D251020FC01_1993596919
+[2024.06.04-19.15.58:321][ 53]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_04D9F51D251023FC01_1870326450
+[2024.06.04-19.15.58:321][ 53]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_04D9F51D251023FC01_1881522451
+[2024.06.04-19.15.58:321][ 53]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_04D9F51D251023FC01_1888841452
+[2024.06.04-19.15.58:322][ 53]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_04D9F51D251023FC01_1901658453
+[2024.06.04-19.15.59:913][201]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.04-19.15.59:967][201]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2024.06.04-19.15.59:974][201]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2024.06.04-19.15.59:979][201]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2024.06.04-19.16.00:008][201]LogFileHelpers: InternalPromptForCheckoutAndSave took 93 ms (total: 5.72 sec)
