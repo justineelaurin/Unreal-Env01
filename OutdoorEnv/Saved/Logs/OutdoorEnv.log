@@ -2033,3 +2033,1065 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.06.07-20.17.46:054][968]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_04D9F51D251019FD01_1399556736
 [2024.06.07-20.17.46:054][968]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_04D9F51D251019FD01_1444122737
 [2024.06.07-20.17.48:174][130]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.06.07-20.18.40:086][352]LogEditorViewport: Clicking Background
+[2024.06.07-20.22.56:362][416]LogEditorViewport: Clicking Background
+[2024.06.07-20.23.02:036][780]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.06.07-20.23.05:349][992]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.06.07-20.23.08:967][172]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.06.07-20.23.24:660][ 64]LogEditorViewport: Clicking Background
+[2024.06.07-20.23.32:617][576]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.06.07-20.23.36:856][805]Cmd: TRANSACTION UNDO
+[2024.06.07-20.23.36:856][805]LogEditorTransaction: Undo Move Elements
+[2024.06.07-20.23.40:309][966]LogEditorViewport: Clicking Background
+[2024.06.07-20.23.45:017][225]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.07-20.23.45:094][225]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/JJ/OITS1JG153G8UIXONCC88A
+[2024.06.07-20.23.45:094][225]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/OITS1JG153G8UIXONCC88A74B6971A405A4A23E7B58AB319414AA9.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/JJ/OITS1JG153G8UIXONCC88A.uasset'
+[2024.06.07-20.23.45:097][225]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/KR/Q8V9BC43Q7Y2UYZ75IU0R6
+[2024.06.07-20.23.45:097][225]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/Q8V9BC43Q7Y2UYZ75IU0R6E893B0464866A56C2C9B05B25E96A59A.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/KR/Q8V9BC43Q7Y2UYZ75IU0R6.uasset'
+[2024.06.07-20.23.45:105][225]LogFileHelpers: InternalPromptForCheckoutAndSave took 87 ms (total: 5.44 sec)
+[2024.06.07-20.23.45:108][225]AssetCheck: New page: Asset Save: multiple assets
+[2024.06.07-20.23.45:108][225]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_04D9F51D251018FD01_2006697553
+[2024.06.07-20.23.45:108][225]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_04D9F51D251019FD01_1444122737
+[2024.06.07-20.29.47:096][596]AssetReimport: New page: Outstanding source content changes 12 h 29 min 47 s
+[2024.06.07-20.29.47:136][597]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/Assets/House/envWood_Pannels.fbx)
+[2024.06.07-20.29.47:142][597]LogFbx: Loading FBX Scene from D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/Assets/House/envWood_Pannels.fbx
+[2024.06.07-20.29.47:148][597]LogFbx: FBX Scene Loaded Succesfully
+[2024.06.07-20.29.50:206][597]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.06.07-20.29.50:418][597]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/House/envWood_Pannels.envWood_Pannels
+[2024.06.07-20.29.50:592][598]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.07-20.29.50:699][598]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/House/envWood_Pannels" FILE="D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/Assets/House/envWood_Pannels.uasset" SILENT=true
+[2024.06.07-20.29.50:702][598]LogSavePackage: Moving output files for package: /Game/Assets/House/envWood_Pannels
+[2024.06.07-20.29.50:702][598]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/envWood_PannelsA801D5144395E98C9190869D35758A8C.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/Assets/House/envWood_Pannels.uasset'
+[2024.06.07-20.29.50:712][598]LogFileHelpers: InternalPromptForCheckoutAndSave took 119 ms (total: 5.56 sec)
+[2024.06.07-20.29.50:715][598]LogShaderCompilers: Display: ================================================
+[2024.06.07-20.29.50:715][598]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.06.07-20.29.50:715][598]LogShaderCompilers: Display: Total job queries 371, among them cache hits 167 (45.01%)
+[2024.06.07-20.29.50:715][598]LogShaderCompilers: Display: Tracking 204 distinct input hashes that result in 110 distinct outputs (53.92%)
+[2024.06.07-20.29.50:715][598]LogShaderCompilers: Display: RAM used: 4,55 MiB of 1,60 GiB budget. Usage: 0.28%
+[2024.06.07-20.29.50:715][598]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.06.07-20.29.50:715][598]LogShaderCompilers: Display: Shaders Compiled: 70
+[2024.06.07-20.29.50:715][598]LogShaderCompilers: Display: Jobs assigned 70, completed 70 (100%)
+[2024.06.07-20.29.50:715][598]LogShaderCompilers: Display: Average time worker was idle: 70.54 s
+[2024.06.07-20.29.50:715][598]LogShaderCompilers: Display: Time job spent in pending queue: average 0.08 s, longest 0.62 s
+[2024.06.07-20.29.50:715][598]LogShaderCompilers: Display: Job execution time: average 0.51 s, max 0.80 s
+[2024.06.07-20.29.50:715][598]LogShaderCompilers: Display: Job life time (pending + execution): average 0.59 s, max 1.04
+[2024.06.07-20.29.50:715][598]LogShaderCompilers: Display: Shader code size: average 42,312 KiB, min 30,859 KiB, max 71,035 KiB
+[2024.06.07-20.29.50:715][598]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 9.25 s
+[2024.06.07-20.29.50:715][598]LogShaderCompilers: Display: Jobs were issued in 70 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.06.07-20.29.50:715][598]LogShaderCompilers: Display: Average processing rate: 7.56 jobs/sec
+[2024.06.07-20.29.50:715][598]LogShaderCompilers: Display: Total thread time: 22,68 s
+[2024.06.07-20.29.50:715][598]LogShaderCompilers: Display: Total thread preprocess time: 2,313 s
+[2024.06.07-20.29.50:715][598]LogShaderCompilers: Display: Percentage time preprocessing: 10.20%
+[2024.06.07-20.29.50:715][598]LogShaderCompilers: Display: Effective parallelization: 2.45 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.06.07-20.29.50:715][598]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.06.07-20.29.50:715][598]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    3 times, average 0.43 sec, max 0.44 sec, min 0.41 sec)
+[2024.06.07-20.29.50:715][598]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    3 times, average 0.42 sec, max 0.43 sec, min 0.41 sec)
+[2024.06.07-20.29.50:715][598]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    3 times, average 0.40 sec, max 0.42 sec, min 0.39 sec)
+[2024.06.07-20.29.50:715][598]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    3 times, average 0.40 sec, max 0.41 sec, min 0.39 sec)
+[2024.06.07-20.29.50:715][598]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled    3 times, average 0.39 sec, max 0.41 sec, min 0.39 sec)
+[2024.06.07-20.29.50:715][598]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.06.07-20.29.50:715][598]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 15.34% of total time (compiled   10 times, average 0.35 sec, max 0.46 sec, min 0.29 sec)
+[2024.06.07-20.29.50:715][598]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 15.16% of total time (compiled   10 times, average 0.34 sec, max 0.39 sec, min 0.29 sec)
+[2024.06.07-20.29.50:715][598]LogShaderCompilers: Display:                                                 FLumenCardVS - 9.89% of total time (compiled    7 times, average 0.32 sec, max 0.35 sec, min 0.28 sec)
+[2024.06.07-20.29.50:715][598]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 5.70% of total time (compiled    3 times, average 0.43 sec, max 0.44 sec, min 0.41 sec)
+[2024.06.07-20.29.50:715][598]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight - 5.51% of total time (compiled    3 times, average 0.42 sec, max 0.43 sec, min 0.41 sec)
+[2024.06.07-20.29.50:715][598]LogShaderCompilers: Display: ================================================
+[2024.06.07-20.29.50:743][599]AssetCheck: New page: Asset Save: envWood_Pannels
+[2024.06.07-20.29.50:743][599]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Assets/House/envWood_Pannels.envWood_Pannels
+[2024.06.07-20.29.51:988][656]LogSlate: Window 'Message Log' being destroyed
+[2024.06.07-20.29.51:996][656]LogSlate: Window 'Message Log' being destroyed
+[2024.06.07-20.29.53:727][738]AssetReimport: Importing new asset /Game/Assets/House/envWood_Pannels.
+[2024.06.07-20.29.54:035][751]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/House/envWood_Pannels.envWood_Pannels
+[2024.06.07-20.29.54:035][751]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/House/envWood_Pannels.envWood_Pannels
+[2024.06.07-20.29.54:036][751]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/House/envWood_Pannels.envWood_Pannels as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_4
+[2024.06.07-20.29.54:467][782]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/House/envWood_Pannels.envWood_Pannels
+[2024.06.07-20.29.54:467][782]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/House/envWood_Pannels.envWood_Pannels
+[2024.06.07-20.29.54:470][782]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/House/envWood_Pannels.envWood_Pannels as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_04D9F51D25101AFD01_1296286914
+[2024.06.07-20.29.59:555][ 59]LogEditorViewport: Clicking Background
+[2024.06.07-20.30.06:605][453]LogContentBrowser: Deferred new asset file creation: matWood1
+[2024.06.07-20.30.06:610][453]LogContentBrowser: Creating deferred item: matWood1
+[2024.06.07-20.30.06:628][454]LogContentBrowser: Renaming the item being created (Deferred Item: matWood1).
+[2024.06.07-20.30.07:621][510]LogContentBrowser: Attempting asset rename: matWood1 -> matWood1
+[2024.06.07-20.30.07:629][510]LogContentBrowser: End creating deferred item matWood1
+[2024.06.07-20.30.08:169][535]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.06.07-20.30.10:290][535]LogSlate: Window 'Delete Assets' being destroyed
+[2024.06.07-20.30.10:303][535]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.06.07-20.30.10:310][535]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.06.07-20.30.10:316][535]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2024.06.07-20.30.16:504][978]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.07-20.30.16:548][978]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/House/envWood_Pannels" FILE="D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/Assets/House/envWood_Pannels.uasset" SILENT=true
+[2024.06.07-20.30.16:550][978]LogSavePackage: Moving output files for package: /Game/Assets/House/envWood_Pannels
+[2024.06.07-20.30.16:551][978]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/envWood_PannelsE259010E4427C8FADBAB5BB48D3054DC.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/Assets/House/envWood_Pannels.uasset'
+[2024.06.07-20.30.16:626][978]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/matWoodPlanks" FILE="D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/Materials/matWoodPlanks.uasset" SILENT=true
+[2024.06.07-20.30.16:628][978]LogSavePackage: Moving output files for package: /Game/Materials/matWoodPlanks
+[2024.06.07-20.30.16:628][978]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/matWoodPlanks774994F546F0A6125432C98F252048A0.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/Materials/matWoodPlanks.uasset'
+[2024.06.07-20.30.16:635][978]LogFileHelpers: InternalPromptForCheckoutAndSave took 131 ms (total: 5.69 sec)
+[2024.06.07-20.30.16:644][978]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.06.07-20.30.16:652][978]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.06.07-20.30.16:658][978]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2024.06.07-20.30.16:671][978]AssetCheck: New page: Asset Save: multiple assets
+[2024.06.07-20.30.16:671][978]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Assets/House/envWood_Pannels.envWood_Pannels
+[2024.06.07-20.30.16:671][978]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Materials/matWoodPlanks.matWoodPlanks
+[2024.06.07-20.30.20:368][360]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.07-20.30.20:418][360]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/matWoodPlanks" FILE="D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/Materials/matWoodPlanks.uasset" SILENT=true
+[2024.06.07-20.30.20:420][360]LogSavePackage: Moving output files for package: /Game/Materials/matWoodPlanks
+[2024.06.07-20.30.20:420][360]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/matWoodPlanks40450BBC4D42E7113C0AF9A103FC724A.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/Materials/matWoodPlanks.uasset'
+[2024.06.07-20.30.20:428][360]LogFileHelpers: InternalPromptForCheckoutAndSave took 60 ms (total: 5.75 sec)
+[2024.06.07-20.30.20:479][360]AssetCheck: New page: Asset Save: matWoodPlanks
+[2024.06.07-20.30.20:479][360]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Materials/matWoodPlanks.matWoodPlanks
+[2024.06.07-20.30.21:928][525]LogSlate: Window 'Failed Renames' being destroyed
+[2024.06.07-20.30.26:111][764]LogContentBrowser: Attempting asset rename: envWoodPlank_D -> envWoodPlank_D_02
+[2024.06.07-20.30.26:149][764]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.07-20.30.26:206][764]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/matWoodPlanks" FILE="D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/Materials/matWoodPlanks.uasset" SILENT=true
+[2024.06.07-20.30.26:208][764]LogSavePackage: Moving output files for package: /Game/Materials/matWoodPlanks
+[2024.06.07-20.30.26:208][764]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/matWoodPlanks92DD73A94E61DAD46C1998B1E419CC19.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/Materials/matWoodPlanks.uasset'
+[2024.06.07-20.30.26:211][764]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/House/envWoodPlank_D_02" FILE="D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/Assets/House/envWoodPlank_D_02.uasset" SILENT=true
+[2024.06.07-20.30.26:317][764]LogSavePackage: Moving output files for package: /Game/Assets/House/envWoodPlank_D_02
+[2024.06.07-20.30.26:317][764]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/envWoodPlank_D_02BAC53D5A4C536076D7AABBBFE5259AFE.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/Assets/House/envWoodPlank_D_02.uasset'
+[2024.06.07-20.30.26:324][764]LogFileHelpers: InternalPromptForCheckoutAndSave took 175 ms (total: 5.93 sec)
+[2024.06.07-20.30.26:333][764]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2024.06.07-20.30.26:340][764]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.06.07-20.30.26:346][764]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2024.06.07-20.30.26:348][764]AssetCheck: New page: Asset Save: multiple assets
+[2024.06.07-20.30.26:348][764]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Materials/matWoodPlanks.matWoodPlanks
+[2024.06.07-20.30.26:348][764]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Assets/House/envWoodPlank_D_02.envWoodPlank_D_02
+[2024.06.07-20.30.29:478][ 55]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.07-20.30.29:525][ 55]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/matWoodPlanks" FILE="D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/Materials/matWoodPlanks.uasset" SILENT=true
+[2024.06.07-20.30.29:527][ 55]LogSavePackage: Moving output files for package: /Game/Materials/matWoodPlanks
+[2024.06.07-20.30.29:527][ 55]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/matWoodPlanks159944574B21AC755D9FFF9BCFDC6616.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/Materials/matWoodPlanks.uasset'
+[2024.06.07-20.30.29:528][ 55]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/envWoodPlank_D_02" FILE="D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/Textures/envWoodPlank_D_02.uasset" SILENT=true
+[2024.06.07-20.30.29:578][ 55]LogSavePackage: Moving output files for package: /Game/Textures/envWoodPlank_D_02
+[2024.06.07-20.30.29:578][ 55]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/envWoodPlank_D_021DB56ABD4D5336EB1CA0128B28CC56A7.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/Textures/envWoodPlank_D_02.uasset'
+[2024.06.07-20.30.29:585][ 55]LogFileHelpers: InternalPromptForCheckoutAndSave took 107 ms (total: 6.04 sec)
+[2024.06.07-20.30.29:594][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.06.07-20.30.29:601][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.06.07-20.30.29:607][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2024.06.07-20.30.29:622][ 55]AssetCheck: New page: Asset Save: multiple assets
+[2024.06.07-20.30.29:622][ 55]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Materials/matWoodPlanks.matWoodPlanks
+[2024.06.07-20.30.29:622][ 55]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Textures/envWoodPlank_D_02.envWoodPlank_D_02
+[2024.06.07-20.30.43:355][889]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Materials/matWoodPlanks.matWoodPlanks
+[2024.06.07-20.30.43:359][889]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.07-20.30.43:360][889]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.07-20.30.43:551][889]MaterialEditorStats: Texture samplers: 0/16
+[2024.06.07-20.30.43:551][889]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.06.07-20.30.43:551][889]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.06.07-20.30.43:551][889]MaterialEditorStats: Shader Count: 0
+[2024.06.07-20.30.43:561][889]LogViewport: Scene viewport resized to 433x468, mode Windowed.
+[2024.06.07-20.30.43:671][891]MaterialEditorStats: Base pass shader: 194 instructions
+[2024.06.07-20.30.43:671][891]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.06.07-20.30.43:671][891]MaterialEditorStats: Texture samplers: 3/16
+[2024.06.07-20.30.43:671][891]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.06.07-20.30.43:671][891]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.06.07-20.30.43:671][891]MaterialEditorStats: Shader Count: 4
+[2024.06.07-20.30.46:268][  9]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.06.07-20.30.47:691][  9]LogSlate: Window 'Delete Assets' being destroyed
+[2024.06.07-20.30.47:717][  9]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.06.07-20.30.47:725][  9]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.06.07-20.30.47:730][  9]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2024.06.07-20.30.52:442][249]LogContentBrowser: Attempting asset rename: envWoodPlank_D_02 -> envWoodPlank_D
+[2024.06.07-20.30.52:480][249]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.07-20.30.52:531][249]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/matWoodPlanks" FILE="D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/Materials/matWoodPlanks.uasset" SILENT=true
+[2024.06.07-20.30.52:532][249]LogSavePackage: Moving output files for package: /Game/Materials/matWoodPlanks
+[2024.06.07-20.30.52:533][249]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/matWoodPlanks2CE88022440B90EA9531B8AF60A6F043.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/Materials/matWoodPlanks.uasset'
+[2024.06.07-20.30.52:534][249]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/envWoodPlank_D" FILE="D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/Textures/envWoodPlank_D.uasset" SILENT=true
+[2024.06.07-20.30.52:583][249]LogSavePackage: Moving output files for package: /Game/Textures/envWoodPlank_D
+[2024.06.07-20.30.52:583][249]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/envWoodPlank_D9C5BB09540427DEA708FB1A37331ADE5.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/Textures/envWoodPlank_D.uasset'
+[2024.06.07-20.30.52:591][249]LogFileHelpers: InternalPromptForCheckoutAndSave took 110 ms (total: 6.15 sec)
+[2024.06.07-20.30.52:601][249]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.06.07-20.30.52:608][249]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.06.07-20.30.52:615][249]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2024.06.07-20.30.52:617][249]AssetCheck: New page: Asset Save: multiple assets
+[2024.06.07-20.30.52:617][249]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Materials/matWoodPlanks.matWoodPlanks
+[2024.06.07-20.30.52:617][249]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Textures/envWoodPlank_D.envWoodPlank_D
+[2024.06.07-20.30.53:822][315]MaterialEditorStats: Texture samplers: 0/16
+[2024.06.07-20.30.53:822][315]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.06.07-20.30.53:822][315]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.06.07-20.30.53:822][315]MaterialEditorStats: Shader Count: 0
+[2024.06.07-20.30.53:911][317]MaterialEditorStats: Base pass shader: 194 instructions
+[2024.06.07-20.30.53:911][317]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.06.07-20.30.53:911][317]MaterialEditorStats: Texture samplers: 3/16
+[2024.06.07-20.30.53:911][317]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.06.07-20.30.53:911][317]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.06.07-20.30.53:911][317]MaterialEditorStats: Shader Count: 4
+[2024.06.07-20.30.56:133][456]MaterialEditorStats: Texture samplers: 0/16
+[2024.06.07-20.30.56:133][456]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.06.07-20.30.56:133][456]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.06.07-20.30.56:133][456]MaterialEditorStats: Shader Count: 0
+[2024.06.07-20.30.56:212][458]MaterialEditorStats: Base pass shader: 194 instructions
+[2024.06.07-20.30.56:212][458]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.06.07-20.30.56:212][458]MaterialEditorStats: Texture samplers: 3/16
+[2024.06.07-20.30.56:212][458]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.06.07-20.30.56:212][458]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.06.07-20.30.56:213][458]MaterialEditorStats: Shader Count: 4
+[2024.06.07-20.31.04:357][838]MaterialEditorStats: Texture samplers: 0/16
+[2024.06.07-20.31.04:357][838]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.06.07-20.31.04:357][838]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.06.07-20.31.04:357][838]MaterialEditorStats: Shader Count: 0
+[2024.06.07-20.31.04:416][839]MaterialEditorStats: Base pass shader: 194 instructions
+[2024.06.07-20.31.04:416][839]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.06.07-20.31.04:416][839]MaterialEditorStats: Texture samplers: 3/16
+[2024.06.07-20.31.04:416][839]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.06.07-20.31.04:416][839]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.06.07-20.31.04:416][839]MaterialEditorStats: Shader Count: 4
+[2024.06.07-20.31.09:327][127]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.06.07-20.31.10:575][127]LogSlate: Window 'Delete Assets' being destroyed
+[2024.06.07-20.31.10:588][127]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Textures/envWoodPlank_H.envWoodPlank_H
+	Asset Type: Texture2D
+[2024.06.07-20.31.10:820][127]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.06.07-20.31.10:827][127]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.06.07-20.31.10:833][127]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2024.06.07-20.31.10:841][127]MaterialEditorStats: Texture samplers: 0/16
+[2024.06.07-20.31.10:841][127]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.06.07-20.31.10:841][127]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.06.07-20.31.10:841][127]MaterialEditorStats: Shader Count: 0
+[2024.06.07-20.31.10:925][128]MaterialEditorStats: Base pass shader: 194 instructions
+[2024.06.07-20.31.10:925][128]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.06.07-20.31.10:925][128]MaterialEditorStats: Texture samplers: 3/16
+[2024.06.07-20.31.10:925][128]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.06.07-20.31.10:925][128]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.06.07-20.31.10:925][128]MaterialEditorStats: Shader Count: 4
+[2024.06.07-20.31.14:003][283]MaterialEditorStats: Texture samplers: 0/16
+[2024.06.07-20.31.14:004][283]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.06.07-20.31.14:004][283]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.06.07-20.31.14:004][283]MaterialEditorStats: Shader Count: 0
+[2024.06.07-20.31.14:127][285]MaterialEditorStats: Base pass shader: 194 instructions
+[2024.06.07-20.31.14:127][285]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.06.07-20.31.14:127][285]MaterialEditorStats: Texture samplers: 3/16
+[2024.06.07-20.31.14:127][285]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.06.07-20.31.14:127][285]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.06.07-20.31.14:127][285]MaterialEditorStats: Shader Count: 4
+[2024.06.07-20.31.15:023][330]MaterialEditorStats: Texture samplers: 0/16
+[2024.06.07-20.31.15:023][330]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.06.07-20.31.15:023][330]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.06.07-20.31.15:023][330]MaterialEditorStats: Shader Count: 0
+[2024.06.07-20.31.15:106][332]MaterialEditorStats: Base pass shader: 194 instructions
+[2024.06.07-20.31.15:106][332]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.06.07-20.31.15:106][332]MaterialEditorStats: Texture samplers: 3/16
+[2024.06.07-20.31.15:106][332]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.06.07-20.31.15:106][332]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.06.07-20.31.15:106][332]MaterialEditorStats: Shader Count: 4
+[2024.06.07-20.31.16:115][381]MaterialEditorStats: Texture samplers: 0/16
+[2024.06.07-20.31.16:115][381]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.06.07-20.31.16:115][381]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.06.07-20.31.16:115][381]MaterialEditorStats: Shader Count: 0
+[2024.06.07-20.31.16:186][383]MaterialEditorStats: Base pass shader: 194 instructions
+[2024.06.07-20.31.16:187][383]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.06.07-20.31.16:187][383]MaterialEditorStats: Texture samplers: 3/16
+[2024.06.07-20.31.16:187][383]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.06.07-20.31.16:187][383]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.06.07-20.31.16:187][383]MaterialEditorStats: Shader Count: 4
+[2024.06.07-20.31.16:987][424]MaterialEditorStats: Texture samplers: 0/16
+[2024.06.07-20.31.16:987][424]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.06.07-20.31.16:987][424]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.06.07-20.31.16:987][424]MaterialEditorStats: Shader Count: 0
+[2024.06.07-20.31.17:084][426]MaterialEditorStats: Base pass shader: 194 instructions
+[2024.06.07-20.31.17:084][426]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.06.07-20.31.17:084][426]MaterialEditorStats: Texture samplers: 3/16
+[2024.06.07-20.31.17:084][426]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.06.07-20.31.17:084][426]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.06.07-20.31.17:085][426]MaterialEditorStats: Shader Count: 4
+[2024.06.07-20.31.22:521][754]MaterialEditorStats: Texture samplers: 0/16
+[2024.06.07-20.31.22:521][754]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.06.07-20.31.22:521][754]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.06.07-20.31.22:521][754]MaterialEditorStats: Shader Count: 0
+[2024.06.07-20.31.23:803][810]MaterialEditorStats: Texture samplers: 1/16
+[2024.06.07-20.31.23:803][810]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.06.07-20.31.23:803][810]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.06.07-20.31.23:803][810]MaterialEditorStats: Shader Count: 1
+[2024.06.07-20.31.24:999][883]MaterialEditorStats: Texture samplers: 0/16
+[2024.06.07-20.31.24:999][883]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.06.07-20.31.24:999][883]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.06.07-20.31.24:999][883]MaterialEditorStats: Shader Count: 0
+[2024.06.07-20.31.25:321][893]MaterialEditorStats: Texture samplers: 1/16
+[2024.06.07-20.31.25:322][893]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.06.07-20.31.25:322][893]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.06.07-20.31.25:322][893]MaterialEditorStats: Shader Count: 1
+[2024.06.07-20.31.25:927][919]MaterialEditorStats: Base pass shader: 197 instructions
+[2024.06.07-20.31.25:927][919]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.06.07-20.31.25:927][919]MaterialEditorStats: Texture samplers: 4/16
+[2024.06.07-20.31.25:927][919]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.06.07-20.31.25:927][919]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.06.07-20.31.25:927][919]MaterialEditorStats: Shader Count: 4
+[2024.06.07-20.31.27:361][  3]MaterialEditorStats: Texture samplers: 0/16
+[2024.06.07-20.31.27:361][  3]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.06.07-20.31.27:361][  3]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.06.07-20.31.27:361][  3]MaterialEditorStats: Shader Count: 0
+[2024.06.07-20.31.27:473][  6]MaterialEditorStats: Base pass shader: 205 instructions
+[2024.06.07-20.31.27:473][  6]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.06.07-20.31.27:473][  6]MaterialEditorStats: Texture samplers: 5/16
+[2024.06.07-20.31.27:473][  6]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.06.07-20.31.27:473][  6]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.06.07-20.31.27:473][  6]MaterialEditorStats: Shader Count: 4
+[2024.06.07-20.31.28:537][ 57]LogMaterialEditor: Saving and Compiling material matWoodPlanks
+[2024.06.07-20.31.29:010][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2024.06.07-20.31.29:206][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2024.06.07-20.31.29:218][ 57]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.07-20.31.29:346][ 57]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/matWoodPlanks" FILE="D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/Materials/matWoodPlanks.uasset" SILENT=true
+[2024.06.07-20.31.29:348][ 57]LogSavePackage: Moving output files for package: /Game/Materials/matWoodPlanks
+[2024.06.07-20.31.29:349][ 57]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/matWoodPlanksA86F3044417DD58A6C96FA972C6694A6.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/Materials/matWoodPlanks.uasset'
+[2024.06.07-20.31.29:357][ 57]LogFileHelpers: InternalPromptForCheckoutAndSave took 139 ms (total: 6.29 sec)
+[2024.06.07-20.31.29:358][ 57]AssetCheck: New page: Asset Save: matWoodPlanks
+[2024.06.07-20.31.29:358][ 57]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Materials/matWoodPlanks.matWoodPlanks
+[2024.06.07-20.31.29:359][ 57]MaterialEditorStats: Base pass shader: 205 instructions
+[2024.06.07-20.31.29:359][ 57]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.06.07-20.31.29:359][ 57]MaterialEditorStats: MaxSampler: 268 instructions
+[2024.06.07-20.31.29:359][ 57]MaterialEditorStats: Texture samplers: 6/16
+[2024.06.07-20.31.29:359][ 57]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.06.07-20.31.29:359][ 57]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.06.07-20.31.29:359][ 57]MaterialEditorStats: Shader Count: 16
+[2024.06.07-20.31.34:398][179]LogSlate: Window 'matWoodPlanks' being destroyed
+[2024.06.07-20.31.34:405][179]LogSlate: Window 'matWoodPlanks' being destroyed
+[2024.06.07-20.31.34:427][179]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2024.06.07-20.31.34:427][179]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.07-20.31.42:018][597]LogEditorViewport: Clicking Background
+[2024.06.07-20.32.06:569][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.06.07-20.32.06:574][159]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/CZ/PVBZOCFPMV0BVJ1RYZZAGR_Auto3
+[2024.06.07-20.32.06:574][159]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/PVBZOCFPMV0BVJ1RYZZAGR_Auto36D0F1AD44FB2BB753D0B369791EBA177.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/CZ/PVBZOCFPMV0BVJ1RYZZAGR_Auto3.uasset'
+[2024.06.07-20.32.06:575][159]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.013
+[2024.06.07-20.32.06:575][159]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.013
+[2024.06.07-20.32.38:063][340]LogEditorViewport: Clicking Background
+[2024.06.07-20.32.38:834][378]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.06.07-20.32.39:549][417]LogEditorViewport: Clicking Background
+[2024.06.07-20.35.52:424][632]LogInterchangeEngine: [Pending] Importing
+[2024.06.07-20.35.52:424][632]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/justinel/Desktop/envWoodPlank_D_02.png]
+[2024.06.07-20.35.52:485][633]LogInterchangeEngine: [Pending] Importing
+[2024.06.07-20.35.52:571][635]LogTexture: Display: Building textures: /Game/Textures/envWoodPlank_D_02.envWoodPlank_D_02 (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.06.07-20.35.52:579][635]LogInterchangeEngine: [Success] Import Done
+[2024.06.07-20.35.52:656][636]LogInterchangeEngine: [Success] Import Done
+[2024.06.07-20.35.57:605][875]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Materials/matWoodPlanks.matWoodPlanks
+[2024.06.07-20.35.57:610][875]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.07-20.35.57:610][875]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.07-20.35.57:818][875]MaterialEditorStats: Texture samplers: 0/16
+[2024.06.07-20.35.57:819][875]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.06.07-20.35.57:819][875]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.06.07-20.35.57:819][875]MaterialEditorStats: Shader Count: 0
+[2024.06.07-20.35.57:831][875]LogViewport: Scene viewport resized to 433x468, mode Windowed.
+[2024.06.07-20.35.58:040][879]LogShaderCompilers: Display: ================================================
+[2024.06.07-20.35.58:040][879]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.06.07-20.35.58:040][879]LogShaderCompilers: Display: Total job queries 535, among them cache hits 315 (58.88%)
+[2024.06.07-20.35.58:040][879]LogShaderCompilers: Display: Tracking 216 distinct input hashes that result in 114 distinct outputs (52.78%)
+[2024.06.07-20.35.58:040][879]LogShaderCompilers: Display: RAM used: 4,79 MiB of 1,60 GiB budget. Usage: 0.29%
+[2024.06.07-20.35.58:040][879]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.06.07-20.35.58:040][879]LogShaderCompilers: Display: Shaders Compiled: 78
+[2024.06.07-20.35.58:040][879]LogShaderCompilers: Display: Jobs assigned 82, completed 78 (95.12%)
+[2024.06.07-20.35.58:040][879]LogShaderCompilers: Display: Average time worker was idle: 178.99 s
+[2024.06.07-20.35.58:040][879]LogShaderCompilers: Display: Time job spent in pending queue: average 0.08 s, longest 0.62 s
+[2024.06.07-20.35.58:040][879]LogShaderCompilers: Display: Job execution time: average 0.54 s, max 1.55 s
+[2024.06.07-20.35.58:040][879]LogShaderCompilers: Display: Job life time (pending + execution): average 0.62 s, max 1.62
+[2024.06.07-20.35.58:040][879]LogShaderCompilers: Display: Shader code size: average 41,562 KiB, min 30,859 KiB, max 71,035 KiB
+[2024.06.07-20.35.58:040][879]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 11.32 s
+[2024.06.07-20.35.58:040][879]LogShaderCompilers: Display: Jobs were issued in 82 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.06.07-20.35.58:040][879]LogShaderCompilers: Display: Average processing rate: 6.89 jobs/sec
+[2024.06.07-20.35.58:040][879]LogShaderCompilers: Display: Total thread time: 27,178 s
+[2024.06.07-20.35.58:040][879]LogShaderCompilers: Display: Total thread preprocess time: 4,657 s
+[2024.06.07-20.35.58:040][879]LogShaderCompilers: Display: Percentage time preprocessing: 17.13%
+[2024.06.07-20.35.58:040][879]LogShaderCompilers: Display: Effective parallelization: 2.40 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.06.07-20.35.58:040][879]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.06.07-20.35.58:040][879]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    3 times, average 0.43 sec, max 0.44 sec, min 0.41 sec)
+[2024.06.07-20.35.58:040][879]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    3 times, average 0.42 sec, max 0.43 sec, min 0.41 sec)
+[2024.06.07-20.35.58:040][879]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   12 times, average 0.40 sec, max 1.02 sec, min 0.29 sec)
+[2024.06.07-20.35.58:040][879]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    3 times, average 0.40 sec, max 0.42 sec, min 0.39 sec)
+[2024.06.07-20.35.58:040][879]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    3 times, average 0.40 sec, max 0.41 sec, min 0.39 sec)
+[2024.06.07-20.35.58:040][879]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.06.07-20.35.58:040][879]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 17.76% of total time (compiled   12 times, average 0.40 sec, max 1.02 sec, min 0.29 sec)
+[2024.06.07-20.35.58:040][879]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 17.13% of total time (compiled   12 times, average 0.39 sec, max 0.84 sec, min 0.29 sec)
+[2024.06.07-20.35.58:040][879]LogShaderCompilers: Display:                                                 FLumenCardVS - 12.56% of total time (compiled    9 times, average 0.38 sec, max 0.84 sec, min 0.28 sec)
+[2024.06.07-20.35.58:040][879]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 6.83% of total time (compiled    9 times, average 0.21 sec, max 0.63 sec, min 0.14 sec)
+[2024.06.07-20.35.58:040][879]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 4.75% of total time (compiled    3 times, average 0.43 sec, max 0.44 sec, min 0.41 sec)
+[2024.06.07-20.35.58:040][879]LogShaderCompilers: Display: ================================================
+[2024.06.07-20.35.58:423][896]MaterialEditorStats: Texture samplers: 2/16
+[2024.06.07-20.35.58:423][896]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.06.07-20.35.58:423][896]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.06.07-20.35.58:423][896]MaterialEditorStats: Shader Count: 1
+[2024.06.07-20.35.58:610][904]MaterialEditorStats: Base pass shader: 205 instructions
+[2024.06.07-20.35.58:610][904]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.06.07-20.35.58:610][904]MaterialEditorStats: Texture samplers: 5/16
+[2024.06.07-20.35.58:610][904]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.06.07-20.35.58:610][904]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.06.07-20.35.58:610][904]MaterialEditorStats: Shader Count: 4
+[2024.06.07-20.36.03:047][ 94]MaterialEditorStats: Texture samplers: 0/16
+[2024.06.07-20.36.03:048][ 94]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.06.07-20.36.03:048][ 94]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.06.07-20.36.03:048][ 94]MaterialEditorStats: Shader Count: 0
+[2024.06.07-20.36.03:099][ 95]MaterialEditorStats: Base pass shader: 205 instructions
+[2024.06.07-20.36.03:099][ 95]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.06.07-20.36.03:099][ 95]MaterialEditorStats: Texture samplers: 5/16
+[2024.06.07-20.36.03:099][ 95]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.06.07-20.36.03:099][ 95]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.06.07-20.36.03:099][ 95]MaterialEditorStats: Shader Count: 4
+[2024.06.07-20.36.06:056][232]LogMaterialEditor: Saving and Compiling material matWoodPlanks
+[2024.06.07-20.36.06:189][232]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.06.07-20.36.06:711][232]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2024.06.07-20.36.06:720][232]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.07-20.36.07:661][232]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/matWoodPlanks" FILE="D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/Materials/matWoodPlanks.uasset" SILENT=true
+[2024.06.07-20.36.07:664][232]LogSavePackage: Moving output files for package: /Game/Materials/matWoodPlanks
+[2024.06.07-20.36.07:664][232]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/matWoodPlanks48B3C4514773B46E144B5C95EC72D737.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/Materials/matWoodPlanks.uasset'
+[2024.06.07-20.36.07:671][232]LogFileHelpers: InternalPromptForCheckoutAndSave took 950 ms (total: 7.24 sec)
+[2024.06.07-20.36.07:672][232]AssetCheck: New page: Asset Save: matWoodPlanks
+[2024.06.07-20.36.07:672][232]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Materials/matWoodPlanks.matWoodPlanks
+[2024.06.07-20.36.07:677][232]MaterialEditorStats: Base pass shader: 205 instructions
+[2024.06.07-20.36.07:677][232]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.06.07-20.36.07:677][232]MaterialEditorStats: MaxSampler: 268 instructions
+[2024.06.07-20.36.07:677][232]MaterialEditorStats: Texture samplers: 6/16
+[2024.06.07-20.36.07:677][232]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.06.07-20.36.07:677][232]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.06.07-20.36.07:677][232]MaterialEditorStats: Shader Count: 16
+[2024.06.07-20.36.11:343][383]LogSlate: Window 'matWoodPlanks' being destroyed
+[2024.06.07-20.36.11:349][383]LogSlate: Window 'matWoodPlanks' being destroyed
+[2024.06.07-20.36.11:370][383]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2024.06.07-20.36.11:370][383]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.07-20.36.15:770][663]LogEditorViewport: Clicking Background
+[2024.06.07-20.37.19:776][665]LogDerivedDataCache: C:/Users/justinel/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:11.418 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 6230 files in 8378 folders with total size 324 MiB.
+[2024.06.07-20.37.37:915][784]LogInterchangeEngine: [Pending] Importing
+[2024.06.07-20.37.37:915][784]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/justinel/Desktop/envWoodPlank_D_02.png]
+[2024.06.07-20.37.38:013][784]LogInterchangeEngine: [Success] Import Done
+[2024.06.07-20.37.38:016][784]LogTexture: Display: Building textures: /Game/Textures/envWoodPlank_D_02.envWoodPlank_D_02 (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.06.07-20.37.38:107][785]LogInterchangeEngine: [Success] Import Done
+[2024.06.07-20.37.48:582][966]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.06.07-20.37.49:887][ 34]LogEditorViewport: Clicking Background
+[2024.06.07-20.37.58:239][500]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Materials/matWoodPlanks.matWoodPlanks
+[2024.06.07-20.37.58:244][500]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.07-20.37.58:244][500]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.06.07-20.37.58:460][500]MaterialEditorStats: Texture samplers: 0/16
+[2024.06.07-20.37.58:460][500]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.06.07-20.37.58:460][500]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.06.07-20.37.58:460][500]MaterialEditorStats: Shader Count: 0
+[2024.06.07-20.37.58:475][500]LogViewport: Scene viewport resized to 433x468, mode Windowed.
+[2024.06.07-20.37.58:573][502]MaterialEditorStats: Base pass shader: 205 instructions
+[2024.06.07-20.37.58:573][502]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.06.07-20.37.58:574][502]MaterialEditorStats: Texture samplers: 5/16
+[2024.06.07-20.37.58:574][502]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.06.07-20.37.58:574][502]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.06.07-20.37.58:574][502]MaterialEditorStats: Shader Count: 4
+[2024.06.07-20.38.10:533][811]LogSlate: Window 'matWoodPlanks' being destroyed
+[2024.06.07-20.38.10:539][811]LogSlate: Window 'matWoodPlanks' being destroyed
+[2024.06.07-20.38.10:560][811]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2024.06.07-20.38.10:560][811]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.07-20.38.12:111][892]LogEditorViewport: Clicking Background
+[2024.06.07-20.38.22:561][330]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.06.07-20.38.22:568][330]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.07-20.38.22:622][330]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/CZ/PVBZOCFPMV0BVJ1RYZZAGR
+[2024.06.07-20.38.22:622][330]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/PVBZOCFPMV0BVJ1RYZZAGRE40C58BF4ED0FA510DAAE995CB1D0793.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/CZ/PVBZOCFPMV0BVJ1RYZZAGR.uasset'
+[2024.06.07-20.38.22:626][330]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/envWoodPlank_D_02" FILE="D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/Textures/envWoodPlank_D_02.uasset" SILENT=true
+[2024.06.07-20.38.22:713][330]LogSavePackage: Moving output files for package: /Game/Textures/envWoodPlank_D_02
+[2024.06.07-20.38.22:713][330]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/envWoodPlank_D_02C391D82D4B0805AF219F3AA95FE725D7.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/Textures/envWoodPlank_D_02.uasset'
+[2024.06.07-20.38.22:721][330]LogFileHelpers: InternalPromptForCheckoutAndSave took 152 ms (total: 7.39 sec)
+[2024.06.07-20.38.22:730][330]AssetCheck: New page: Asset Save: multiple assets
+[2024.06.07-20.38.22:730][330]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_04D9F51D25101AFD01_1296286914
+[2024.06.07-20.38.22:730][330]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Textures/envWoodPlank_D_02.envWoodPlank_D_02
+[2024.06.07-20.41.03:567][536]LogD3D12RHI: Warning: Descriptor cache ran out of sub allocated descriptor blocks! Moving to Context local View heap strategy
+[2024.06.07-20.41.03:567][536]LogD3D12RHI: This should only happen in the Editor where it doesn't matter as much. If it happens in game you should increase the device global heap size!
+[2024.06.07-20.41.16:704][ 94]LogEditorViewport: Clicking Background
+[2024.06.07-20.44.55:440][885]LogD3D12RHI: OnlineHeap RollOver Detected. Increase the heap size to prevent creation of additional heaps
+[2024.06.07-20.44.58:240][ 66]LogEditorViewport: Clicking Background
+[2024.06.07-20.45.00:365][184]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.06.07-20.45.04:554][415]LogEditorViewport: Clicking Background
+[2024.06.07-20.45.48:137][ 76]LogEditorViewport: Clicking Background
+[2024.06.07-20.46.14:018][114]LogEditorFactories: Display: Exporting Texture as PNG Layer 0/1 Block 0/1
+[2024.06.07-20.47.53:657][510]LogEditorViewport: Clicking Background
+[2024.06.07-21.01.06:795][923]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.06.07-21.01.06:800][923]LogStall: Shutdown...
+[2024.06.07-21.01.06:804][923]LogStall: Shutdown complete.
+[2024.06.07-21.01.06:859][923]LogSlate: Window 'OutdoorEnv - Unreal Editor' being destroyed
+[2024.06.07-21.01.06:922][923]LogSlate: Window 'High Resolution Screenshot' being destroyed
+[2024.06.07-21.01.06:945][924]Cmd: QUIT_EDITOR
+[2024.06.07-21.01.06:945][924]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2024.06.07-21.01.06:947][924]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2024.06.07-21.01.06:948][924]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2024.06.07-21.01.06:948][924]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2024.06.07-21.01.06:955][924]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.06.07-21.01.06:956][924]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.07-21.01.06:961][924]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.06.07-21.01.06:967][924]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2024.06.07-21.01.07:122][924]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2024.06.07-21.01.07:122][924]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2024.06.07-21.01.07:122][924]LogAudio: Display: Audio Device unregistered from world 'ThirdPersonMap'.
+[2024.06.07-21.01.07:122][924]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 1
+[2024.06.07-21.01.07:122][924]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.06.07-21.01.07:124][924]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.06.07-21.01.07:132][924]LogAudio: Display: Audio Device Manager Shutdown
+[2024.06.07-21.01.07:132][924]LogWindowsTextInputMethodSystem: Activated input method: Français (Canada) - (Keyboard).
+[2024.06.07-21.01.07:136][924]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2024.06.07-21.01.07:136][924]LogExit: Preparing to exit.
+[2024.06.07-21.01.07:184][924]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.06.07-21.01.07:766][924]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2024.06.07-21.01.07:766][924]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2024.06.07-21.01.07:767][924]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2024.06.07-21.01.07:812][924]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2024.06.07-21.01.07:828][924]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2024.06.07-21.01.07:853][924]LogExit: Editor shut down
+[2024.06.07-21.01.07:855][924]LogExit: Transaction tracking system shut down
+[2024.06.07-21.01.07:954][924]LogExit: Object subsystem successfully closed.
+[2024.06.07-21.01.07:961][924]LogShaderCompilers: Display: ================================================
+[2024.06.07-21.01.07:961][924]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.06.07-21.01.07:961][924]LogShaderCompilers: Display: Total job queries 589, among them cache hits 357 (60.61%)
+[2024.06.07-21.01.07:961][924]LogShaderCompilers: Display: Tracking 232 distinct input hashes that result in 115 distinct outputs (49.57%)
+[2024.06.07-21.01.07:961][924]LogShaderCompilers: Display: RAM used: 5,19 MiB of 1,60 GiB budget. Usage: 0.32%
+[2024.06.07-21.01.07:961][924]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.06.07-21.01.07:961][924]LogShaderCompilers: Display: Shaders Compiled: 94
+[2024.06.07-21.01.07:961][924]LogShaderCompilers: Display: Jobs assigned 94, completed 94 (100%)
+[2024.06.07-21.01.07:961][924]LogShaderCompilers: Display: Average time worker was idle: 283.40 s
+[2024.06.07-21.01.07:962][924]LogShaderCompilers: Display: Time job spent in pending queue: average 0.08 s, longest 0.62 s
+[2024.06.07-21.01.07:962][924]LogShaderCompilers: Display: Job execution time: average 0.54 s, max 1.55 s
+[2024.06.07-21.01.07:962][924]LogShaderCompilers: Display: Job life time (pending + execution): average 0.62 s, max 1.62
+[2024.06.07-21.01.07:962][924]LogShaderCompilers: Display: Shader code size: average 41,893 KiB, min 30,859 KiB, max 71,035 KiB
+[2024.06.07-21.01.07:962][924]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 13.22 s
+[2024.06.07-21.01.07:962][924]LogShaderCompilers: Display: Jobs were issued in 94 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.06.07-21.01.07:962][924]LogShaderCompilers: Display: Average processing rate: 7.11 jobs/sec
+[2024.06.07-21.01.07:962][924]LogShaderCompilers: Display: Total thread time: 32,571 s
+[2024.06.07-21.01.07:962][924]LogShaderCompilers: Display: Total thread preprocess time: 5,21 s
+[2024.06.07-21.01.07:962][924]LogShaderCompilers: Display: Percentage time preprocessing: 16.00%
+[2024.06.07-21.01.07:962][924]LogShaderCompilers: Display: Effective parallelization: 2.46 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.06.07-21.01.07:962][924]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.06.07-21.01.07:962][924]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    4 times, average 0.43 sec, max 0.44 sec, min 0.41 sec)
+[2024.06.07-21.01.07:962][924]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    4 times, average 0.42 sec, max 0.43 sec, min 0.41 sec)
+[2024.06.07-21.01.07:962][924]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   13 times, average 0.40 sec, max 1.02 sec, min 0.29 sec)
+[2024.06.07-21.01.07:962][924]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled    4 times, average 0.40 sec, max 0.41 sec, min 0.39 sec)
+[2024.06.07-21.01.07:962][924]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    4 times, average 0.40 sec, max 0.42 sec, min 0.39 sec)
+[2024.06.07-21.01.07:962][924]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.06.07-21.01.07:962][924]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 16.04% of total time (compiled   13 times, average 0.40 sec, max 1.02 sec, min 0.29 sec)
+[2024.06.07-21.01.07:962][924]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 15.40% of total time (compiled   13 times, average 0.39 sec, max 0.84 sec, min 0.29 sec)
+[2024.06.07-21.01.07:962][924]LogShaderCompilers: Display:                                                 FLumenCardVS - 11.55% of total time (compiled   10 times, average 0.38 sec, max 0.84 sec, min 0.28 sec)
+[2024.06.07-21.01.07:962][924]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 6.19% of total time (compiled   10 times, average 0.20 sec, max 0.63 sec, min 0.14 sec)
+[2024.06.07-21.01.07:962][924]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 5.27% of total time (compiled    4 times, average 0.43 sec, max 0.44 sec, min 0.41 sec)
+[2024.06.07-21.01.07:962][924]LogShaderCompilers: Display: ================================================
+[2024.06.07-21.01.08:025][924]LogShaderCompilers: Display: Shaders left to compile 0
+[2024.06.07-21.01.08:052][924]LogVirtualization: UE::Virtualization was shutdown
+[2024.06.07-21.01.08:101][924]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (1058)
+[2024.06.07-21.01.08:101][924]LogModuleManager: Shutting down and abandoning module MaterialEditor (1056)
+[2024.06.07-21.01.08:101][924]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (1054)
+[2024.06.07-21.01.08:101][924]LogModuleManager: Shutting down and abandoning module SubobjectEditor (1052)
+[2024.06.07-21.01.08:101][924]LogModuleManager: Shutting down and abandoning module SceneOutliner (1050)
+[2024.06.07-21.01.08:101][924]LogModuleManager: Shutting down and abandoning module AddContentDialog (1048)
+[2024.06.07-21.01.08:101][924]LogModuleManager: Shutting down and abandoning module WidgetCarousel (1047)
+[2024.06.07-21.01.08:101][924]LogModuleManager: Shutting down and abandoning module StatusBar (1044)
+[2024.06.07-21.01.08:101][924]LogModuleManager: Shutting down and abandoning module UnsavedAssetsTracker (1042)
+[2024.06.07-21.01.08:101][924]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (1040)
+[2024.06.07-21.01.08:101][924]LogModuleManager: Shutting down and abandoning module DataLayerEditor (1038)
+[2024.06.07-21.01.08:101][924]LogModuleManager: Shutting down and abandoning module StatsViewer (1036)
+[2024.06.07-21.01.08:101][924]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (1034)
+[2024.06.07-21.01.08:101][924]LogModuleManager: Shutting down and abandoning module AutomationWorker (1032)
+[2024.06.07-21.01.08:101][924]LogModuleManager: Shutting down and abandoning module PlanarCut (1030)
+[2024.06.07-21.01.08:101][924]LogModuleManager: Shutting down and abandoning module FractureEngine (1028)
+[2024.06.07-21.01.08:101][924]LogModuleManager: Shutting down and abandoning module CharacterAI (1026)
+[2024.06.07-21.01.08:101][924]LogModuleManager: Shutting down and abandoning module SmartSnapping (1024)
+[2024.06.07-21.01.08:101][924]LogModuleManager: Shutting down and abandoning module GraphNUnrealPlugin (1022)
+[2024.06.07-21.01.08:101][924]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (1020)
+[2024.06.07-21.01.08:101][924]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (1018)
+[2024.06.07-21.01.08:101][924]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (1016)
+[2024.06.07-21.01.08:101][924]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (1014)
+[2024.06.07-21.01.08:101][924]LogModuleManager: Shutting down and abandoning module WebMMedia (1012)
+[2024.06.07-21.01.08:101][924]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (1010)
+[2024.06.07-21.01.08:101][924]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (1008)
+[2024.06.07-21.01.08:101][924]LogModuleManager: Shutting down and abandoning module SequenceRecorder (1007)
+[2024.06.07-21.01.08:101][924]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (1004)
+[2024.06.07-21.01.08:101][924]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (1002)
+[2024.06.07-21.01.08:101][924]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (1000)
+[2024.06.07-21.01.08:101][924]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (998)
+[2024.06.07-21.01.08:101][924]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (996)
+[2024.06.07-21.01.08:101][924]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (994)
+[2024.06.07-21.01.08:101][924]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (992)
+[2024.06.07-21.01.08:101][924]LogModuleManager: Shutting down and abandoning module IKRigEditor (990)
+[2024.06.07-21.01.08:102][924]LogModuleManager: Shutting down and abandoning module ControlRigEditor (988)
+[2024.06.07-21.01.08:102][924]LogModuleManager: Shutting down and abandoning module WaveTableEditor (986)
+[2024.06.07-21.01.08:102][924]LogModuleManager: Shutting down and abandoning module RigVMEditor (984)
+[2024.06.07-21.01.08:102][924]LogModuleManager: Shutting down and abandoning module ResonanceAudioEditor (982)
+[2024.06.07-21.01.08:102][924]LogModuleManager: Shutting down and abandoning module HDRIBackdrop (980)
+[2024.06.07-21.01.08:102][924]LogModuleManager: Shutting down and abandoning module GooglePADEditor (978)
+[2024.06.07-21.01.08:102][924]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (976)
+[2024.06.07-21.01.08:102][924]LogModuleManager: Shutting down and abandoning module AndroidFileServerEditor (974)
+[2024.06.07-21.01.08:102][924]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (972)
+[2024.06.07-21.01.08:102][924]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (970)
+[2024.06.07-21.01.08:102][924]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (968)
+[2024.06.07-21.01.08:102][924]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (966)
+[2024.06.07-21.01.08:102][924]LogModuleManager: Shutting down and abandoning module TextureAlignMode (964)
+[2024.06.07-21.01.08:102][924]LogModuleManager: Shutting down and abandoning module BspMode (962)
+[2024.06.07-21.01.08:102][924]LogModuleManager: Shutting down and abandoning module GeometryMode (960)
+[2024.06.07-21.01.08:102][924]LogModuleManager: Shutting down and abandoning module EngineAssetDefinitions (958)
+[2024.06.07-21.01.08:102][924]LogModuleManager: Shutting down and abandoning module SessionServices (956)
+[2024.06.07-21.01.08:102][924]LogModuleManager: Shutting down and abandoning module MeshPaint (954)
+[2024.06.07-21.01.08:102][924]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (952)
+[2024.06.07-21.01.08:102][924]LogModuleManager: Shutting down and abandoning module PlacementMode (951)
+[2024.06.07-21.01.08:102][924]LogModuleManager: Shutting down and abandoning module FoliageEdit (948)
+[2024.06.07-21.01.08:102][924]LogModuleManager: Shutting down and abandoning module LandscapeEditor (946)
+[2024.06.07-21.01.08:102][924]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (944)
+[2024.06.07-21.01.08:102][924]LogModuleManager: Shutting down and abandoning module ActorPickerMode (942)
+[2024.06.07-21.01.08:102][924]LogModuleManager: Shutting down and abandoning module ViewportSnapping (940)
+[2024.06.07-21.01.08:102][924]LogModuleManager: Shutting down and abandoning module EditorWidgets (938)
+[2024.06.07-21.01.08:102][924]LogModuleManager: Shutting down and abandoning module ViewportInteraction (936)
+[2024.06.07-21.01.08:102][924]LogModuleManager: Shutting down and abandoning module ClothPainter (934)
+[2024.06.07-21.01.08:103][924]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (933)
+[2024.06.07-21.01.08:103][924]LogModuleManager: Shutting down and abandoning module WidgetRegistration (930)
+[2024.06.07-21.01.08:103][924]LogModuleManager: Shutting down and abandoning module LogVisualizer (928)
+[2024.06.07-21.01.08:103][924]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (926)
+[2024.06.07-21.01.08:103][924]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (924)
+[2024.06.07-21.01.08:103][924]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (923)
+[2024.06.07-21.01.08:103][924]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (921)
+[2024.06.07-21.01.08:947][924]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (918)
+[2024.06.07-21.01.08:947][924]LogModuleManager: Shutting down and abandoning module MacPlatformEditor (916)
+[2024.06.07-21.01.08:947][924]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (914)
+[2024.06.07-21.01.08:947][924]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (912)
+[2024.06.07-21.01.08:947][924]LogModuleManager: Shutting down and abandoning module RenderResourceViewer (910)
+[2024.06.07-21.01.08:947][924]LogModuleManager: Shutting down and abandoning module GameplayDebuggerEditor (908)
+[2024.06.07-21.01.08:948][924]LogModuleManager: Shutting down and abandoning module AnimationSettings (906)
+[2024.06.07-21.01.08:948][924]LogModuleManager: Shutting down and abandoning module VirtualizationEditor (904)
+[2024.06.07-21.01.08:948][924]LogModuleManager: Shutting down and abandoning module CSVtoSVG (902)
+[2024.06.07-21.01.08:948][924]LogModuleManager: Shutting down and abandoning module DerivedDataEditor (900)
+[2024.06.07-21.01.08:948][924]LogModuleManager: Shutting down and abandoning module EditorConfig (898)
+[2024.06.07-21.01.08:948][924]LogModuleManager: Shutting down and abandoning module EditorFramework (896)
+[2024.06.07-21.01.08:948][924]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (894)
+[2024.06.07-21.01.08:948][924]LogModuleManager: Shutting down and abandoning module TraceInsights (892)
+[2024.06.07-21.01.08:948][924]MemoryProfiler: Shutdown
+[2024.06.07-21.01.08:948][924]NetworkingProfiler: Shutdown
+[2024.06.07-21.01.08:948][924]LoadingProfiler: Shutdown
+[2024.06.07-21.01.08:948][924]TimingProfiler: Shutdown
+[2024.06.07-21.01.08:948][924]LogModuleManager: Shutting down and abandoning module TraceServices (891)
+[2024.06.07-21.01.08:948][924]LogModuleManager: Shutting down and abandoning module TraceAnalysis (890)
+[2024.06.07-21.01.08:948][924]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (886)
+[2024.06.07-21.01.08:948][924]LogModuleManager: Shutting down and abandoning module InteractiveToolsFramework (885)
+[2024.06.07-21.01.08:948][924]LogModuleManager: Shutting down and abandoning module InputBindingEditor (882)
+[2024.06.07-21.01.08:948][924]LogModuleManager: Shutting down and abandoning module MergeActors (880)
+[2024.06.07-21.01.08:948][924]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (878)
+[2024.06.07-21.01.08:948][924]LogModuleManager: Shutting down and abandoning module LocalizationService (877)
+[2024.06.07-21.01.08:948][924]LogModuleManager: Shutting down and abandoning module HardwareTargeting (874)
+[2024.06.07-21.01.08:948][924]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (872)
+[2024.06.07-21.01.08:948][924]LogModuleManager: Shutting down and abandoning module UndoHistory (870)
+[2024.06.07-21.01.08:948][924]LogModuleManager: Shutting down and abandoning module XmlParser (868)
+[2024.06.07-21.01.08:948][924]LogModuleManager: Shutting down and abandoning module Blutility (866)
+[2024.06.07-21.01.08:948][924]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (864)
+[2024.06.07-21.01.08:948][924]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (863)
+[2024.06.07-21.01.08:948][924]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (860)
+[2024.06.07-21.01.08:948][924]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (859)
+[2024.06.07-21.01.08:948][924]LogModuleManager: Shutting down and abandoning module SettingsEditor (856)
+[2024.06.07-21.01.08:948][924]LogModuleManager: Shutting down and abandoning module ProjectLauncher (854)
+[2024.06.07-21.01.08:948][924]LogModuleManager: Shutting down and abandoning module SessionFrontend (852)
+[2024.06.07-21.01.08:948][924]LogModuleManager: Shutting down and abandoning module ProfilerClient (850)
+[2024.06.07-21.01.08:948][924]LogModuleManager: Shutting down and abandoning module DeviceManager (848)
+[2024.06.07-21.01.08:948][924]LogModuleManager: Shutting down and abandoning module AutomationController (846)
+[2024.06.07-21.01.08:948][924]LogModuleManager: Shutting down and abandoning module AutomationWindow (844)
+[2024.06.07-21.01.08:948][924]LogModuleManager: Shutting down and abandoning module Layers (842)
+[2024.06.07-21.01.08:948][924]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (840)
+[2024.06.07-21.01.08:948][924]LogModuleManager: Shutting down and abandoning module DetailCustomizations (838)
+[2024.06.07-21.01.08:948][924]LogModuleManager: Shutting down and abandoning module PackagesDialog (836)
+[2024.06.07-21.01.08:948][924]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (834)
+[2024.06.07-21.01.08:948][924]LogModuleManager: Shutting down and abandoning module Persona (832)
+[2024.06.07-21.01.08:948][924]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (831)
+[2024.06.07-21.01.08:948][924]LogModuleManager: Shutting down and abandoning module Kismet (828)
+[2024.06.07-21.01.08:949][924]LogModuleManager: Shutting down and abandoning module KismetWidgets (827)
+[2024.06.07-21.01.08:949][924]LogModuleManager: Shutting down and abandoning module GraphEditor (824)
+[2024.06.07-21.01.08:949][924]LogModuleManager: Shutting down and abandoning module StructViewer (822)
+[2024.06.07-21.01.08:949][924]LogModuleManager: Shutting down and abandoning module ClassViewer (820)
+[2024.06.07-21.01.08:949][924]LogModuleManager: Shutting down and abandoning module UncontrolledChangelists (818)
+[2024.06.07-21.01.08:949][924]LogModuleManager: Shutting down and abandoning module SourceControlWindowExtender (816)
+[2024.06.07-21.01.08:949][924]LogModuleManager: Shutting down and abandoning module SourceControlWindows (814)
+[2024.06.07-21.01.08:949][924]LogModuleManager: Shutting down and abandoning module OutputLog (812)
+[2024.06.07-21.01.08:949][924]LogModuleManager: Shutting down and abandoning module Documentation (810)
+[2024.06.07-21.01.08:949][924]LogModuleManager: Shutting down and abandoning module SparseVolumeTexture (808)
+[2024.06.07-21.01.08:949][924]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (806)
+[2024.06.07-21.01.08:949][924]LogModuleManager: Shutting down and abandoning module MovieScene (804)
+[2024.06.07-21.01.08:949][924]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (802)
+[2024.06.07-21.01.08:949][924]LogModuleManager: Shutting down and abandoning module BinkAudioDecoder (800)
+[2024.06.07-21.01.08:949][924]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (798)
+[2024.06.07-21.01.08:949][924]LogModuleManager: Shutting down and abandoning module AudioMixer (797)
+[2024.06.07-21.01.08:949][924]LogModuleManager: Shutting down and abandoning module AudioMixerCore (796)
+[2024.06.07-21.01.08:949][924]LogModuleManager: Shutting down and abandoning module LauncherPlatform (792)
+[2024.06.07-21.01.08:949][924]LogModuleManager: Shutting down and abandoning module AnalyticsET (790)
+[2024.06.07-21.01.08:949][924]LogModuleManager: Shutting down and abandoning module PortalServices (788)
+[2024.06.07-21.01.08:949][924]LogModuleManager: Shutting down and abandoning module PortalRpc (786)
+[2024.06.07-21.01.08:949][924]LogModuleManager: Shutting down and abandoning module MessagingRpc (784)
+[2024.06.07-21.01.08:949][924]LogModuleManager: Shutting down and abandoning module AIModule (782)
+[2024.06.07-21.01.08:949][924]LogModuleManager: Shutting down and abandoning module GameplayDebugger (781)
+[2024.06.07-21.01.08:949][924]LogModuleManager: Shutting down and abandoning module AITestSuite (779)
+[2024.06.07-21.01.08:949][924]LogModuleManager: Shutting down and abandoning module NavigationSystem (777)
+[2024.06.07-21.01.08:949][924]LogModuleManager: Shutting down and abandoning module LevelInstanceEditor (774)
+[2024.06.07-21.01.08:949][924]LogModuleManager: Shutting down and abandoning module TypedElementRuntime (772)
+[2024.06.07-21.01.08:949][924]LogModuleManager: Shutting down and abandoning module TypedElementFramework (770)
+[2024.06.07-21.01.08:949][924]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (768)
+[2024.06.07-21.01.08:949][924]LogModuleManager: Shutting down and abandoning module ProfilerService (766)
+[2024.06.07-21.01.09:082][924]LogModuleManager: Shutting down and abandoning module ProfileVisualizer (764)
+[2024.06.07-21.01.09:082][924]LogModuleManager: Shutting down and abandoning module CacheTrackRecorder (762)
+[2024.06.07-21.01.09:082][924]LogModuleManager: Shutting down and abandoning module TakeRecorderSources (760)
+[2024.06.07-21.01.09:082][924]LogModuleManager: Shutting down and abandoning module TakeTrackRecorders (758)
+[2024.06.07-21.01.09:082][924]LogModuleManager: Shutting down and abandoning module TakesCore (756)
+[2024.06.07-21.01.09:082][924]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (754)
+[2024.06.07-21.01.09:082][924]LogModuleManager: Shutting down and abandoning module MegascansPlugin (752)
+[2024.06.07-21.01.09:082][924]LogModuleManager: Shutting down and abandoning module Bridge (750)
+[2024.06.07-21.01.09:082][924]LogModuleManager: Shutting down and abandoning module ObjectMixerEditor (748)
+[2024.06.07-21.01.09:082][924]LogModuleManager: Shutting down and abandoning module LightMixer (746)
+[2024.06.07-21.01.09:082][924]LogModuleManager: Shutting down and abandoning module ContentBrowserFileDataSource (744)
+[2024.06.07-21.01.09:082][924]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (742)
+[2024.06.07-21.01.09:082][924]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (740)
+[2024.06.07-21.01.09:082][924]LogModuleManager: Shutting down and abandoning module CollectionManager (739)
+[2024.06.07-21.01.09:082][924]LogModuleManager: Shutting down and abandoning module PortableObjectFileDataSource (736)
+[2024.06.07-21.01.09:082][924]LogModuleManager: Shutting down and abandoning module ToolPresetEditor (734)
+[2024.06.07-21.01.09:082][924]LogModuleManager: Shutting down and abandoning module ToolPresetAsset (732)
+[2024.06.07-21.01.09:082][924]LogModuleManager: Shutting down and abandoning module StructUtilsTestSuite (730)
+[2024.06.07-21.01.09:082][924]LogModuleManager: Shutting down and abandoning module StructUtilsNodes (728)
+[2024.06.07-21.01.09:082][924]LogModuleManager: Shutting down and abandoning module StructUtilsEditor (726)
+[2024.06.07-21.01.09:082][924]LogModuleManager: Shutting down and abandoning module StructUtilsEngine (724)
+[2024.06.07-21.01.09:082][924]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (722)
+[2024.06.07-21.01.09:082][924]LogOpenImageDenoise: OIDN shutting down
+[2024.06.07-21.01.09:082][924]LogModuleManager: Shutting down and abandoning module SkeletalMeshModifiers (720)
+[2024.06.07-21.01.09:082][924]LogModuleManager: Shutting down and abandoning module ModelingEditorUI (718)
+[2024.06.07-21.01.09:082][924]LogModuleManager: Shutting down and abandoning module GeometryProcessingAdapters (716)
+[2024.06.07-21.01.09:082][924]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnlyExp (714)
+[2024.06.07-21.01.09:082][924]LogModuleManager: Shutting down and abandoning module MeshModelingToolsExp (712)
+[2024.06.07-21.01.09:082][924]LogModuleManager: Shutting down and abandoning module MeshLODToolset (710)
+[2024.06.07-21.01.09:082][924]LogModuleManager: Shutting down and abandoning module LocalizableMessageBlueprint (708)
+[2024.06.07-21.01.09:082][924]LogModuleManager: Shutting down and abandoning module LocalizableMessage (706)
+[2024.06.07-21.01.09:082][924]LogModuleManager: Shutting down and abandoning module GeometryFlowMeshProcessingEditor (704)
+[2024.06.07-21.01.09:082][924]LogModuleManager: Shutting down and abandoning module GeometryFlowMeshProcessing (702)
+[2024.06.07-21.01.09:082][924]LogModuleManager: Shutting down and abandoning module GeometryFlowCore (700)
+[2024.06.07-21.01.09:082][924]LogModuleManager: Shutting down and abandoning module GeometryCollectionNodes (698)
+[2024.06.07-21.01.09:082][924]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (696)
+[2024.06.07-21.01.09:082][924]LogModuleManager: Shutting down and abandoning module GeometryCollectionEngine (695)
+[2024.06.07-21.01.09:082][924]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (693)
+[2024.06.07-21.01.09:082][924]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (690)
+[2024.06.07-21.01.09:083][924]LogModuleManager: Shutting down and abandoning module DataflowNodes (688)
+[2024.06.07-21.01.09:083][924]LogModuleManager: Shutting down and abandoning module DataflowEnginePlugin (686)
+[2024.06.07-21.01.09:083][924]LogModuleManager: Shutting down and abandoning module DataflowEditor (684)
+[2024.06.07-21.01.09:083][924]LogModuleManager: Shutting down and abandoning module ChaosUserDataPT (682)
+[2024.06.07-21.01.09:083][924]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (680)
+[2024.06.07-21.01.09:083][924]LogModuleManager: Shutting down and abandoning module FractureEditor (678)
+[2024.06.07-21.01.09:083][924]LogModuleManager: Shutting down and abandoning module ChaosNiagara (676)
+[2024.06.07-21.01.09:083][924]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (674)
+[2024.06.07-21.01.09:083][924]LogModuleManager: Shutting down and abandoning module BackChannel (672)
+[2024.06.07-21.01.09:083][924]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (670)
+[2024.06.07-21.01.09:083][924]LogModuleManager: Shutting down and abandoning module AutomationUtils (668)
+[2024.06.07-21.01.09:083][924]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (666)
+[2024.06.07-21.01.09:083][924]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (664)
+[2024.06.07-21.01.09:083][924]LogModuleManager: Shutting down and abandoning module Paper2DEditor (662)
+[2024.06.07-21.01.09:083][924]LogModuleManager: Shutting down and abandoning module TakeSequencer (660)
+[2024.06.07-21.01.09:083][924]LogModuleManager: Shutting down and abandoning module TakeMovieScene (658)
+[2024.06.07-21.01.09:083][924]LogModuleManager: Shutting down and abandoning module VariantManager (656)
+[2024.06.07-21.01.09:083][924]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (655)
+[2024.06.07-21.01.09:083][924]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (652)
+[2024.06.07-21.01.09:083][924]LogModuleManager: Shutting down and abandoning module MediaPlateEditor (650)
+[2024.06.07-21.01.09:083][924]LogModuleManager: Shutting down and abandoning module MediaPlate (648)
+[2024.06.07-21.01.09:083][924]LogModuleManager: Shutting down and abandoning module MediaCompositing (646)
+[2024.06.07-21.01.09:083][924]LogModuleManager: Shutting down and abandoning module ImgMedia (644)
+[2024.06.07-21.01.09:083][924]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (642)
+[2024.06.07-21.01.09:083][924]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (640)
+[2024.06.07-21.01.09:083][924]LogModuleManager: Shutting down and abandoning module UObjectPlugin (638)
+[2024.06.07-21.01.09:083][924]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (636)
+[2024.06.07-21.01.09:083][924]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (634)
+[2024.06.07-21.01.09:083][924]LogModuleManager: Shutting down and abandoning module PluginUtils (632)
+[2024.06.07-21.01.09:083][924]LogModuleManager: Shutting down and abandoning module N10XSourceCodeAccess (630)
+[2024.06.07-21.01.09:083][924]LogModuleManager: Shutting down and abandoning module GitSourceControl (628)
+[2024.06.07-21.01.09:083][924]LogModuleManager: Shutting down and abandoning module DumpGPUServices (626)
+[2024.06.07-21.01.09:083][924]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (624)
+[2024.06.07-21.01.09:083][924]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (622)
+[2024.06.07-21.01.09:083][924]LogModuleManager: Shutting down and abandoning module InterchangeTestEditor (620)
+[2024.06.07-21.01.09:083][924]LogModuleManager: Shutting down and abandoning module InterchangeTests (618)
+[2024.06.07-21.01.09:083][924]LogModuleManager: Shutting down and abandoning module ControlRigSpline (616)
+[2024.06.07-21.01.09:083][924]LogModuleManager: Shutting down and abandoning module BlendSpaceMotionAnalysis (614)
+[2024.06.07-21.01.09:083][924]LogModuleManager: Shutting down and abandoning module AnimationModifierLibrary (612)
+[2024.06.07-21.01.09:083][924]LogModuleManager: Shutting down and abandoning module ACLPluginEditor (610)
+[2024.06.07-21.01.09:083][924]LogModuleManager: Shutting down and abandoning module AlembicImporter (608)
+[2024.06.07-21.01.09:083][924]LogModuleManager: Shutting down and abandoning module AlembicLibrary (607)
+[2024.06.07-21.01.09:083][924]LogModuleManager: Shutting down and abandoning module SynthesisEditor (604)
+[2024.06.07-21.01.09:083][924]LogModuleManager: Shutting down and abandoning module ResonanceAudio (602)
+[2024.06.07-21.01.09:083][924]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (600)
+[2024.06.07-21.01.09:083][924]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (598)
+[2024.06.07-21.01.09:083][924]LogModuleManager: Shutting down and abandoning module ModelingOperatorsEditorOnly (596)
+[2024.06.07-21.01.09:083][924]LogModuleManager: Shutting down and abandoning module ModelingOperators (594)
+[2024.06.07-21.01.09:083][924]LogModuleManager: Shutting down and abandoning module ModelingComponentsEditorOnly (592)
+[2024.06.07-21.01.09:083][924]LogModuleManager: Shutting down and abandoning module ModelingComponents (590)
+[2024.06.07-21.01.09:083][924]LogModuleManager: Shutting down and abandoning module GeometryFramework (589)
+[2024.06.07-21.01.09:083][924]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnly (586)
+[2024.06.07-21.01.09:083][924]LogModuleManager: Shutting down and abandoning module MeshModelingTools (584)
+[2024.06.07-21.01.09:083][924]LogModuleManager: Shutting down and abandoning module InputDebuggingEditor (582)
+[2024.06.07-21.01.09:083][924]LogModuleManager: Shutting down and abandoning module InputDebugging (580)
+[2024.06.07-21.01.09:083][924]LogModuleManager: Shutting down and abandoning module GooglePAD (578)
+[2024.06.07-21.01.09:083][924]LogModuleManager: Shutting down and abandoning module DynamicMesh (576)
+[2024.06.07-21.01.09:083][924]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (574)
+[2024.06.07-21.01.09:083][924]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (572)
+[2024.06.07-21.01.09:083][924]LogModuleManager: Shutting down and abandoning module GeometryCache (570)
+[2024.06.07-21.01.09:083][924]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (568)
+[2024.06.07-21.01.09:083][924]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (566)
+[2024.06.07-21.01.09:083][924]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (564)
+[2024.06.07-21.01.09:083][924]LogModuleManager: Shutting down and abandoning module AudioCapture (562)
+[2024.06.07-21.01.09:083][924]LogModuleManager: Shutting down and abandoning module AudioCaptureWasapi (561)
+[2024.06.07-21.01.09:083][924]LogModuleManager: Shutting down and abandoning module AssetTags (558)
+[2024.06.07-21.01.09:083][924]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (556)
+[2024.06.07-21.01.09:083][924]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (554)
+[2024.06.07-21.01.09:083][924]LogModuleManager: Shutting down and abandoning module AppleImageUtils (552)
+[2024.06.07-21.01.09:083][924]LogModuleManager: Shutting down and abandoning module AndroidPermission (550)
+[2024.06.07-21.01.09:083][924]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (548)
+[2024.06.07-21.01.09:083][924]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (546)
+[2024.06.07-21.01.09:083][924]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (544)
+[2024.06.07-21.01.09:083][924]LogModuleManager: Shutting down and abandoning module TemplateSequence (542)
+[2024.06.07-21.01.09:083][924]LogModuleManager: Shutting down and abandoning module SequencerScriptingEditor (540)
+[2024.06.07-21.01.09:083][924]LogModuleManager: Shutting down and abandoning module SequencerScripting (538)
+[2024.06.07-21.01.09:083][924]LogModuleManager: Shutting down and abandoning module InterchangeFbxParser (536)
+[2024.06.07-21.01.09:083][924]LogModuleManager: Shutting down and abandoning module InterchangeCommonParser (534)
+[2024.06.07-21.01.09:083][924]LogModuleManager: Shutting down and abandoning module InterchangeDispatcher (532)
+[2024.06.07-21.01.09:083][924]LogModuleManager: Shutting down and abandoning module InterchangeExport (530)
+[2024.06.07-21.01.09:083][924]LogModuleManager: Shutting down and abandoning module InterchangeMessages (528)
+[2024.06.07-21.01.09:083][924]LogModuleManager: Shutting down and abandoning module GLTFCore (526)
+[2024.06.07-21.01.09:083][924]LogModuleManager: Shutting down and abandoning module InterchangeEditorUtilities (524)
+[2024.06.07-21.01.09:083][924]LogModuleManager: Shutting down and abandoning module InterchangeEditorPipelines (522)
+[2024.06.07-21.01.09:083][924]LogModuleManager: Shutting down and abandoning module InterchangeEditor (520)
+[2024.06.07-21.01.09:083][924]LogModuleManager: Shutting down and abandoning module WorldPartitionHLODUtilities (518)
+[2024.06.07-21.01.09:083][924]LogModuleManager: Shutting down and abandoning module UVEditorToolsEditorOnly (516)
+[2024.06.07-21.01.09:083][924]LogModuleManager: Shutting down and abandoning module UVEditorTools (514)
+[2024.06.07-21.01.09:083][924]LogModuleManager: Shutting down and abandoning module UVEditor (512)
+[2024.06.07-21.01.09:083][924]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (510)
+[2024.06.07-21.01.09:083][924]LogModuleManager: Shutting down and abandoning module SequencerAnimTools (508)
+[2024.06.07-21.01.09:083][924]LogModuleManager: Shutting down and abandoning module PluginBrowser (506)
+[2024.06.07-21.01.09:083][924]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (504)
+[2024.06.07-21.01.09:083][924]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (502)
+[2024.06.07-21.01.09:083][924]LogModuleManager: Shutting down and abandoning module ModelingToolsEditorMode (500)
+[2024.06.07-21.01.09:084][924]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (498)
+[2024.06.07-21.01.09:084][924]LogModuleManager: Shutting down and abandoning module EditorDebugTools (496)
+[2024.06.07-21.01.09:084][924]LogModuleManager: Shutting down and abandoning module CurveEditorTools (494)
+[2024.06.07-21.01.09:084][924]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (492)
+[2024.06.07-21.01.09:084][924]LogModuleManager: Shutting down and abandoning module CryptoKeys (490)
+[2024.06.07-21.01.09:084][924]LogModuleManager: Shutting down and abandoning module ChangelistReview (488)
+[2024.06.07-21.01.09:084][924]LogModuleManager: Shutting down and abandoning module BlueprintHeaderView (486)
+[2024.06.07-21.01.09:084][924]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (482)
+[2024.06.07-21.01.09:084][924]LogModuleManager: Shutting down and abandoning module EditorTraceUtilities (480)
+[2024.06.07-21.01.09:084][924]LogModuleManager: Shutting down and abandoning module TraceUtilities (478)
+[2024.06.07-21.01.09:084][924]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (476)
+[2024.06.07-21.01.09:084][924]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (474)
+[2024.06.07-21.01.09:084][924]LogModuleManager: Shutting down and abandoning module InputEditor (472)
+[2024.06.07-21.01.09:084][924]LogModuleManager: Shutting down and abandoning module StructUtils (470)
+[2024.06.07-21.01.09:084][924]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (468)
+[2024.06.07-21.01.09:095][924]LogModuleManager: Shutting down and abandoning module PBIK (466)
+[2024.06.07-21.01.09:095][924]LogModuleManager: Shutting down and abandoning module FullBodyIK (464)
+[2024.06.07-21.01.09:095][924]LogModuleManager: Shutting down and abandoning module ChaosCachingEditor (462)
+[2024.06.07-21.01.09:095][924]LogModuleManager: Shutting down and abandoning module TakeRecorder (461)
+[2024.06.07-21.01.09:095][924]LogModuleManager: Shutting down and abandoning module ChaosCaching (458)
+[2024.06.07-21.01.09:095][924]LogModuleManager: Shutting down and abandoning module Paper2D (456)
+[2024.06.07-21.01.09:095][924]LogModuleManager: Shutting down and abandoning module UdpMessaging (454)
+[2024.06.07-21.01.09:196][924]LogModuleManager: Shutting down and abandoning module TcpMessaging (452)
+[2024.06.07-21.01.09:296][924]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (450)
+[2024.06.07-21.01.09:296][924]LogModuleManager: Shutting down and abandoning module TraceDataFiltering (448)
+[2024.06.07-21.01.09:296][924]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (446)
+[2024.06.07-21.01.09:296][924]LogModuleManager: Shutting down and abandoning module AnimationSharing (444)
+[2024.06.07-21.01.09:296][924]LogModuleManager: Shutting down and abandoning module IKRigDeveloper (442)
+[2024.06.07-21.01.09:296][924]LogModuleManager: Shutting down and abandoning module IKRig (440)
+[2024.06.07-21.01.09:296][924]LogModuleManager: Shutting down and abandoning module ControlRigDeveloper (438)
+[2024.06.07-21.01.09:296][924]LogModuleManager: Shutting down and abandoning module ControlRig (436)
+[2024.06.07-21.01.09:296][924]LogModuleManager: Shutting down and abandoning module Constraints (435)
+[2024.06.07-21.01.09:296][924]LogModuleManager: Shutting down and abandoning module AnimationData (432)
+[2024.06.07-21.01.09:296][924]LogModuleManager: Shutting down and abandoning module Synthesis (430)
+[2024.06.07-21.01.09:296][924]LogModuleManager: Shutting down and abandoning module SoundFields (428)
+[2024.06.07-21.01.09:296][924]LogModuleManager: Shutting down and abandoning module SignificanceManager (426)
+[2024.06.07-21.01.09:296][924]LogModuleManager: Shutting down and abandoning module RigVMDeveloper (424)
+[2024.06.07-21.01.09:296][924]LogModuleManager: Shutting down and abandoning module RigVM (422)
+[2024.06.07-21.01.09:296][924]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (420)
+[2024.06.07-21.01.09:296][924]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (418)
+[2024.06.07-21.01.09:296][924]LogModuleManager: Shutting down and abandoning module MsQuicRuntime (416)
+[2024.06.07-21.01.09:296][924]LogModuleManager: Shutting down and abandoning module MetasoundEditor (414)
+[2024.06.07-21.01.09:296][924]LogModuleManager: Shutting down and abandoning module AudioWidgets (413)
+[2024.06.07-21.01.09:296][924]LogModuleManager: Shutting down and abandoning module AdvancedWidgets (412)
+[2024.06.07-21.01.09:296][924]LogModuleManager: Shutting down and abandoning module MetasoundEngineTest (408)
+[2024.06.07-21.01.09:296][924]LogModuleManager: Shutting down and abandoning module MetasoundEngine (406)
+[2024.06.07-21.01.09:296][924]LogModuleManager: Shutting down and abandoning module WaveTable (405)
+[2024.06.07-21.01.09:296][924]LogModuleManager: Shutting down and abandoning module AudioCodecEngine (403)
+[2024.06.07-21.01.09:296][924]LogModuleManager: Shutting down and abandoning module MetasoundStandardNodes (400)
+[2024.06.07-21.01.09:296][924]LogModuleManager: Shutting down and abandoning module MetasoundFrontend (398)
+[2024.06.07-21.01.09:296][924]LogModuleManager: Shutting down and abandoning module MetasoundGenerator (396)
+[2024.06.07-21.01.09:296][924]LogModuleManager: Shutting down and abandoning module MetasoundGraphCore (394)
+[2024.06.07-21.01.09:296][924]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (392)
+[2024.06.07-21.01.09:296][924]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (390)
+[2024.06.07-21.01.09:296][924]LogModuleManager: Shutting down and abandoning module CableComponent (388)
+[2024.06.07-21.01.09:296][924]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (386)
+[2024.06.07-21.01.09:296][924]LogModuleManager: Shutting down and abandoning module AudioAnalyzer (385)
+[2024.06.07-21.01.09:296][924]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (382)
+[2024.06.07-21.01.09:296][924]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (380)
+[2024.06.07-21.01.09:296][924]LogModuleManager: Shutting down and abandoning module Niagara (378)
+[2024.06.07-21.01.09:296][924]LogModuleManager: Shutting down and abandoning module SignalProcessing (377)
+[2024.06.07-21.01.09:296][924]LogModuleManager: Shutting down and abandoning module NiagaraEditor (375)
+[2024.06.07-21.01.09:296][924]LogModuleManager: Shutting down and abandoning module LevelSequence (374)
+[2024.06.07-21.01.09:296][924]LogModuleManager: Shutting down and abandoning module NiagaraCore (370)
+[2024.06.07-21.01.09:296][924]LogModuleManager: Shutting down and abandoning module GameplayCameras (368)
+[2024.06.07-21.01.09:296][924]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (366)
+[2024.06.07-21.01.09:296][924]LogModuleManager: Shutting down and abandoning module ActorSequence (364)
+[2024.06.07-21.01.09:296][924]LogModuleManager: Shutting down and abandoning module InterchangePipelines (362)
+[2024.06.07-21.01.09:296][924]LogModuleManager: Shutting down and abandoning module InterchangeImport (360)
+[2024.06.07-21.01.09:296][924]LogModuleManager: Shutting down and abandoning module InterchangeFactoryNodes (358)
+[2024.06.07-21.01.09:296][924]LogModuleManager: Shutting down and abandoning module InterchangeNodes (356)
+[2024.06.07-21.01.09:296][924]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (354)
+[2024.06.07-21.01.09:296][924]LogModuleManager: Shutting down and abandoning module FacialAnimation (352)
+[2024.06.07-21.01.09:296][924]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (350)
+[2024.06.07-21.01.09:296][924]LogModuleManager: Shutting down and abandoning module DataValidation (348)
+[2024.06.07-21.01.09:296][924]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (346)
+[2024.06.07-21.01.09:296][924]LogModuleManager: Shutting down and abandoning module LevelEditor (345)
+[2024.06.07-21.01.09:299][924]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (344)
+[2024.06.07-21.01.09:299][924]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (342)
+[2024.06.07-21.01.09:299][924]LogModuleManager: Shutting down and abandoning module MainFrame (340)
+[2024.06.07-21.01.09:299][924]LogModuleManager: Shutting down and abandoning module HotReload (339)
+[2024.06.07-21.01.09:300][924]LogModuleManager: Shutting down and abandoning module ContentBrowser (335)
+[2024.06.07-21.01.09:300][924]LogModuleManager: Shutting down and abandoning module ToolMenus (334)
+[2024.06.07-21.01.09:300][924]LogModuleManager: Shutting down and abandoning module ContentBrowserData (332)
+[2024.06.07-21.01.09:300][924]LogModuleManager: Shutting down and abandoning module TreeMap (329)
+[2024.06.07-21.01.09:300][924]LogModuleManager: Shutting down and abandoning module InputBlueprintNodes (326)
+[2024.06.07-21.01.09:300][924]LogModuleManager: Shutting down and abandoning module BlueprintGraph (325)
+[2024.06.07-21.01.09:300][924]LogModuleManager: Shutting down and abandoning module EnhancedInput (322)
+[2024.06.07-21.01.09:300][924]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (320)
+[2024.06.07-21.01.09:301][924]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (318)
+[2024.06.07-21.01.09:301][924]LogModuleManager: Shutting down and abandoning module AndroidFileServer (316)
+[2024.06.07-21.01.09:301][924]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (314)
+[2024.06.07-21.01.09:301][924]LogModuleManager: Shutting down and abandoning module PacketHandler (312)
+[2024.06.07-21.01.09:301][924]LogModuleManager: Shutting down and abandoning module WorldPartitionEditor (310)
+[2024.06.07-21.01.09:301][924]LogModuleManager: Shutting down and abandoning module AnimGraph (308)
+[2024.06.07-21.01.09:301][924]LogModuleManager: Shutting down and abandoning module TimeManagement (306)
+[2024.06.07-21.01.09:301][924]LogModuleManager: Shutting down and abandoning module AnimationDataController (304)
+[2024.06.07-21.01.09:301][924]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (302)
+[2024.06.07-21.01.09:301][924]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (300)
+[2024.06.07-21.01.09:301][924]LogModuleManager: Shutting down and abandoning module MediaAssets (298)
+[2024.06.07-21.01.09:301][924]LogModuleManager: Shutting down and abandoning module Overlay (296)
+[2024.06.07-21.01.09:301][924]LogModuleManager: Shutting down and abandoning module OverlayEditor (295)
+[2024.06.07-21.01.09:301][924]LogModuleManager: Shutting down and abandoning module VREditor (292)
+[2024.06.07-21.01.09:301][924]LogModuleManager: Shutting down and abandoning module StringTableEditor (290)
+[2024.06.07-21.01.09:301][924]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (288)
+[2024.06.07-21.01.09:301][924]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (286)
+[2024.06.07-21.01.09:301][924]LogModuleManager: Shutting down and abandoning module FunctionalTesting (284)
+[2024.06.07-21.01.09:301][924]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (282)
+[2024.06.07-21.01.09:301][924]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (281)
+[2024.06.07-21.01.09:302][924]LogModuleManager: Shutting down and abandoning module ScriptableEditorWidgets (278)
+[2024.06.07-21.01.09:302][924]LogModuleManager: Shutting down and abandoning module UMG (276)
+[2024.06.07-21.01.09:302][924]LogModuleManager: Shutting down and abandoning module UMGEditor (275)
+[2024.06.07-21.01.09:302][924]LogModuleManager: Shutting down and abandoning module EditorStyle (270)
+[2024.06.07-21.01.09:302][924]LogModuleManager: Shutting down and abandoning module SlateReflector (268)
+[2024.06.07-21.01.09:302][924]LogModuleManager: Shutting down and abandoning module Slate (266)
+[2024.06.07-21.01.09:302][924]LogModuleManager: Shutting down and abandoning module SlateCore (264)
+[2024.06.07-21.01.09:303][924]LogModuleManager: Shutting down and abandoning module SubobjectDataInterface (262)
+[2024.06.07-21.01.09:303][924]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (260)
+[2024.06.07-21.01.09:303][924]LogModuleManager: Shutting down and abandoning module UnrealEd (258)
+[2024.06.07-21.01.09:303][924]LogModuleManager: Shutting down and abandoning module MRMesh (256)
+[2024.06.07-21.01.09:303][924]LogModuleManager: Shutting down and abandoning module Messaging (254)
+[2024.06.07-21.01.09:303][924]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (252)
+[2024.06.07-21.01.09:303][924]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (250)
+[2024.06.07-21.01.09:303][924]LogModuleManager: Shutting down and abandoning module LiveCoding (248)
+[2024.06.07-21.01.09:314][924]LogModuleManager: Shutting down and abandoning module Networking (246)
+[2024.06.07-21.01.09:314][924]LogModuleManager: Shutting down and abandoning module Core (244)
+[2024.06.07-21.01.09:314][924]LogModuleManager: Shutting down and abandoning module AssetDefinition (242)
+[2024.06.07-21.01.09:314][924]LogModuleManager: Shutting down and abandoning module MovieSceneTools (240)
+[2024.06.07-21.01.09:314][924]LogModuleManager: Shutting down and abandoning module CurveEditor (239)
+[2024.06.07-21.01.09:314][924]LogModuleManager: Shutting down and abandoning module Sequencer (237)
+[2024.06.07-21.01.09:314][924]LogModuleManager: Shutting down and abandoning module KismetCompiler (234)
+[2024.06.07-21.01.09:314][924]LogModuleManager: Shutting down and abandoning module MeshBuilder (232)
+[2024.06.07-21.01.09:314][924]LogModuleManager: Shutting down and abandoning module NaniteBuilder (230)
+[2024.06.07-21.01.09:314][924]LogModuleManager: Shutting down and abandoning module MeshUtilities (228)
+[2024.06.07-21.01.09:314][924]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (227)
+[2024.06.07-21.01.09:314][924]LogModuleManager: Shutting down and abandoning module StaticMeshDescription (226)
+[2024.06.07-21.01.09:314][924]LogModuleManager: Shutting down and abandoning module GeometryProcessingInterfaces (225)
+[2024.06.07-21.01.09:314][924]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (222)
+[2024.06.07-21.01.09:314][924]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (221)
+[2024.06.07-21.01.09:314][924]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (219)
+[2024.06.07-21.01.09:314][924]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (217)
+[2024.06.07-21.01.09:314][924]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (215)
+[2024.06.07-21.01.09:314][924]LogModuleManager: Shutting down and abandoning module MaterialBaking (211)
+[2024.06.07-21.01.09:314][924]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (208)
+[2024.06.07-21.01.09:326][924]LogModuleManager: Shutting down and abandoning module TelemetryUtils (205)
+[2024.06.07-21.01.09:326][924]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (202)
+[2024.06.07-21.01.09:326][924]LogModuleManager: Shutting down and abandoning module ShaderPreprocessor (200)
+[2024.06.07-21.01.09:326][924]LogModuleManager: Shutting down and abandoning module DerivedDataCache (198)
+[2024.06.07-21.01.09:329][924]LogModuleManager: Shutting down and abandoning module TargetPlatform (196)
+[2024.06.07-21.01.09:329][924]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (195)
+[2024.06.07-21.01.09:329][924]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (193)
+[2024.06.07-21.01.09:329][924]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (191)
+[2024.06.07-21.01.09:329][924]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (189)
+[2024.06.07-21.01.09:329][924]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (187)
+[2024.06.07-21.01.09:329][924]LogModuleManager: Shutting down and abandoning module AudioFormatBINK (185)
+[2024.06.07-21.01.09:329][924]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (183)
+[2024.06.07-21.01.09:329][924]LogModuleManager: Shutting down and abandoning module AudioFormatOGG (181)
+[2024.06.07-21.01.09:329][924]LogModuleManager: Shutting down and abandoning module AudioFormatOPUS (179)
+[2024.06.07-21.01.09:329][924]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (177)
+[2024.06.07-21.01.09:329][924]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (175)
+[2024.06.07-21.01.09:329][924]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (173)
+[2024.06.07-21.01.09:329][924]LogModuleManager: Shutting down and abandoning module LinuxArm64TargetPlatform (171)
+[2024.06.07-21.01.09:329][924]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (169)
+[2024.06.07-21.01.09:329][924]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (167)
+[2024.06.07-21.01.09:329][924]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (165)
+[2024.06.07-21.01.09:329][924]LogModuleManager: Shutting down and abandoning module TextureFormat (163)
+[2024.06.07-21.01.09:329][924]LogModuleManager: Shutting down and abandoning module ImageWrapper (162)
+[2024.06.07-21.01.09:329][924]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (160)
+[2024.06.07-21.01.09:330][924]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (158)
+[2024.06.07-21.01.09:330][924]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (156)
+[2024.06.07-21.01.09:330][924]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (154)
+[2024.06.07-21.01.09:330][924]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (152)
+[2024.06.07-21.01.09:330][924]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (150)
+[2024.06.07-21.01.09:330][924]LogModuleManager: Shutting down and abandoning module TurnkeySupport (147)
+[2024.06.07-21.01.09:330][924]LogModuleManager: Shutting down and abandoning module InputCore (144)
+[2024.06.07-21.01.09:330][924]LogModuleManager: Shutting down and abandoning module Settings (142)
+[2024.06.07-21.01.09:330][924]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (140)
+[2024.06.07-21.01.09:330][924]LogModuleManager: Shutting down and abandoning module ChaosSolverEngine (138)
+[2024.06.07-21.01.09:330][924]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (137)
+[2024.06.07-21.01.09:330][924]LogModuleManager: Shutting down and abandoning module Chaos (134)
+[2024.06.07-21.01.09:330][924]LogModuleManager: Shutting down and abandoning module GeometryCore (133)
+[2024.06.07-21.01.09:330][924]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (130)
+[2024.06.07-21.01.09:330][924]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (129)
+[2024.06.07-21.01.09:330][924]LogModuleManager: Shutting down and abandoning module AVEncoder (128)
+[2024.06.07-21.01.09:330][924]LogModuleManager: Shutting down and abandoning module D3D12RHI (124)
+[2024.06.07-21.01.09:330][924]LogModuleManager: Shutting down and abandoning module ChaosCloth (122)
+[2024.06.07-21.01.09:330][924]LogModuleManager: Shutting down and abandoning module VariantManagerContent (120)
+[2024.06.07-21.01.09:330][924]LogModuleManager: Shutting down and abandoning module GLTFExporter (118)
+[2024.06.07-21.01.09:330][924]LogModuleManager: Shutting down and abandoning module DatasmithContent (116)
+[2024.06.07-21.01.09:330][924]LogModuleManager: Shutting down and abandoning module WmfMedia (114)
+[2024.06.07-21.01.09:333][924]LogModuleManager: Shutting down and abandoning module Media (113)
+[2024.06.07-21.01.09:335][924]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (110)
+[2024.06.07-21.01.09:335][924]LogModuleManager: Shutting down and abandoning module PixWinPlugin (108)
+[2024.06.07-21.01.09:335][924]LogModuleManager: Shutting down and abandoning module RenderDocPlugin (106)
+[2024.06.07-21.01.09:335][924]RenderDocPlugin: plugin has been unloaded.
+[2024.06.07-21.01.09:335][924]LogModuleManager: Shutting down and abandoning module ACLPlugin (104)
+[2024.06.07-21.01.09:335][924]LogModuleManager: Shutting down and abandoning module WindowsDeviceProfileSelector (102)
+[2024.06.07-21.01.09:335][924]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (100)
+[2024.06.07-21.01.09:335][924]LogModuleManager: Shutting down and abandoning module ChunkDownloader (98)
+[2024.06.07-21.01.09:335][924]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (96)
+[2024.06.07-21.01.09:335][924]LogModuleManager: Shutting down and abandoning module NiagaraShader (94)
+[2024.06.07-21.01.09:335][924]LogModuleManager: Shutting down and abandoning module AISupportModule (92)
+[2024.06.07-21.01.09:335][924]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (90)
+[2024.06.07-21.01.09:335][924]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (88)
+[2024.06.07-21.01.09:335][924]LogModuleManager: Shutting down and abandoning module OnlineSubsystemUtils (86)
+[2024.06.07-21.01.09:335][924]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (84)
+[2024.06.07-21.01.09:337][924]LogModuleManager: Shutting down and abandoning module XMPP (79)
+[2024.06.07-21.01.09:337][924]LogModuleManager: Shutting down and abandoning module WebSockets (78)
+[2024.06.07-21.01.09:352][924]LogModuleManager: Shutting down and abandoning module HTTP (75)
+[2024.06.07-21.01.09:352][924]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2024.06.07-21.01.09:353][924]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6254BC6F-4B25-3613-11A2-94BB8D677C71%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=48f18a5a4c675d77694fc4bb175b52a6%7Ce6a912d6e0154d279174b450acd0f7f3%7C0ab6cf4c-d9bf-4bb4-a228-3712b8be4824&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2024.06.07-21.01.09:364][924]LogModuleManager: Shutting down and abandoning module SSL (74)
+[2024.06.07-21.01.09:365][924]LogModuleManager: Shutting down and abandoning module OnlineServicesCommonEngineUtils (70)
+[2024.06.07-21.01.09:365][924]LogModuleManager: Shutting down and abandoning module OnlineServicesCommon (68)
+[2024.06.07-21.01.09:365][924]LogModuleManager: Shutting down and abandoning module OnlineServicesInterface (66)
+[2024.06.07-21.01.09:365][924]LogModuleManager: Shutting down and abandoning module DesktopPlatform (64)
+[2024.06.07-21.01.09:365][924]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (62)
+[2024.06.07-21.01.09:365][924]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (60)
+[2024.06.07-21.01.09:365][924]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (58)
+[2024.06.07-21.01.09:365][924]LogModuleManager: Shutting down and abandoning module PlatformCrypto (56)
+[2024.06.07-21.01.09:365][924]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (54)
+[2024.06.07-21.01.09:365][924]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (52)
+[2024.06.07-21.01.09:365][924]LogModuleManager: Shutting down and abandoning module SourceControl (51)
+[2024.06.07-21.01.09:365][924]LogModuleManager: Shutting down and abandoning module XGEController (48)
+[2024.06.07-21.01.09:365][924]LogXGEController: Cleaning working directory: C:/Users/justinel/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2024.06.07-21.01.09:365][924]LogModuleManager: Shutting down and abandoning module FastBuildController (46)
+[2024.06.07-21.01.09:365][924]LogModuleManager: Shutting down and abandoning module IoStoreOnDemand (44)
+[2024.06.07-21.01.09:365][924]LogModuleManager: Shutting down and abandoning module AnimationModifiers (42)
+[2024.06.07-21.01.09:365][924]LogModuleManager: Shutting down and abandoning module AudioEditor (40)
+[2024.06.07-21.01.09:366][924]LogModuleManager: Shutting down and abandoning module PropertyEditor (39)
+[2024.06.07-21.01.09:366][924]LogModuleManager: Shutting down and abandoning module Virtualization (36)
+[2024.06.07-21.01.09:366][924]LogModuleManager: Shutting down and abandoning module MessageLog (35)
+[2024.06.07-21.01.09:366][924]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2024.06.07-21.01.09:366][924]LogModuleManager: Shutting down and abandoning module OpenColorIOWrapper (31)
+[2024.06.07-21.01.09:366][924]LogModuleManager: Shutting down and abandoning module RenderCore (28)
+[2024.06.07-21.01.09:366][924]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2024.06.07-21.01.09:366][924]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2024.06.07-21.01.09:367][924]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (22)
+[2024.06.07-21.01.09:367][924]LogModuleManager: Shutting down and abandoning module Renderer (20)
+[2024.06.07-21.01.09:367][924]LogModuleManager: Shutting down and abandoning module Engine (18)
+[2024.06.07-21.01.09:367][924]LogModuleManager: Shutting down and abandoning module CoreUObject (16)
+[2024.06.07-21.01.09:367][924]LogModuleManager: Shutting down and abandoning module SandboxFile (14)
+[2024.06.07-21.01.09:367][924]LogModuleManager: Shutting down and abandoning module PakFile (12)
+[2024.06.07-21.01.09:367][924]LogPakFile: Destroying PakPlatformFile
+[2024.06.07-21.01.09:367][924]LogModuleManager: Shutting down and abandoning module RSA (11)
+[2024.06.07-21.01.09:367][924]LogModuleManager: Shutting down and abandoning module NetworkFile (8)
+[2024.06.07-21.01.09:367][924]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2024.06.07-21.01.09:367][924]LogModuleManager: Shutting down and abandoning module CookOnTheFly (4)
+[2024.06.07-21.01.09:367][924]LogModuleManager: Shutting down and abandoning module StorageServerClient (2)
+[2024.06.07-21.01.09:821][924]LogD3D12RHI: ~FD3D12DynamicRHI
+[2024.06.07-21.01.09:895][924]LogExit: Exiting.
+[2024.06.07-21.01.09:909][924]Log file closed, 06/07/24 17:01:09
