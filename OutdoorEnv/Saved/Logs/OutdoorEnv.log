@@ -1640,3 +1640,376 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.06.10-14.00.41:829][528]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_244BFE932D2475FC01_1457236981
 [2024.06.10-14.00.41:829][528]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_04D9F51D2510F5FD01_1721742449
 [2024.06.10-14.00.41:829][528]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Assets/House/envWood_Pannels_Border.envWood_Pannels_Border
+[2024.06.10-14.02.23:817][291]AssetReimport: New page: Outstanding source content changes 06 h 02 min 23 s
+[2024.06.10-14.02.23:818][291]LogEditorFactories: Performing atomic reimport of [P:/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/Assets/House/MainHouse.fbx]
+[2024.06.10-14.02.23:824][291]LogFbx: Loading FBX Scene from P:/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/Assets/House/MainHouse.fbx
+[2024.06.10-14.02.23:829][291]LogFbx: FBX Scene Loaded Succesfully
+[2024.06.10-14.02.23:853][291]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/House/MainHouse.MainHouse
+[2024.06.10-14.02.23:857][291]LogEditorFactories: -- imported successfully
+[2024.06.10-14.02.23:869][291]LogStaticMesh: Display: Building static mesh MainHouse...
+[2024.06.10-14.02.23:871][291]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.10-14.02.23:881][291]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/House/MainHouse.MainHouse
+[2024.06.10-14.02.24:143][291]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/House/MainHouse" FILE="P:/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/Assets/House/MainHouse.uasset" SILENT=true
+[2024.06.10-14.02.24:147][291]LogSavePackage: Moving output files for package: /Game/Assets/House/MainHouse
+[2024.06.10-14.02.24:148][291]LogSavePackage: Moving 'P:/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/MainHouse541674F8419A05F6D75DBCA0DED4D001.tmp' to 'P:/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/Assets/House/MainHouse.uasset'
+[2024.06.10-14.02.24:166][291]LogFileHelpers: InternalPromptForCheckoutAndSave took 294 ms (total: 4.19 sec)
+[2024.06.10-14.02.24:182][292]AssetCheck: New page: Asset Save: MainHouse
+[2024.06.10-14.02.24:182][292]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Assets/House/MainHouse.MainHouse
+[2024.06.10-14.02.27:187][301]AssetReimport: Reimported asset MainHouse from P:/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/Assets/House/MainHouse.fbx.
+[2024.06.10-14.03.41:930][672]LogEditorViewport: Clicking Background
+[2024.06.10-14.03.42:726][712]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.06.10-14.03.43:561][756]LogEditorViewport: Clicking Background
+[2024.06.10-14.07.30:044][676]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2024.06.10-14.07.30:047][676]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/B6/XX4CYJVJFW9RRXZAI9ZQUG_Auto4
+[2024.06.10-14.07.30:047][676]LogSavePackage: Moving 'P:/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/XX4CYJVJFW9RRXZAI9ZQUG_Auto4C2E6221F4153E226276DE6BE74EB1DA8.tmp' to 'P:/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/B6/XX4CYJVJFW9RRXZAI9ZQUG_Auto4.uasset'
+[2024.06.10-14.07.30:049][676]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.011
+[2024.06.10-14.07.30:049][676]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.011
+[2024.06.10-14.09.39:711][ 65]AssetReimport: New page: Outstanding source content changes 06 h 09 min 39 s
+[2024.06.10-14.09.39:713][ 65]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 P:/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/Assets/House/envSmallHouse.fbx)
+[2024.06.10-14.09.39:719][ 65]LogFbx: Loading FBX Scene from P:/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/Assets/House/envSmallHouse.fbx
+[2024.06.10-14.09.39:724][ 65]LogFbx: FBX Scene Loaded Succesfully
+[2024.06.10-14.10.33:587][ 65]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.06.10-14.10.33:638][ 65]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/House/envSmallHouse.envSmallHouse
+[2024.06.10-14.10.34:352][ 65]LogAutomationController: Ignoring very large delta of 54.98 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.06.10-14.10.34:362][ 66]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.10-14.10.34:619][ 66]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/House/envSmallHouse" FILE="P:/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/Assets/House/envSmallHouse.uasset" SILENT=true
+[2024.06.10-14.10.34:623][ 66]LogSavePackage: Moving output files for package: /Game/Assets/House/envSmallHouse
+[2024.06.10-14.10.34:623][ 66]LogSavePackage: Moving 'P:/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/envSmallHouse20B064774FBE9F5B36B44586B45E39C2.tmp' to 'P:/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/Assets/House/envSmallHouse.uasset'
+[2024.06.10-14.10.34:634][ 66]LogFileHelpers: InternalPromptForCheckoutAndSave took 272 ms (total: 4.46 sec)
+[2024.06.10-14.10.34:667][ 67]AssetCheck: New page: Asset Save: envSmallHouse
+[2024.06.10-14.10.34:667][ 67]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Assets/House/envSmallHouse.envSmallHouse
+[2024.06.10-14.10.35:660][116]LogSlate: Window 'Message Log' being destroyed
+[2024.06.10-14.10.35:666][116]LogSlate: Window 'Message Log' being destroyed
+[2024.06.10-14.10.37:638][217]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 P:/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/Assets/House/envSmallHouse_Wood_Pannels.fbx)
+[2024.06.10-14.10.37:644][217]LogFbx: Loading FBX Scene from P:/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/Assets/House/envSmallHouse_Wood_Pannels.fbx
+[2024.06.10-14.10.37:650][217]LogFbx: FBX Scene Loaded Succesfully
+[2024.06.10-14.10.38:640][217]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.06.10-14.10.38:822][217]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/House/envSmallHouse_Wood_Pannels.envSmallHouse_Wood_Pannels
+[2024.06.10-14.10.38:963][218]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 P:/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/Assets/House/envSmallHouse_Pannels_Border.fbx)
+[2024.06.10-14.10.38:969][218]LogFbx: Loading FBX Scene from P:/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/Assets/House/envSmallHouse_Pannels_Border.fbx
+[2024.06.10-14.10.38:975][218]LogFbx: FBX Scene Loaded Succesfully
+[2024.06.10-14.10.40:630][218]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.06.10-14.10.40:817][218]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/House/envSmallHouse_Pannels_Border.envSmallHouse_Pannels_Border
+[2024.06.10-14.10.40:901][219]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.10-14.10.40:971][219]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/House/envSmallHouse_Wood_Pannels" FILE="P:/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/Assets/House/envSmallHouse_Wood_Pannels.uasset" SILENT=true
+[2024.06.10-14.10.40:974][219]LogSavePackage: Moving output files for package: /Game/Assets/House/envSmallHouse_Wood_Pannels
+[2024.06.10-14.10.40:974][219]LogSavePackage: Moving 'P:/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/envSmallHouse_Wood_Pannels3BD0A8FB46B192CA970481925B4A9D0A.tmp' to 'P:/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/Assets/House/envSmallHouse_Wood_Pannels.uasset'
+[2024.06.10-14.10.40:989][219]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/House/envSmallHouse_Pannels_Border" FILE="P:/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/Assets/House/envSmallHouse_Pannels_Border.uasset" SILENT=true
+[2024.06.10-14.10.40:993][219]LogSavePackage: Moving output files for package: /Game/Assets/House/envSmallHouse_Pannels_Border
+[2024.06.10-14.10.40:993][219]LogSavePackage: Moving 'P:/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/envSmallHouse_Pannels_Border08FFCA3347677809BE4381A5336C2F9D.tmp' to 'P:/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/Assets/House/envSmallHouse_Pannels_Border.uasset'
+[2024.06.10-14.10.41:004][219]LogFileHelpers: InternalPromptForCheckoutAndSave took 102 ms (total: 4.56 sec)
+[2024.06.10-14.10.41:007][219]LogShaderCompilers: Display: ================================================
+[2024.06.10-14.10.41:007][219]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.06.10-14.10.41:007][219]LogShaderCompilers: Display: Total job queries 128, among them cache hits 42 (32.81%)
+[2024.06.10-14.10.41:007][219]LogShaderCompilers: Display: Tracking 86 distinct input hashes that result in 59 distinct outputs (68.60%)
+[2024.06.10-14.10.41:007][219]LogShaderCompilers: Display: RAM used: 1,86 MiB of 1,60 GiB budget. Usage: 0.11%
+[2024.06.10-14.10.41:007][219]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.06.10-14.10.41:007][219]LogShaderCompilers: Display: Shaders Compiled: 28
+[2024.06.10-14.10.41:007][219]LogShaderCompilers: Display: Jobs assigned 28, completed 28 (100%)
+[2024.06.10-14.10.41:007][219]LogShaderCompilers: Display: Average time worker was idle: 79.50 s
+[2024.06.10-14.10.41:007][219]LogShaderCompilers: Display: Time job spent in pending queue: average 0.18 s, longest 0.69 s
+[2024.06.10-14.10.41:007][219]LogShaderCompilers: Display: Job execution time: average 0.52 s, max 0.80 s
+[2024.06.10-14.10.41:007][219]LogShaderCompilers: Display: Job life time (pending + execution): average 0.69 s, max 1.01
+[2024.06.10-14.10.41:007][219]LogShaderCompilers: Display: Shader code size: average 43,504 KiB, min 31,809 KiB, max 61,465 KiB
+[2024.06.10-14.10.41:007][219]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 2.53 s
+[2024.06.10-14.10.41:007][219]LogShaderCompilers: Display: Jobs were issued in 28 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.06.10-14.10.41:007][219]LogShaderCompilers: Display: Average processing rate: 11.08 jobs/sec
+[2024.06.10-14.10.41:007][219]LogShaderCompilers: Display: Total thread time: 9,454 s
+[2024.06.10-14.10.41:007][219]LogShaderCompilers: Display: Total thread preprocess time: 0,935 s
+[2024.06.10-14.10.41:007][219]LogShaderCompilers: Display: Percentage time preprocessing: 9.89%
+[2024.06.10-14.10.41:007][219]LogShaderCompilers: Display: Effective parallelization: 3.74 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.06.10-14.10.41:007][219]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.06.10-14.10.41:007][219]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    2 times, average 0.44 sec, max 0.44 sec, min 0.44 sec)
+[2024.06.10-14.10.41:007][219]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    2 times, average 0.43 sec, max 0.44 sec, min 0.43 sec)
+[2024.06.10-14.10.41:007][219]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    2 times, average 0.39 sec, max 0.39 sec, min 0.39 sec)
+[2024.06.10-14.10.41:007][219]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled    2 times, average 0.39 sec, max 0.40 sec, min 0.38 sec)
+[2024.06.10-14.10.41:007][219]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    2 times, average 0.39 sec, max 0.39 sec, min 0.38 sec)
+[2024.06.10-14.10.41:007][219]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.06.10-14.10.41:007][219]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 9.36% of total time (compiled    2 times, average 0.44 sec, max 0.44 sec, min 0.44 sec)
+[2024.06.10-14.10.41:007][219]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight - 9.18% of total time (compiled    2 times, average 0.43 sec, max 0.44 sec, min 0.43 sec)
+[2024.06.10-14.10.41:007][219]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy - 8.31% of total time (compiled    2 times, average 0.39 sec, max 0.39 sec, min 0.39 sec)
+[2024.06.10-14.10.41:007][219]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy - 8.26% of total time (compiled    2 times, average 0.39 sec, max 0.40 sec, min 0.38 sec)
+[2024.06.10-14.10.41:007][219]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 8.21% of total time (compiled    2 times, average 0.39 sec, max 0.39 sec, min 0.38 sec)
+[2024.06.10-14.10.41:007][219]LogShaderCompilers: Display: ================================================
+[2024.06.10-14.10.41:045][220]AssetCheck: New page: Asset Save: multiple assets
+[2024.06.10-14.10.41:046][220]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Assets/House/envSmallHouse_Wood_Pannels.envSmallHouse_Wood_Pannels
+[2024.06.10-14.10.41:046][220]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Assets/House/envSmallHouse_Pannels_Border.envSmallHouse_Pannels_Border
+[2024.06.10-14.10.41:861][255]LogSlate: Window 'Message Log' being destroyed
+[2024.06.10-14.10.41:867][255]LogSlate: Window 'Message Log' being destroyed
+[2024.06.10-14.10.44:118][365]AssetReimport: Importing new asset /Game/Assets/House/envSmallHouse.
+[2024.06.10-14.10.44:118][365]AssetReimport: Importing new asset /Game/Assets/House/envSmallHouse_Wood_Pannels.
+[2024.06.10-14.10.44:118][365]AssetReimport: Importing new asset /Game/Assets/House/envSmallHouse_Pannels_Border.
+[2024.06.10-14.10.46:192][465]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/House/envSmallHouse.envSmallHouse
+[2024.06.10-14.10.46:192][465]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/House/envSmallHouse.envSmallHouse
+[2024.06.10-14.10.46:193][465]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/House/envSmallHouse.envSmallHouse as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_3
+[2024.06.10-14.10.46:842][505]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/House/envSmallHouse.envSmallHouse
+[2024.06.10-14.10.46:842][505]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/House/envSmallHouse.envSmallHouse
+[2024.06.10-14.10.46:845][505]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/House/envSmallHouse.envSmallHouse as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_04D9F51D2510F6FD01_1525460626
+[2024.06.10-14.10.58:188][220]Cmd: DELETE
+[2024.06.10-14.10.58:188][220]Cmd: ACTOR DELETE
+[2024.06.10-14.10.58:198][220]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.06.10-14.10.58:206][220]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.06.10-14.10.58:208][220]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2024.06.10-14.11.15:569][271]LogEditorViewport: Clicking Background
+[2024.06.10-14.12.43:943][158]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.06.10-14.12.45:129][158]LogSlate: Window 'Save Content' being destroyed
+[2024.06.10-14.12.45:140][158]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.10-14.12.45:200][158]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2024.06.10-14.12.45:208][158]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2024.06.10-14.12.45:215][158]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2024.06.10-14.12.45:218][158]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/7Y/WXC5NEMGYBMPVLB1XTROUE
+[2024.06.10-14.12.45:218][158]LogSavePackage: Moving 'P:/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/WXC5NEMGYBMPVLB1XTROUE645E3AB44D811A2E3964DAB692DD2D7A.tmp' to 'P:/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/7Y/WXC5NEMGYBMPVLB1XTROUE.uasset'
+[2024.06.10-14.12.45:223][158]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/UJ/RHCZ38UE8A71C25DMYVHC2
+[2024.06.10-14.12.45:223][158]LogSavePackage: Moving 'P:/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/RHCZ38UE8A71C25DMYVHC2FD66DD98446F4F7B6614C29ED860F923.tmp' to 'P:/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/UJ/RHCZ38UE8A71C25DMYVHC2.uasset'
+[2024.06.10-14.12.45:227][158]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/6P/6MCV3UEJGXODIEBPV75FEI
+[2024.06.10-14.12.45:228][158]LogSavePackage: Moving 'P:/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/6MCV3UEJGXODIEBPV75FEI54EE4B3A4AEBF7441572A48136284329.tmp' to 'P:/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/6P/6MCV3UEJGXODIEBPV75FEI.uasset'
+[2024.06.10-14.12.45:231][158]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/A4/FIIT1C1FEFPW6UGJ5PDHVC
+[2024.06.10-14.12.45:231][158]LogSavePackage: Moving 'P:/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/FIIT1C1FEFPW6UGJ5PDHVCE54290CA4DD5B4CF34D40E910BD0A15E.tmp' to 'P:/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/A4/FIIT1C1FEFPW6UGJ5PDHVC.uasset'
+[2024.06.10-14.12.45:234][158]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/2T/8EOB5YSRE1Z94LL5PZ5JDA
+[2024.06.10-14.12.45:234][158]LogSavePackage: Moving 'P:/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/8EOB5YSRE1Z94LL5PZ5JDA6F967D8E458658625EB36180396846B9.tmp' to 'P:/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/2T/8EOB5YSRE1Z94LL5PZ5JDA.uasset'
+[2024.06.10-14.12.45:239][158]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/House/envWood_D_02" FILE="P:/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/Assets/House/envWood_D_02.uasset" SILENT=true
+[2024.06.10-14.12.45:345][158]LogSavePackage: Moving output files for package: /Game/Assets/House/envWood_D_02
+[2024.06.10-14.12.45:346][158]LogSavePackage: Moving 'P:/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/envWood_D_027F46E8A445B4BBD77D702AA5F4944F2F.tmp' to 'P:/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/Assets/House/envWood_D_02.uasset'
+[2024.06.10-14.12.45:348][158]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/CZ/PVBZOCFPMV0BVJ1RYZZAGR
+[2024.06.10-14.12.45:349][158]LogSavePackage: Moving 'P:/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/PVBZOCFPMV0BVJ1RYZZAGRAD9C7D5E4ECDD69230812FA66BA851C6.tmp' to 'P:/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/CZ/PVBZOCFPMV0BVJ1RYZZAGR.uasset'
+[2024.06.10-14.12.45:351][158]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/74/93JP05WH3IHKGXMUXB1N6Q
+[2024.06.10-14.12.45:352][158]LogSavePackage: Moving 'P:/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/93JP05WH3IHKGXMUXB1N6QF180FB5B492320799AFB2B8FAB2C51BC.tmp' to 'P:/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/74/93JP05WH3IHKGXMUXB1N6Q.uasset'
+[2024.06.10-14.12.45:354][158]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/V1/FP6K96OM6U9NF2CN8WPNWC
+[2024.06.10-14.12.45:355][158]LogSavePackage: Moving 'P:/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/FP6K96OM6U9NF2CN8WPNWCD64B82954EE249453E0BFA8A974F3369.tmp' to 'P:/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/V1/FP6K96OM6U9NF2CN8WPNWC.uasset'
+[2024.06.10-14.12.45:357][158]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/JJ/OITS1JG153G8UIXONCC88A
+[2024.06.10-14.12.45:358][158]LogSavePackage: Moving 'P:/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/OITS1JG153G8UIXONCC88AA54CB8DD4E189E62094470B64B7B15EE.tmp' to 'P:/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/JJ/OITS1JG153G8UIXONCC88A.uasset'
+[2024.06.10-14.12.45:360][158]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/OC/9WIDERH6MD981N0DL6RTSV
+[2024.06.10-14.12.45:361][158]LogSavePackage: Moving 'P:/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/9WIDERH6MD981N0DL6RTSVD6B856FC49530CB0D989DDBF15091B6D.tmp' to 'P:/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/OC/9WIDERH6MD981N0DL6RTSV.uasset'
+[2024.06.10-14.12.45:364][158]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/NA/ATPI6CUXWGK9FRTW9LD9DJ
+[2024.06.10-14.12.45:364][158]LogSavePackage: Moving 'P:/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/ATPI6CUXWGK9FRTW9LD9DJ2F72E4D843E51A8AA08781B63F725426.tmp' to 'P:/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/NA/ATPI6CUXWGK9FRTW9LD9DJ.uasset'
+[2024.06.10-14.12.45:367][158]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/BK/UTFHO07TN9PEYCI70ELKN1
+[2024.06.10-14.12.45:367][158]LogSavePackage: Moving 'P:/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/UTFHO07TN9PEYCI70ELKN1DD8395354C94E56FA37BF4ABA3EED1A2.tmp' to 'P:/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/BK/UTFHO07TN9PEYCI70ELKN1.uasset'
+[2024.06.10-14.12.45:370][158]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/OS/9P0IZWOLKH05TSB95A27ZI
+[2024.06.10-14.12.45:370][158]LogSavePackage: Moving 'P:/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/9P0IZWOLKH05TSB95A27ZIFFC8076E425AF7C44FAFF2B4D64C640E.tmp' to 'P:/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/OS/9P0IZWOLKH05TSB95A27ZI.uasset'
+[2024.06.10-14.12.45:373][158]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/4E/YVM4YP9NSSA61TNFKUJS0B
+[2024.06.10-14.12.45:374][158]LogSavePackage: Moving 'P:/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/YVM4YP9NSSA61TNFKUJS0B7E64ABCE4B1FB6AC254726801BAF473F.tmp' to 'P:/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/4E/YVM4YP9NSSA61TNFKUJS0B.uasset'
+[2024.06.10-14.12.45:376][158]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/FQ/G947K3SI187H74E74NQR95
+[2024.06.10-14.12.45:376][158]LogSavePackage: Moving 'P:/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/G947K3SI187H74E74NQR952A48A4084A84BA8BC2CE588CB02DFABA.tmp' to 'P:/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/FQ/G947K3SI187H74E74NQR95.uasset'
+[2024.06.10-14.12.45:379][158]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/KR/Q8V9BC43Q7Y2UYZ75IU0R6
+[2024.06.10-14.12.45:380][158]LogSavePackage: Moving 'P:/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/Q8V9BC43Q7Y2UYZ75IU0R6D548297B497CE7EA5B8881B6470CDA9E.tmp' to 'P:/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/KR/Q8V9BC43Q7Y2UYZ75IU0R6.uasset'
+[2024.06.10-14.12.45:383][158]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/House/envWoodPlank_D_02" FILE="P:/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/Assets/House/envWoodPlank_D_02.uasset" SILENT=true
+[2024.06.10-14.12.45:482][158]LogSavePackage: Moving output files for package: /Game/Assets/House/envWoodPlank_D_02
+[2024.06.10-14.12.45:482][158]LogSavePackage: Moving 'P:/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/envWoodPlank_D_027876428843E775F14BEB12A9E2C3859F.tmp' to 'P:/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/Assets/House/envWoodPlank_D_02.uasset'
+[2024.06.10-14.12.45:485][158]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/B6/XX4CYJVJFW9RRXZAI9ZQUG
+[2024.06.10-14.12.45:485][158]LogSavePackage: Moving 'P:/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/XX4CYJVJFW9RRXZAI9ZQUGA03D0ACD430C039E45759B8B8968A9DF.tmp' to 'P:/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/B6/XX4CYJVJFW9RRXZAI9ZQUG.uasset'
+[2024.06.10-14.12.45:554][158]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/House/matWood" FILE="P:/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/Assets/House/matWood.uasset" SILENT=true
+[2024.06.10-14.12.45:555][158]LogSavePackage: Moving output files for package: /Game/Assets/House/matWood
+[2024.06.10-14.12.45:555][158]LogSavePackage: Moving 'P:/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/matWoodFD5996284948C498D1569C84500EEF6F.tmp' to 'P:/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/Assets/House/matWood.uasset'
+[2024.06.10-14.12.45:576][158]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/House/matWoodPlanks" FILE="P:/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/Assets/House/matWoodPlanks.uasset" SILENT=true
+[2024.06.10-14.12.45:578][158]LogSavePackage: Moving output files for package: /Game/Assets/House/matWoodPlanks
+[2024.06.10-14.12.45:578][158]LogSavePackage: Moving 'P:/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/matWoodPlanksD2C41FB74F7237434EEDB08A24D02331.tmp' to 'P:/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/Assets/House/matWoodPlanks.uasset'
+[2024.06.10-14.12.45:588][158]LogFileHelpers: InternalPromptForCheckoutAndSave took 447 ms (total: 5.01 sec)
+[2024.06.10-14.12.45:594][158]AssetCheck: New page: Asset Save: multiple assets
+[2024.06.10-14.12.45:594][158]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_04D9F51D2510B8FC01_1247147744
+[2024.06.10-14.12.45:594][158]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_04D9F51D2510B8FC01_1324922746
+[2024.06.10-14.12.45:594][158]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_04D9F51D2510B8FC01_1354124747
+[2024.06.10-14.12.45:594][158]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_04D9F51D2510B8FC01_1381171748
+[2024.06.10-14.12.45:594][158]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_04D9F51D2510F6FD01_1525460626
+[2024.06.10-14.12.45:594][158]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Assets/House/envWood_D_02.envWood_D_02
+[2024.06.10-14.12.45:594][158]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_04D9F51D25101AFD01_1296286914
+[2024.06.10-14.12.45:595][158]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_04D9F51D2510F5FD01_1721742449
+[2024.06.10-14.12.45:595][158]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_04D9F51D2510F3FD01_1312364095
+[2024.06.10-14.12.45:595][158]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_04D9F51D251018FD01_2006697553
+[2024.06.10-14.12.45:595][158]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_04D9F51D251019FD01_1174840731
+[2024.06.10-14.12.45:595][158]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_04D9F51D251019FD01_1219061732
+[2024.06.10-14.12.45:595][158]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_04D9F51D251019FD01_1263381733
+[2024.06.10-14.12.45:595][158]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_04D9F51D251019FD01_1321077734
+[2024.06.10-14.12.45:595][158]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_04D9F51D251019FD01_1361689735
+[2024.06.10-14.12.45:595][158]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_04D9F51D251019FD01_1399556736
+[2024.06.10-14.12.45:595][158]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_04D9F51D251019FD01_1444122737
+[2024.06.10-14.12.45:595][158]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Assets/House/envWoodPlank_D_02.envWoodPlank_D_02
+[2024.06.10-14.12.45:595][158]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_244BFE932D2475FC01_1457236981
+[2024.06.10-14.12.45:595][158]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Assets/House/matWood.matWood
+[2024.06.10-14.12.45:595][158]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Assets/House/matWoodPlanks.matWoodPlanks
+[2024.06.10-14.13.57:715][399]LogEditorViewport: Clicking Background
+[2024.06.10-14.14.19:816][671]LogEditorViewport: Clicking Background
+[2024.06.10-14.14.22:784][830]LogEditorViewport: Clicking Background
+[2024.06.10-14.14.53:469][463]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.06.10-14.14.54:448][463]LogSlate: Window 'Delete Assets' being destroyed
+[2024.06.10-14.14.54:460][463]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_04D9F51D2510F3FD01_1497548096 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/B4/F4ULOD8MHDMZI6VA5R2F0Z.PackageMetaData in its package
+[2024.06.10-14.14.54:462][463]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.06.10-14.14.54:469][463]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.06.10-14.14.54:475][463]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.06.10-14.14.54:486][463]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.06.10-14.15.05:351][  0]LogContentBrowser: Attempting asset rename: MainHouse -> envMainHouse
+[2024.06.10-14.15.05:390][  0]LogMetaData: Removing '/Game/Assets/House/envMainHouse.envMainHouse' ref from Metadata '/Game/Assets/House/MainHouse.PackageMetaData'
+[2024.06.10-14.15.05:391][  0]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.10-14.15.05:457][  0]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/House/envMainHouse" FILE="P:/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/Assets/House/envMainHouse.uasset" SILENT=true
+[2024.06.10-14.15.05:461][  0]LogSavePackage: Moving output files for package: /Game/Assets/House/envMainHouse
+[2024.06.10-14.15.05:461][  0]LogSavePackage: Moving 'P:/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/envMainHouse2049899E4383BC78FE926DB3E99B493B.tmp' to 'P:/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/Assets/House/envMainHouse.uasset'
+[2024.06.10-14.15.05:462][  0]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/House/MainHouse" FILE="P:/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/Assets/House/MainHouse.uasset" SILENT=true
+[2024.06.10-14.15.05:463][  0]LogSavePackage: Moving output files for package: /Game/Assets/House/MainHouse
+[2024.06.10-14.15.05:463][  0]LogSavePackage: Moving 'P:/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/MainHouse7A17CF8E48C223DEB450C4B5E5B080F6.tmp' to 'P:/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/Assets/House/MainHouse.uasset'
+[2024.06.10-14.15.05:472][  0]LogFileHelpers: InternalPromptForCheckoutAndSave took 81 ms (total: 5.09 sec)
+[2024.06.10-14.15.05:474][  0]AssetCheck: New page: Asset Save: multiple assets
+[2024.06.10-14.15.05:474][  0]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Assets/House/envMainHouse.envMainHouse
+[2024.06.10-14.15.05:474][  0]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Assets/House/MainHouse.MainHouse
+[2024.06.10-14.15.13:368][428]LogEditorViewport: Clicking Background
+[2024.06.10-14.15.22:010][867]LogLinker: Warning: [AssetLog] P:\UNITY_Production\Unreal-Env01\OutdoorEnv\Content\Assets\House\Blocking_Pieces_MainHouse.uasset: Failed to load '/Game/Assets/matPink': Can't find file.
+[2024.06.10-14.15.22:010][867]LogLinker: Warning: [AssetLog] P:\UNITY_Production\Unreal-Env01\OutdoorEnv\Content\Assets\House\Blocking_Pieces_MainHouse.uasset: VerifyImport: Failed to load package for import object 'Package /Game/Assets/matPink'
+[2024.06.10-14.15.22:012][867]LogStaticMesh: Display: Building static mesh Blocking_Pieces_MainHouse...
+[2024.06.10-14.15.22:018][867]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.06.10-14.15.22:084][867]LogStaticMesh: Built static mesh [0.07s] /Game/Assets/House/Blocking_Pieces_MainHouse.Blocking_Pieces_MainHouse
+[2024.06.10-14.15.23:067][867]LogSlate: Window 'Delete Assets' being destroyed
+[2024.06.10-14.15.24:554][867]LogMeshUtilities: Finished distance field build in 1.5s - 126x126x126 sparse distance field, 1.3Mb total, 0.1Mb always loaded, 35% occupied, 1289 triangles, Blocking_Pieces_MainHouse
+[2024.06.10-14.15.24:631][867]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.06.10-14.15.24:638][867]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.06.10-14.15.24:644][867]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2024.06.10-14.15.24:702][867]LogAutomationController: Ignoring very large delta of 2.71 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.06.10-14.15.26:379][936]LogEditorViewport: Clicking Background
+[2024.06.10-14.15.46:117][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.06.10-14.16.05:968][  8]LogSlate: Window 'Replace References?' being destroyed
+[2024.06.10-14.16.05:973][  8]Message dialog closed, result: Ok, title: Replace References?, text: This will replace any reference to the pending deleted assets with envSmallHouse_Wood_Pannels; and then delete them.
+
+Are you sure?
+[2024.06.10-14.16.05:973][  8]LogSlate: Window 'Delete Assets' being destroyed
+[2024.06.10-14.16.06:179][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.06.10-14.16.07:866][  8]LogSlate: Window 'Save Content' being destroyed
+[2024.06.10-14.16.07:876][  8]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.10-14.16.07:941][  8]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/House/envWood_Pannels_SmallHouse" FILE="P:/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/Assets/House/envWood_Pannels_SmallHouse.uasset" SILENT=true
+[2024.06.10-14.16.07:942][  8]LogSavePackage: Moving output files for package: /Game/Assets/House/envWood_Pannels_SmallHouse
+[2024.06.10-14.16.07:943][  8]LogSavePackage: Moving 'P:/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/envWood_Pannels_SmallHouseBA57DC25407D943B5CD5278C13986DC1.tmp' to 'P:/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/Assets/House/envWood_Pannels_SmallHouse.uasset'
+[2024.06.10-14.16.07:945][  8]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/V1/FP6K96OM6U9NF2CN8WPNWC
+[2024.06.10-14.16.07:946][  8]LogSavePackage: Moving 'P:/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/FP6K96OM6U9NF2CN8WPNWC4167CF0046D727D39CC2BCBA2A9DF198.tmp' to 'P:/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/V1/FP6K96OM6U9NF2CN8WPNWC.uasset'
+[2024.06.10-14.16.07:963][  8]LogFileHelpers: InternalPromptForCheckoutAndSave took 87 ms (total: 5.18 sec)
+[2024.06.10-14.16.07:967][  8]AssetCheck: New page: Asset Save: multiple assets
+[2024.06.10-14.16.07:967][  8]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Assets/House/envWood_Pannels_SmallHouse.envWood_Pannels_SmallHouse
+[2024.06.10-14.16.07:967][  8]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_04D9F51D2510F3FD01_1312364095
+[2024.06.10-14.16.07:969][  8]LogShaderCompilers: Display: ================================================
+[2024.06.10-14.16.07:969][  8]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.06.10-14.16.07:969][  8]LogShaderCompilers: Display: Total job queries 162, among them cache hits 70 (43.21%)
+[2024.06.10-14.16.07:969][  8]LogShaderCompilers: Display: Tracking 92 distinct input hashes that result in 63 distinct outputs (68.48%)
+[2024.06.10-14.16.07:969][  8]LogShaderCompilers: Display: RAM used: 2,01 MiB of 1,60 GiB budget. Usage: 0.12%
+[2024.06.10-14.16.07:969][  8]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.06.10-14.16.07:969][  8]LogShaderCompilers: Display: Shaders Compiled: 34
+[2024.06.10-14.16.07:969][  8]LogShaderCompilers: Display: Jobs assigned 34, completed 34 (100%)
+[2024.06.10-14.16.07:969][  8]LogShaderCompilers: Display: Average time worker was idle: 834.10 s
+[2024.06.10-14.16.07:969][  8]LogShaderCompilers: Display: Time job spent in pending queue: average 0.16 s, longest 0.69 s
+[2024.06.10-14.16.07:969][  8]LogShaderCompilers: Display: Job execution time: average 0.53 s, max 0.80 s
+[2024.06.10-14.16.07:969][  8]LogShaderCompilers: Display: Job life time (pending + execution): average 0.69 s, max 1.01
+[2024.06.10-14.16.07:969][  8]LogShaderCompilers: Display: Shader code size: average 43,904 KiB, min 31,809 KiB, max 70,504 KiB
+[2024.06.10-14.16.07:969][  8]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 3.38 s
+[2024.06.10-14.16.07:969][  8]LogShaderCompilers: Display: Jobs were issued in 34 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.06.10-14.16.07:969][  8]LogShaderCompilers: Display: Average processing rate: 10.07 jobs/sec
+[2024.06.10-14.16.07:969][  8]LogShaderCompilers: Display: Total thread time: 11,219 s
+[2024.06.10-14.16.07:969][  8]LogShaderCompilers: Display: Total thread preprocess time: 1,144 s
+[2024.06.10-14.16.07:969][  8]LogShaderCompilers: Display: Percentage time preprocessing: 10.20%
+[2024.06.10-14.16.07:969][  8]LogShaderCompilers: Display: Effective parallelization: 3.32 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.06.10-14.16.07:969][  8]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.06.10-14.16.07:969][  8]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    2 times, average 0.44 sec, max 0.44 sec, min 0.44 sec)
+[2024.06.10-14.16.07:969][  8]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    2 times, average 0.43 sec, max 0.44 sec, min 0.43 sec)
+[2024.06.10-14.16.07:969][  8]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    2 times, average 0.39 sec, max 0.39 sec, min 0.39 sec)
+[2024.06.10-14.16.07:969][  8]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled    2 times, average 0.39 sec, max 0.40 sec, min 0.38 sec)
+[2024.06.10-14.16.07:969][  8]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    2 times, average 0.39 sec, max 0.39 sec, min 0.38 sec)
+[2024.06.10-14.16.07:969][  8]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.06.10-14.16.07:969][  8]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 9.11% of total time (compiled    3 times, average 0.34 sec, max 0.40 sec, min 0.30 sec)
+[2024.06.10-14.16.07:969][  8]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 8.81% of total time (compiled    3 times, average 0.33 sec, max 0.36 sec, min 0.31 sec)
+[2024.06.10-14.16.07:969][  8]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 7.89% of total time (compiled    2 times, average 0.44 sec, max 0.44 sec, min 0.44 sec)
+[2024.06.10-14.16.07:969][  8]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight - 7.74% of total time (compiled    2 times, average 0.43 sec, max 0.44 sec, min 0.43 sec)
+[2024.06.10-14.16.07:969][  8]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy - 7.01% of total time (compiled    2 times, average 0.39 sec, max 0.39 sec, min 0.39 sec)
+[2024.06.10-14.16.07:969][  8]LogShaderCompilers: Display: ================================================
+[2024.06.10-14.16.07:975][  9]LogAutomationController: Ignoring very large delta of 21.86 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.06.10-14.16.07:975][  9]LogHttp: Warning: 000005C1F4FC0A00: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.06.10-14.16.07:975][  9]LogHttp: Warning: 000005C1F4FC0A00: libcurl info message cache 0 (Found bundle for host: 0x5c1671708a0 [serially])
+[2024.06.10-14.16.07:975][  9]LogHttp: Warning: 000005C1F4FC0A00: libcurl info message cache 1 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2024.06.10-14.16.07:975][  9]LogHttp: Warning: 000005C1F4FC0A00: libcurl info message cache 2 (We are completely uploaded and fine)
+[2024.06.10-14.16.07:975][  9]LogHttp: Warning: 000005C1F4FC0A00: libcurl info message cache 3 (Recv failure: Connection was reset)
+[2024.06.10-14.16.07:975][  9]LogHttp: Warning: 000005C1F4FC0A00: libcurl info message cache 4 (OpenSSL SSL_read: Connection was reset, errno 10054)
+[2024.06.10-14.16.07:975][  9]LogHttp: Warning: 000005C1F4FC0A00: libcurl info message cache 5 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.06.10-14.16.07:975][  9]LogHttp: Warning: 000005C1F4FC0A00: libcurl info message cache 6 (state.rewindbeforesend = TRUE)
+[2024.06.10-14.16.07:975][  9]LogHttp: Warning: 000005C1F4FC0A00: libcurl info message cache 7 (Closing connection)
+[2024.06.10-14.16.07:975][  9]LogHttp: Warning: 000005C1F4FC0A00: libcurl info message cache 8 (Recv failure: Connection was reset)
+[2024.06.10-14.16.07:975][  9]LogHttp: Warning: 000005C1F4FC0A00: libcurl info message cache 9 (Send failure: Connection was reset)
+[2024.06.10-14.16.07:975][  9]LogHttp: Warning: 000005C1F4FC0A00: libcurl info message cache 10 (Recv failure: Connection was reset)
+[2024.06.10-14.16.07:975][  9]LogHttp: Warning: 000005C1F4FC0A00: libcurl info message cache 11 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B64F481D6-4BDE-A0B0-C976-1082E6D810E2%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=48f18a5a4c675d77694fc4bb175b52a6%7Ce6a912d6e0154d279174b450acd0f7f3%7C0ab6cf4c-d9bf-4bb4-a228-3712b8be4824&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2024.06.10-14.16.07:975][  9]LogHttp: Warning: 000005C1F4FC0A00: libcurl info message cache 12 (  Trying 52.203.155.196:443...)
+[2024.06.10-14.16.07:975][  9]LogHttp: Warning: 000005C1F4FC0A00: libcurl info message cache 13 (Connected to datarouter.ol.epicgames.com (52.203.155.196) port 443)
+[2024.06.10-14.16.07:975][  9]LogHttp: Warning: 000005C1F4FC0A00: libcurl info message cache 14 (ALPN: curl offers http/1.1)
+[2024.06.10-14.16.07:975][  9]LogHttp: Warning: 000005C1F4FC0A00: libcurl info message cache 15 (SSL reusing session ID)
+[2024.06.10-14.16.07:975][  9]LogHttp: Warning: 000005C1F4FC0A00: libcurl info message cache 16 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2024.06.10-14.16.07:975][  9]LogHttp: Warning: 000005C1F4FC0A00: libcurl info message cache 17 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2024.06.10-14.16.07:975][  9]LogHttp: Warning: 000005C1F4FC0A00: libcurl info message cache 18 (TLSv1.3 (IN), TLS handshake, Encrypted Extensions (8):)
+[2024.06.10-14.16.07:975][  9]LogHttp: Warning: 000005C1F4FC0A00: libcurl info message cache 19 (TLSv1.3 (IN), TLS handshake, Certificate (11):)
+[2024.06.10-14.16.07:975][  9]LogHttp: Warning: 000005C1F4FC0A00: libcurl info message cache 20 (TLSv1.3 (IN), TLS handshake, CERT verify (15):)
+[2024.06.10-14.16.07:975][  9]LogHttp: Warning: 000005C1F4FC0A00: libcurl info message cache 21 (TLSv1.3 (IN), TLS handshake, Finished (20):)
+[2024.06.10-14.16.07:975][  9]LogHttp: Warning: 000005C1F4FC0A00: libcurl info message cache 22 (TLSv1.3 (OUT), TLS change cipher, Change cipher spec (1):)
+[2024.06.10-14.16.07:975][  9]LogHttp: Warning: 000005C1F4FC0A00: libcurl info message cache 23 (TLSv1.3 (OUT), TLS handshake, Finished (20):)
+[2024.06.10-14.16.07:975][  9]LogHttp: Warning: 000005C1F4FC0A00: libcurl info message cache 24 (SSL connection using TLSv1.3 / TLS_AES_128_GCM_SHA256)
+[2024.06.10-14.16.07:975][  9]LogHttp: Warning: 000005C1F4FC0A00: libcurl info message cache 25 (ALPN: server accepted http/1.1)
+[2024.06.10-14.16.07:975][  9]LogHttp: Warning: 000005C1F4FC0A00: libcurl info message cache 26 (Server certificate:)
+[2024.06.10-14.16.07:975][  9]LogHttp: Warning: 000005C1F4FC0A00: libcurl info message cache 27 ( subject: CN=datarouter.cfef.live.use1a.on.epicgames.com)
+[2024.06.10-14.16.07:975][  9]LogHttp: Warning: 000005C1F4FC0A00: libcurl info message cache 28 ( start date: Mar  4 00:00:00 2024 GMT)
+[2024.06.10-14.16.07:975][  9]LogHttp: Warning: 000005C1F4FC0A00: libcurl info message cache 29 ( expire date: Apr  2 23:59:59 2025 GMT)
+[2024.06.10-14.16.07:975][  9]LogHttp: Warning: 000005C1F4FC0A00: libcurl info message cache 30 ( subjectAltName: host "datarouter.ol.epicgames.com" matched cert's "datarouter.ol.epicgames.com")
+[2024.06.10-14.16.07:975][  9]LogHttp: Warning: 000005C1F4FC0A00: libcurl info message cache 31 ( issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M03)
+[2024.06.10-14.16.07:975][  9]LogHttp: Warning: 000005C1F4FC0A00: libcurl info message cache 32 ( SSL certificate verify ok.)
+[2024.06.10-14.16.07:975][  9]LogHttp: Warning: 000005C1F4FC0A00: libcurl info message cache 33 (using HTTP/1.1)
+[2024.06.10-14.16.07:975][  9]LogHttp: Warning: 000005C1F4FC0A00: libcurl info message cache 34 (necessary data rewind wasn't possible)
+[2024.06.10-14.16.07:975][  9]LogHttp: Warning: 000005C1F4FC0A00: libcurl info message cache 35 (Closing connection)
+[2024.06.10-14.16.07:975][  9]LogHttp: Warning: 000005C1F4FC0A00: libcurl info message cache 36 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2024.06.10-14.16.07:975][  9]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B64F481D6-4BDE-A0B0-C976-1082E6D810E2%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=48f18a5a4c675d77694fc4bb175b52a6%7Ce6a912d6e0154d279174b450acd0f7f3%7C0ab6cf4c-d9bf-4bb4-a228-3712b8be4824&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.06.10-14.16.18:614][554]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.06.10-14.16.49:440][261]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.06.10-14.16.50:452][261]LogSlate: Window 'Delete Assets' being destroyed
+[2024.06.10-14.16.50:470][261]LogUObjectGlobals: Force Deleting 4 Package(s):
+	Asset Name: /Game/Assets/House/matWoodPlanks.matWoodPlanks
+	Asset Type: Material
+	Asset Name: /Game/Assets/House/matWood.matWood
+	Asset Type: Material
+	Asset Name: /Game/Assets/House/envWoodPlank_D_02.envWoodPlank_D_02
+	Asset Type: Texture2D
+	Asset Name: /Game/Assets/House/envWood_D_02.envWood_D_02
+	Asset Type: Texture2D
+[2024.06.10-14.16.50:643][261]LogMaterial: Warning: [AssetLog] P:\UNITY_Production\Unreal-Env01\OutdoorEnv\Content\Assets\House\matWood.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2024.06.10-14.16.50:645][261]LogMaterial: Warning: [AssetLog] P:\UNITY_Production\Unreal-Env01\OutdoorEnv\Content\Assets\House\matWood.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2024.06.10-14.16.50:647][261]LogMaterial: Warning: [AssetLog] P:\UNITY_Production\Unreal-Env01\OutdoorEnv\Content\Assets\House\matWoodPlanks.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2024.06.10-14.16.50:648][261]LogMaterial: Warning: [AssetLog] P:\UNITY_Production\Unreal-Env01\OutdoorEnv\Content\Assets\House\matWoodPlanks.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2024.06.10-14.16.50:695][261]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2024.06.10-14.16.50:702][261]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.06.10-14.16.50:708][261]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2024.06.10-14.16.52:045][324]LogEditorViewport: Clicking Background
+[2024.06.10-14.17.02:977][889]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/House/envSmallHouse_Pannels_Border.envSmallHouse_Pannels_Border
+[2024.06.10-14.17.02:977][889]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/House/envSmallHouse_Pannels_Border.envSmallHouse_Pannels_Border
+[2024.06.10-14.17.02:978][889]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/House/envSmallHouse_Pannels_Border.envSmallHouse_Pannels_Border as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_4
+[2024.06.10-14.17.04:500][993]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/House/envSmallHouse_Pannels_Border.envSmallHouse_Pannels_Border
+[2024.06.10-14.17.04:500][993]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/House/envSmallHouse_Pannels_Border.envSmallHouse_Pannels_Border
+[2024.06.10-14.17.04:503][993]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/House/envSmallHouse_Pannels_Border.envSmallHouse_Pannels_Border as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_04D9F51D2510F6FD01_1903118627
+[2024.06.10-14.17.13:456][541]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.06.10-14.17.20:285][937]Cmd: TRANSACTION UNDO
+[2024.06.10-14.17.20:285][937]LogEditorTransaction: Undo Move Elements
+[2024.06.10-14.17.22:154][ 21]LogEditorViewport: Clicking Background
+[2024.06.10-14.17.33:658][802]LogEditorViewport: Clicking Background
+[2024.06.10-14.17.50:990][428]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.06.10-14.17.50:996][428]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.10-14.17.51:044][428]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/B6/XX4CYJVJFW9RRXZAI9ZQUG
+[2024.06.10-14.17.51:045][428]LogSavePackage: Moving 'P:/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/XX4CYJVJFW9RRXZAI9ZQUG87AA1B3D4AD85145071BEFA7E07F8EE9.tmp' to 'P:/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/B6/XX4CYJVJFW9RRXZAI9ZQUG.uasset'
+[2024.06.10-14.17.51:047][428]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/V1/FP6K96OM6U9NF2CN8WPNWC
+[2024.06.10-14.17.51:048][428]LogSavePackage: Moving 'P:/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/FP6K96OM6U9NF2CN8WPNWCDF3D695E40C78E9CFDBEF1871AC8E9B1.tmp' to 'P:/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/V1/FP6K96OM6U9NF2CN8WPNWC.uasset'
+[2024.06.10-14.17.51:051][428]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/AU/6V1XIN7YKAMB6TMFT78UVJ
+[2024.06.10-14.17.51:051][428]LogSavePackage: Moving 'P:/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/6V1XIN7YKAMB6TMFT78UVJ2DB1F4CE4262A00D3B60F4B9A10B79BA.tmp' to 'P:/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/AU/6V1XIN7YKAMB6TMFT78UVJ.uasset'
+[2024.06.10-14.17.51:116][428]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/House/envSmallHouse_Pannels_Border" FILE="P:/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/Assets/House/envSmallHouse_Pannels_Border.uasset" SILENT=true
+[2024.06.10-14.17.51:119][428]LogSavePackage: Moving output files for package: /Game/Assets/House/envSmallHouse_Pannels_Border
+[2024.06.10-14.17.51:119][428]LogSavePackage: Moving 'P:/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/envSmallHouse_Pannels_BorderF9D8B76942BC6EACDCDD5697B801E0D3.tmp' to 'P:/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/Assets/House/envSmallHouse_Pannels_Border.uasset'
+[2024.06.10-14.17.51:130][428]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/House/envSmallHouse_Wood_Pannels" FILE="P:/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/Assets/House/envSmallHouse_Wood_Pannels.uasset" SILENT=true
+[2024.06.10-14.17.51:133][428]LogSavePackage: Moving output files for package: /Game/Assets/House/envSmallHouse_Wood_Pannels
+[2024.06.10-14.17.51:133][428]LogSavePackage: Moving 'P:/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/envSmallHouse_Wood_PannelsCC11F3CE491F12260BD9FEA2225A9890.tmp' to 'P:/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/Assets/House/envSmallHouse_Wood_Pannels.uasset'
+[2024.06.10-14.17.51:141][428]LogFileHelpers: InternalPromptForCheckoutAndSave took 145 ms (total: 5.33 sec)
+[2024.06.10-14.17.51:146][428]AssetCheck: New page: Asset Save: multiple assets
+[2024.06.10-14.17.51:146][428]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_244BFE932D2475FC01_1457236981
+[2024.06.10-14.17.51:146][428]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_04D9F51D2510F3FD01_1312364095
+[2024.06.10-14.17.51:146][428]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_04D9F51D2510F6FD01_1903118627
+[2024.06.10-14.17.51:146][428]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Assets/House/envSmallHouse_Pannels_Border.envSmallHouse_Pannels_Border
+[2024.06.10-14.17.51:146][428]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Assets/House/envSmallHouse_Wood_Pannels.envSmallHouse_Wood_Pannels
