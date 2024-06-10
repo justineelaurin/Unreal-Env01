@@ -1196,3 +1196,179 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.06.10-20.15.00:265][473]LogFileHelpers: InternalPromptForCheckoutAndSave took 145 ms
 [2024.06.10-20.15.00:268][473]AssetCheck: New page: Asset Save: ThirdPersonMap
 [2024.06.10-20.15.00:268][473]LogContentValidation: Display: Validating /Script/Engine.World /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap
+[2024.06.10-20.16.24:279][765]LogDerivedDataCache: C:/Users/justinel/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:12.457 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 6829 files in 8998 folders with total size 353 MiB.
+[2024.06.10-20.28.22:996][497]LogEditorViewport: Clicking Background
+[2024.06.10-20.32.32:778][701]LogEditorViewport: Clicking Background
+[2024.06.10-20.32.35:475][838]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.06.10-20.32.36:921][915]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.06.10-20.32.43:123][251]LogShaderCompilers: Display: ================================================
+[2024.06.10-20.32.43:123][251]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.06.10-20.32.43:123][251]LogShaderCompilers: Display: Total job queries 74, among them cache hits 22 (29.73%)
+[2024.06.10-20.32.43:123][251]LogShaderCompilers: Display: Tracking 52 distinct input hashes that result in 34 distinct outputs (65.38%)
+[2024.06.10-20.32.43:123][251]LogShaderCompilers: Display: RAM used: 1,06 MiB of 1,60 GiB budget. Usage: 0.06%
+[2024.06.10-20.32.43:123][251]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.06.10-20.32.43:123][251]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.06.10-20.32.43:123][251]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2024.06.10-20.32.43:123][251]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.06.10-20.32.43:123][251]LogShaderCompilers: Display: ================================================
+[2024.06.10-20.32.49:122][565]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.06.10-20.33.29:615][106]LogEditorViewport: Clicking Background
+[2024.06.10-20.33.35:794][500]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.06.10-20.33.38:613][634]Cmd: TRANSACTION UNDO
+[2024.06.10-20.33.38:613][634]LogEditorTransaction: Undo Move Elements
+[2024.06.10-20.33.44:250][887]Cmd: TRANSACTION UNDO
+[2024.06.10-20.33.44:250][887]LogEditorTransaction: Undo Move Elements
+[2024.06.10-20.33.53:773][373]Cmd: TRANSACTION UNDO
+[2024.06.10-20.33.53:773][373]LogEditorTransaction: Undo Move Elements
+[2024.06.10-20.33.55:702][458]Cmd: TRANSACTION UNDO
+[2024.06.10-20.33.55:702][458]LogEditorTransaction: Undo Move Elements
+[2024.06.10-20.33.59:674][646]Cmd: TRANSACTION UNDO
+[2024.06.10-20.33.59:674][646]LogEditorTransaction: Undo Move Elements
+[2024.06.10-20.34.05:121][919]Cmd: DELETE
+[2024.06.10-20.34.05:121][919]Cmd: ACTOR DELETE
+[2024.06.10-20.34.05:136][919]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.06.10-20.34.05:142][919]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_04D9F51D25100BFE01_1964366320 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/EF/DXQMIJQTRB38OV93OUFCYL.PackageMetaData in its package
+[2024.06.10-20.34.05:142][919]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_04D9F51D25100BFE01_1964363319 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/FD/MVSMFY8MFASARLVSGYKJOA.PackageMetaData in its package
+[2024.06.10-20.34.05:143][919]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.06.10-20.34.05:145][919]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2024.06.10-20.34.05:153][919]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2024.06.10-20.34.19:835][822]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2024.06.10-20.34.21:395][822]LogSlate: Window 'Save Content' being destroyed
+[2024.06.10-20.34.21:406][822]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.10-20.34.21:452][822]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2024.06.10-20.34.21:458][822]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2024.06.10-20.34.21:464][822]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2024.06.10-20.34.21:472][822]LogFileHelpers: InternalPromptForCheckoutAndSave took 65 ms (total: 211 ms)
+[2024.06.10-20.34.26:878][121]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.06.10-20.35.10:816][504]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.06.10-20.35.23:997][243]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.06.10-20.35.49:314][651]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.06.10-20.35.49:318][651]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/BX/TZJM9LEXTEK853B7HAS604_Auto1
+[2024.06.10-20.35.49:318][651]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/TZJM9LEXTEK853B7HAS604_Auto19B3330274808E3C46FE118BFAE3E80D2.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/BX/TZJM9LEXTEK853B7HAS604_Auto1.uasset'
+[2024.06.10-20.35.49:320][651]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/AU/6V1XIN7YKAMB6TMFT78UVJ_Auto1
+[2024.06.10-20.35.49:321][651]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/6V1XIN7YKAMB6TMFT78UVJ_Auto1EE3687D142B29003BE6E4D901A6401A6.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/AU/6V1XIN7YKAMB6TMFT78UVJ_Auto1.uasset'
+[2024.06.10-20.35.49:323][651]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/5W/RNYUXD627CGCX6Z2SWMMQV_Auto1
+[2024.06.10-20.35.49:323][651]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/RNYUXD627CGCX6Z2SWMMQV_Auto157CE65F9408C944EF6B52486117C0FF2.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/5W/RNYUXD627CGCX6Z2SWMMQV_Auto1.uasset'
+[2024.06.10-20.35.49:325][651]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/BU/SSCKMWTWLU6RA6L9V9WEPE_Auto1
+[2024.06.10-20.35.49:325][651]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/SSCKMWTWLU6RA6L9V9WEPE_Auto14311C9324F13D1FB553724AD5E2D4CBA.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/BU/SSCKMWTWLU6RA6L9V9WEPE_Auto1.uasset'
+[2024.06.10-20.35.49:327][651]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.019
+[2024.06.10-20.35.49:327][651]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.019
+[2024.06.10-20.35.55:299][985]LogEditorViewport: Clicking Background
+[2024.06.10-20.36.12:649][142]LogEditorViewport: Clicking Background
+[2024.06.10-20.36.16:019][322]LogEditorViewport: Clicking Background
+[2024.06.10-20.36.22:357][709]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.10-20.36.22:569][710]LogShaderCompilers: Display: ================================================
+[2024.06.10-20.36.22:569][710]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.06.10-20.36.22:569][710]LogShaderCompilers: Display: Total job queries 76, among them cache hits 22 (28.95%)
+[2024.06.10-20.36.22:569][710]LogShaderCompilers: Display: Tracking 54 distinct input hashes that result in 34 distinct outputs (62.96%)
+[2024.06.10-20.36.22:569][710]LogShaderCompilers: Display: RAM used: 1,11 MiB of 1,60 GiB budget. Usage: 0.07%
+[2024.06.10-20.36.22:569][710]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.06.10-20.36.22:569][710]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.06.10-20.36.22:569][710]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2024.06.10-20.36.22:569][710]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.06.10-20.36.22:569][710]LogShaderCompilers: Display: ================================================
+[2024.06.10-20.36.25:857][915]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.06.10-20.36.25:862][915]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.10-20.36.25:903][915]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/BX/TZJM9LEXTEK853B7HAS604
+[2024.06.10-20.36.25:903][915]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/TZJM9LEXTEK853B7HAS6044370BBA444FC26CFCA6DB68EB03BF134.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/BX/TZJM9LEXTEK853B7HAS604.uasset'
+[2024.06.10-20.36.25:906][915]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/AU/6V1XIN7YKAMB6TMFT78UVJ
+[2024.06.10-20.36.25:906][915]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/6V1XIN7YKAMB6TMFT78UVJ3A4E7FEA4ACE189A4E17CE85E77C7F9F.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/AU/6V1XIN7YKAMB6TMFT78UVJ.uasset'
+[2024.06.10-20.36.25:909][915]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/5W/RNYUXD627CGCX6Z2SWMMQV
+[2024.06.10-20.36.25:909][915]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/RNYUXD627CGCX6Z2SWMMQV305AF2444CEAA17752F3F38511E87142.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/5W/RNYUXD627CGCX6Z2SWMMQV.uasset'
+[2024.06.10-20.36.25:912][915]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/BU/SSCKMWTWLU6RA6L9V9WEPE
+[2024.06.10-20.36.25:912][915]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/SSCKMWTWLU6RA6L9V9WEPEF0F62C38433DED1F1E2EC88B1C848A84.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/BU/SSCKMWTWLU6RA6L9V9WEPE.uasset'
+[2024.06.10-20.36.25:923][915]LogFileHelpers: InternalPromptForCheckoutAndSave took 61 ms (total: 272 ms)
+[2024.06.10-20.36.25:928][915]AssetCheck: New page: Asset Save: multiple assets
+[2024.06.10-20.36.25:928][915]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_04D9F51D251002FE01_1894932745
+[2024.06.10-20.36.25:928][915]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_04D9F51D2510F6FD01_1903118627
+[2024.06.10-20.36.25:928][915]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_04D9F51D2510FAFD01_1357101333
+[2024.06.10-20.36.25:928][915]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_04D9F51D251002FE01_1840784743
+[2024.06.10-20.36.27:807][ 47]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.10-20.36.27:876][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.06.10-20.36.27:883][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2024.06.10-20.36.27:888][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2024.06.10-20.36.27:896][ 47]LogFileHelpers: InternalPromptForCheckoutAndSave took 88 ms (total: 361 ms)
+[2024.06.10-20.36.36:397][621]LogCore: Display: Tracing Screenshot "HighresScreenshot00000" taken with size: 2869 x 1614
+[2024.06.10-20.36.37:072][622]LogClient: High resolution screenshot saved as D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/Screenshots/WindowsEditor/HighresScreenshot00000.png
+[2024.06.10-20.38.15:191][ 45]Cmd: r.ResetRenderTargetsExtent
+[2024.06.10-20.38.15:191][ 45]Scene texture extent history reset. Next scene render will reallocate textures at the requested size.
+[2024.06.10-20.38.15:191][ 45]LogSlate: Window 'High Resolution Screenshot' being destroyed
+[2024.06.10-20.38.18:718][253]LogEditorViewport: Clicking Background
+[2024.06.10-20.38.21:171][390]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.10-20.38.21:258][390]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.06.10-20.38.21:265][390]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2024.06.10-20.38.21:270][390]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2024.06.10-20.38.21:278][390]LogFileHelpers: InternalPromptForCheckoutAndSave took 106 ms (total: 468 ms)
+[2024.06.10-20.39.11:853][133]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.06.10-20.39.13:928][236]LogEditorViewport: Clicking Background
+[2024.06.10-20.39.20:281][594]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.06.10-20.39.23:906][789]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.06.10-20.42.13:169][783]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2024.06.10-20.42.14:471][783]LogSlate: Window 'Save Content' being destroyed
+[2024.06.10-20.42.14:482][783]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.10-20.42.14:522][783]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/DW/11E1FA8MO7NGSQ9YESRLNV
+[2024.06.10-20.42.14:522][783]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/11E1FA8MO7NGSQ9YESRLNV72735D0148EFB9AF1E153C9023E85DBF.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/DW/11E1FA8MO7NGSQ9YESRLNV.uasset'
+[2024.06.10-20.42.14:525][783]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/KP/JQQRC8196CDKHTT603LYG0
+[2024.06.10-20.42.14:526][783]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/JQQRC8196CDKHTT603LYG0285668C4448AC39977523B83FB33C208.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/KP/JQQRC8196CDKHTT603LYG0.uasset'
+[2024.06.10-20.42.14:529][783]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/3Z/YZRRO30EHILIE0A7QCI16I
+[2024.06.10-20.42.14:529][783]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/YZRRO30EHILIE0A7QCI16IF55F511B4882821793BA8DBC46F047D4.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/3Z/YZRRO30EHILIE0A7QCI16I.uasset'
+[2024.06.10-20.42.14:539][783]LogFileHelpers: InternalPromptForCheckoutAndSave took 56 ms (total: 524 ms)
+[2024.06.10-20.42.14:543][783]AssetCheck: New page: Asset Save: multiple assets
+[2024.06.10-20.42.14:543][783]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_04D9F51D251001FD01_1353565562
+[2024.06.10-20.42.14:543][783]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_04D9F51D251001FD01_1353593590
+[2024.06.10-20.42.14:543][783]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_04D9F51D251001FD01_1353608605
+[2024.06.10-20.42.34:875][157]LogEditorViewport: Clicking Background
+[2024.06.10-20.45.42:607][190]AssetReimport: New page: Outstanding source content changes 12 h 45 min 42 s
+[2024.06.10-20.45.42:617][190]LogSlate: Took 0.005609 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.06.10-20.45.42:648][191]LogEditorFactories: Performing atomic reimport of [D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/Assets/House/envShed.fbx]
+[2024.06.10-20.45.42:655][191]LogFbx: Loading FBX Scene from D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/Assets/House/envShed.fbx
+[2024.06.10-20.45.42:661][191]LogFbx: FBX Scene Loaded Succesfully
+[2024.06.10-20.45.42:680][191]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/House/envShed.envShed
+[2024.06.10-20.45.44:084][191]LogSlate: Window 'Reimport Material Conflicts Resolution' being destroyed
+[2024.06.10-20.45.44:090][191]LogEditorFactories: -- imported successfully
+[2024.06.10-20.45.44:108][192]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.10-20.45.44:244][192]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/House/envShed" FILE="D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/Assets/House/envShed.uasset" SILENT=true
+[2024.06.10-20.45.44:248][192]LogSavePackage: Moving output files for package: /Game/Assets/House/envShed
+[2024.06.10-20.45.44:249][192]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/envShedDBB8B68641D440DA42B117B13BC90ACE.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/Assets/House/envShed.uasset'
+[2024.06.10-20.45.44:259][192]LogFileHelpers: InternalPromptForCheckoutAndSave took 150 ms (total: 675 ms)
+[2024.06.10-20.45.44:285][193]AssetCheck: New page: Asset Save: envShed
+[2024.06.10-20.45.44:285][193]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Assets/House/envShed.envShed
+[2024.06.10-20.45.47:267][367]AssetReimport: Reimported asset envShed from D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/Assets/House/envShed.fbx.
+[2024.06.10-20.45.47:303][370]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.06.10-20.45.52:299][624]LogShaderCompilers: Display: ================================================
+[2024.06.10-20.45.52:300][624]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.06.10-20.45.52:300][624]LogShaderCompilers: Display: Total job queries 105, among them cache hits 29 (27.62%)
+[2024.06.10-20.45.52:300][624]LogShaderCompilers: Display: Tracking 69 distinct input hashes that result in 45 distinct outputs (65.22%)
+[2024.06.10-20.45.52:300][624]LogShaderCompilers: Display: RAM used: 1,44 MiB of 1,60 GiB budget. Usage: 0.09%
+[2024.06.10-20.45.52:300][624]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.06.10-20.45.52:300][624]LogShaderCompilers: Display: Shaders Compiled: 1
+[2024.06.10-20.45.52:300][624]LogShaderCompilers: Display: Jobs assigned 8, completed 1 (12.50%)
+[2024.06.10-20.45.52:300][624]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.05 s
+[2024.06.10-20.45.52:300][624]LogShaderCompilers: Display: Job execution time: average 1.29 s, max 1.29 s
+[2024.06.10-20.45.52:300][624]LogShaderCompilers: Display: Job life time (pending + execution): average 1.33 s, max 1.33
+[2024.06.10-20.45.52:300][624]LogShaderCompilers: Display: Shader code size: average 31,141 KiB, min 31,141 KiB, max 31,141 KiB
+[2024.06.10-20.45.52:300][624]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1.33 s
+[2024.06.10-20.45.52:300][624]LogShaderCompilers: Display: Jobs were issued in 8 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.06.10-20.45.52:300][624]LogShaderCompilers: Display: Average processing rate: 0.75 jobs/sec
+[2024.06.10-20.45.52:300][624]LogShaderCompilers: Display: Total thread time: 0,58 s
+[2024.06.10-20.45.52:300][624]LogShaderCompilers: Display: Total thread preprocess time: 0,419 s
+[2024.06.10-20.45.52:300][624]LogShaderCompilers: Display: Percentage time preprocessing: 72.11%
+[2024.06.10-20.45.52:300][624]LogShaderCompilers: Display: Effective parallelization: 0.44 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.06.10-20.45.52:300][624]LogShaderCompilers: Display: Top 1 most expensive shader types by average time:
+[2024.06.10-20.45.52:300][624]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    1 times, average 0.58 sec, max 0.58 sec, min 0.58 sec)
+[2024.06.10-20.45.52:300][624]LogShaderCompilers: Display: Top 1 shader types by total compile time:
+[2024.06.10-20.45.52:300][624]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 100.00% of total time (compiled    1 times, average 0.58 sec, max 0.58 sec, min 0.58 sec)
+[2024.06.10-20.45.52:300][624]LogShaderCompilers: Display: ================================================
+[2024.06.10-20.45.54:805][751]LogEditorViewport: Clicking Background
+[2024.06.10-20.46.12:530][673]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.06.10-20.46.12:536][673]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.10-20.46.12:578][673]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/5W/RNYUXD627CGCX6Z2SWMMQV
+[2024.06.10-20.46.12:578][673]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/RNYUXD627CGCX6Z2SWMMQV0B3171B64B8A2C0C6565F2ADF47C2E10.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/5W/RNYUXD627CGCX6Z2SWMMQV.uasset'
+[2024.06.10-20.46.12:615][673]LogFileHelpers: InternalPromptForCheckoutAndSave took 78 ms (total: 753 ms)
+[2024.06.10-20.46.12:618][673]AssetCheck: New page: Asset Save: StaticMeshActor_UAID_04D9F51D2510FAFD01_1357101333
+[2024.06.10-20.46.12:619][673]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_04D9F51D2510FAFD01_1357101333
+[2024.06.10-20.46.13:753][766]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.10-20.46.13:815][766]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.06.10-20.46.13:822][766]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2024.06.10-20.46.13:827][766]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2024.06.10-20.46.13:860][766]LogFileHelpers: InternalPromptForCheckoutAndSave took 107 ms (total: 861 ms)
