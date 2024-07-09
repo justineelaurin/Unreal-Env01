@@ -2529,3 +2529,167 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.07.09-15.49.52:512][885]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
 [2024.07.09-15.49.52:518][885]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
 [2024.07.09-15.49.52:572][885]LogFileHelpers: InternalPromptForCheckoutAndSave took 131 ms (total: 35.8 sec)
+[2024.07.09-15.50.52:158][ 75]LogEditorViewport: Clicking Background
+[2024.07.09-15.51.02:511][128]LogEditorViewport: Clicking Background
+[2024.07.09-15.51.03:334][129]LogEditorViewport: Clicking Background
+[2024.07.09-15.51.05:484][140]LogEditorViewport: Clicking Background
+[2024.07.09-15.55.30:273][972]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.07.09-15.55.34:599][991]LogEditorViewport: Clicking Background
+[2024.07.09-15.55.43:207][ 31]LogEditorViewport: Clicking Background
+[2024.07.09-15.55.44:946][ 40]LogEditorViewport: Clicking Background
+[2024.07.09-15.55.50:019][ 65]LogEditorViewport: Clicking Background
+[2024.07.09-15.55.50:804][ 66]LogEditorViewport: Clicking Background
+[2024.07.09-16.09.12:892][498]LogDerivedDataCache: C:/Users/justinel/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:13.340 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 7289 files in 8848 folders with total size 436 MiB.
+[2024.07.09-17.00.02:086][761]LogInterchangeEngine: [Pending] Importing
+[2024.07.09-17.00.02:086][761]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/justinel/Do...ce 3D Painter/export/envEntrance_Sign_D.png]
+[2024.07.09-17.00.02:163][761]LogInterchangeEngine: [Success] Import Done
+[2024.07.09-17.00.02:164][761]LogInterchangeEngine: [Pending] Importing
+[2024.07.09-17.00.02:164][761]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/justinel/Do...ce 3D Painter/export/envEntrance_Sign_N.png]
+[2024.07.09-17.00.02:169][761]LogTexture: Display: Building textures: /Game/Textures/envEntrance_Sign_D.envEntrance_Sign_D (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.07.09-17.00.02:265][761]LogInterchangeEngine: [Success] Import Done
+[2024.07.09-17.00.02:270][761]LogTexture: Display: Building textures: /Game/Textures/envEntrance_Sign_N.envEntrance_Sign_N (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 381.562488 MB), EncodeSpeed: Fast
+[2024.07.09-17.00.02:627][762]LogInterchangeEngine: [Success] Import Done
+[2024.07.09-17.00.02:643][762]LogInterchangeEngine: [Success] Import Done
+[2024.07.09-17.00.15:588][804]LogEditorViewport: Clicking Background
+[2024.07.09-17.00.50:964][225]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2024.07.09-17.00.50:966][225]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.010
+[2024.07.09-17.00.50:967][225]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/envEntrance_Sign_D] ([1] browsable assets)...
+[2024.07.09-17.00.50:970][225]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/envEntrance_Sign_D.envEntrance_Sign_D]
+[2024.07.09-17.00.50:970][225]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/envEntrance_Sign_D]
+[2024.07.09-17.00.50:986][225]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Textures/envEntrance_Sign_D_Auto5
+[2024.07.09-17.00.50:986][225]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/envEntrance_Sign_D_Auto5A14CB83E4FD35D608611F2939A43EC2E.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/Autosaves/Game/Textures/envEntrance_Sign_D_Auto5.uasset'
+[2024.07.09-17.00.50:987][225]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/envEntrance_Sign_N] ([1] browsable assets)...
+[2024.07.09-17.00.51:022][225]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/envEntrance_Sign_N.envEntrance_Sign_N]
+[2024.07.09-17.00.51:022][225]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/envEntrance_Sign_N]
+[2024.07.09-17.00.51:039][225]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Textures/envEntrance_Sign_N_Auto5
+[2024.07.09-17.00.51:039][225]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/envEntrance_Sign_N_Auto51991FCC845D47FE200DBADAC70693350.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/Autosaves/Game/Textures/envEntrance_Sign_N_Auto5.uasset'
+[2024.07.09-17.00.51:040][225]LogFileHelpers: Auto-saving content packages took 0.074
+[2024.07.09-17.09.13:698][733]LogDerivedDataCache: C:/Users/justinel/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:14.146 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 7304 files in 8864 folders with total size 439 MiB.
+[2024.07.09-17.15.36:439][882]LogHttp: Warning: 000006EFDCD0DC00: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.07.09-17.15.36:439][882]LogHttp: Warning: 000006EFDCD0DC00: libcurl info message cache 0 (Found bundle for host: 0x6ef68960180 [serially])
+[2024.07.09-17.15.36:439][882]LogHttp: Warning: 000006EFDCD0DC00: libcurl info message cache 1 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2024.07.09-17.15.36:439][882]LogHttp: Warning: 000006EFDCD0DC00: libcurl info message cache 2 (We are completely uploaded and fine)
+[2024.07.09-17.15.36:439][882]LogHttp: Warning: 000006EFDCD0DC00: libcurl info message cache 3 (Recv failure: Connection was reset)
+[2024.07.09-17.15.36:439][882]LogHttp: Warning: 000006EFDCD0DC00: libcurl info message cache 4 (OpenSSL SSL_read: Connection was reset, errno 10054)
+[2024.07.09-17.15.36:439][882]LogHttp: Warning: 000006EFDCD0DC00: libcurl info message cache 5 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.07.09-17.15.36:439][882]LogHttp: Warning: 000006EFDCD0DC00: libcurl info message cache 6 (state.rewindbeforesend = TRUE)
+[2024.07.09-17.15.36:439][882]LogHttp: Warning: 000006EFDCD0DC00: libcurl info message cache 7 (Closing connection)
+[2024.07.09-17.15.36:439][882]LogHttp: Warning: 000006EFDCD0DC00: libcurl info message cache 8 (Recv failure: Connection was reset)
+[2024.07.09-17.15.36:439][882]LogHttp: Warning: 000006EFDCD0DC00: libcurl info message cache 9 (Send failure: Connection was reset)
+[2024.07.09-17.15.36:439][882]LogHttp: Warning: 000006EFDCD0DC00: libcurl info message cache 10 (Recv failure: Connection was reset)
+[2024.07.09-17.15.36:439][882]LogHttp: Warning: 000006EFDCD0DC00: libcurl info message cache 11 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B72C327AA-4EC7-9C5A-E12B-EABFEBEA4ECF%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=48f18a5a4c675d77694fc4bb175b52a6%7Ce6a912d6e0154d279174b450acd0f7f3%7C0ab6cf4c-d9bf-4bb4-a228-3712b8be4824&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2024.07.09-17.15.36:440][882]LogHttp: Warning: 000006EFDCD0DC00: libcurl info message cache 12 (  Trying 3.232.176.100:443...)
+[2024.07.09-17.15.36:440][882]LogHttp: Warning: 000006EFDCD0DC00: libcurl info message cache 13 (Connected to datarouter.ol.epicgames.com (3.232.176.100) port 443)
+[2024.07.09-17.15.36:440][882]LogHttp: Warning: 000006EFDCD0DC00: libcurl info message cache 14 (ALPN: curl offers http/1.1)
+[2024.07.09-17.15.36:440][882]LogHttp: Warning: 000006EFDCD0DC00: libcurl info message cache 15 (SSL reusing session ID)
+[2024.07.09-17.15.36:440][882]LogHttp: Warning: 000006EFDCD0DC00: libcurl info message cache 16 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2024.07.09-17.15.36:440][882]LogHttp: Warning: 000006EFDCD0DC00: libcurl info message cache 17 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2024.07.09-17.15.36:440][882]LogHttp: Warning: 000006EFDCD0DC00: libcurl info message cache 18 (TLSv1.3 (IN), TLS handshake, Encrypted Extensions (8):)
+[2024.07.09-17.15.36:440][882]LogHttp: Warning: 000006EFDCD0DC00: libcurl info message cache 19 (TLSv1.3 (IN), TLS handshake, Certificate (11):)
+[2024.07.09-17.15.36:440][882]LogHttp: Warning: 000006EFDCD0DC00: libcurl info message cache 20 (TLSv1.3 (IN), TLS handshake, CERT verify (15):)
+[2024.07.09-17.15.36:440][882]LogHttp: Warning: 000006EFDCD0DC00: libcurl info message cache 21 (TLSv1.3 (IN), TLS handshake, Finished (20):)
+[2024.07.09-17.15.36:440][882]LogHttp: Warning: 000006EFDCD0DC00: libcurl info message cache 22 (TLSv1.3 (OUT), TLS change cipher, Change cipher spec (1):)
+[2024.07.09-17.15.36:440][882]LogHttp: Warning: 000006EFDCD0DC00: libcurl info message cache 23 (TLSv1.3 (OUT), TLS handshake, Finished (20):)
+[2024.07.09-17.15.36:440][882]LogHttp: Warning: 000006EFDCD0DC00: libcurl info message cache 24 (SSL connection using TLSv1.3 / TLS_AES_128_GCM_SHA256)
+[2024.07.09-17.15.36:440][882]LogHttp: Warning: 000006EFDCD0DC00: libcurl info message cache 25 (ALPN: server accepted http/1.1)
+[2024.07.09-17.15.36:440][882]LogHttp: Warning: 000006EFDCD0DC00: libcurl info message cache 26 (Server certificate:)
+[2024.07.09-17.15.36:440][882]LogHttp: Warning: 000006EFDCD0DC00: libcurl info message cache 27 ( subject: CN=datarouter.cfef.live.use1a.on.epicgames.com)
+[2024.07.09-17.15.36:440][882]LogHttp: Warning: 000006EFDCD0DC00: libcurl info message cache 28 ( start date: Mar  4 00:00:00 2024 GMT)
+[2024.07.09-17.15.36:440][882]LogHttp: Warning: 000006EFDCD0DC00: libcurl info message cache 29 ( expire date: Apr  2 23:59:59 2025 GMT)
+[2024.07.09-17.15.36:440][882]LogHttp: Warning: 000006EFDCD0DC00: libcurl info message cache 30 ( subjectAltName: host "datarouter.ol.epicgames.com" matched cert's "datarouter.ol.epicgames.com")
+[2024.07.09-17.15.36:440][882]LogHttp: Warning: 000006EFDCD0DC00: libcurl info message cache 31 ( issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M03)
+[2024.07.09-17.15.36:440][882]LogHttp: Warning: 000006EFDCD0DC00: libcurl info message cache 32 ( SSL certificate verify ok.)
+[2024.07.09-17.15.36:440][882]LogHttp: Warning: 000006EFDCD0DC00: libcurl info message cache 33 (using HTTP/1.1)
+[2024.07.09-17.15.36:440][882]LogHttp: Warning: 000006EFDCD0DC00: libcurl info message cache 34 (necessary data rewind wasn't possible)
+[2024.07.09-17.15.36:440][882]LogHttp: Warning: 000006EFDCD0DC00: libcurl info message cache 35 (Closing connection)
+[2024.07.09-17.15.36:440][882]LogHttp: Warning: 000006EFDCD0DC00: libcurl info message cache 36 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2024.07.09-17.15.36:440][882]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B72C327AA-4EC7-9C5A-E12B-EABFEBEA4ECF%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=48f18a5a4c675d77694fc4bb175b52a6%7Ce6a912d6e0154d279174b450acd0f7f3%7C0ab6cf4c-d9bf-4bb4-a228-3712b8be4824&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.07.09-18.07.54:377][337]LogInterchangeEngine: [Pending] Importing
+[2024.07.09-18.07.54:377][337]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/justinel/Do...ce 3D Painter/export/envEntrance_Sign_N.png]
+[2024.07.09-18.07.54:453][337]LogInterchangeEngine: [Success] Import Done
+[2024.07.09-18.07.54:457][337]LogTexture: Display: Building textures: /Game/Textures/envEntrance_Sign_N.envEntrance_Sign_N (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 381.562488 MB), EncodeSpeed: Fast
+[2024.07.09-18.07.54:468][337]LogInterchangeEngine: [Pending] Importing
+[2024.07.09-18.07.54:469][337]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/justinel/Do...ce 3D Painter/export/envEntrance_Sign_D.png]
+[2024.07.09-18.07.54:573][337]LogInterchangeEngine: [Success] Import Done
+[2024.07.09-18.07.54:579][337]LogTexture: Display: Building textures: /Game/Textures/envEntrance_Sign_D.envEntrance_Sign_D (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.07.09-18.07.54:907][338]LogInterchangeEngine: [Success] Import Done
+[2024.07.09-18.07.54:919][338]LogInterchangeEngine: [Success] Import Done
+[2024.07.09-18.08.29:848][517]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.07.09-18.08.29:852][517]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.011
+[2024.07.09-18.08.29:852][517]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/envEntrance_Sign_D] ([1] browsable assets)...
+[2024.07.09-18.08.29:854][517]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/envEntrance_Sign_D.envEntrance_Sign_D]
+[2024.07.09-18.08.29:854][517]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/envEntrance_Sign_D]
+[2024.07.09-18.08.29:871][517]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Textures/envEntrance_Sign_D_Auto6
+[2024.07.09-18.08.29:871][517]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/envEntrance_Sign_D_Auto61DA168F644E53A5810419A94E8BCFF06.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/Autosaves/Game/Textures/envEntrance_Sign_D_Auto6.uasset'
+[2024.07.09-18.08.29:872][517]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/envEntrance_Sign_N] ([1] browsable assets)...
+[2024.07.09-18.08.29:876][517]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/envEntrance_Sign_N.envEntrance_Sign_N]
+[2024.07.09-18.08.29:876][517]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/envEntrance_Sign_N]
+[2024.07.09-18.08.29:898][517]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Textures/envEntrance_Sign_N_Auto6
+[2024.07.09-18.08.29:899][517]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/envEntrance_Sign_N_Auto680D08F4C4A68A6603DA721837ABD85CF.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/Autosaves/Game/Textures/envEntrance_Sign_N_Auto6.uasset'
+[2024.07.09-18.08.29:899][517]LogFileHelpers: Auto-saving content packages took 0.048
+[2024.07.09-18.09.12:959][727]LogDerivedDataCache: C:/Users/justinel/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:13.407 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 7319 files in 8880 folders with total size 441 MiB.
+[2024.07.09-18.09.51:489][855]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2024.07.09-18.09.53:369][855]LogSlate: Window 'Save Content' being destroyed
+[2024.07.09-18.09.53:379][855]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.09-18.09.53:448][855]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/envEntrance_Sign_D" FILE="D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/Textures/envEntrance_Sign_D.uasset" SILENT=true
+[2024.07.09-18.09.53:537][855]LogSavePackage: Moving output files for package: /Game/Textures/envEntrance_Sign_D
+[2024.07.09-18.09.53:538][855]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/envEntrance_Sign_D83F3155D4C6262247D6585B307AB7635.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/Textures/envEntrance_Sign_D.uasset'
+[2024.07.09-18.09.53:540][855]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/envEntrance_Sign_N" FILE="D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/Textures/envEntrance_Sign_N.uasset" SILENT=true
+[2024.07.09-18.09.53:630][855]LogSavePackage: Moving output files for package: /Game/Textures/envEntrance_Sign_N
+[2024.07.09-18.09.53:630][855]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/envEntrance_Sign_NEFD890BC470819BA804A8680EBADE790.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/Textures/envEntrance_Sign_N.uasset'
+[2024.07.09-18.09.53:638][855]LogFileHelpers: InternalPromptForCheckoutAndSave took 259 ms (total: 36.1 sec)
+[2024.07.09-18.09.53:641][855]AssetCheck: New page: Asset Save: multiple assets
+[2024.07.09-18.09.53:641][855]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Textures/envEntrance_Sign_D.envEntrance_Sign_D
+[2024.07.09-18.09.53:641][855]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Textures/envEntrance_Sign_N.envEntrance_Sign_N
+[2024.07.09-18.09.55:152][860]LogEditorViewport: Clicking Background
+[2024.07.09-18.10.12:629][945]LogEditorViewport: Clicking Background
+[2024.07.09-18.10.23:455][998]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.07.09-18.10.30:988][ 33]LogEditorViewport: Clicking Background
+[2024.07.09-18.33.01:953][115]LogEditorViewport: Clicking Background
+[2024.07.09-18.33.22:478][305]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.07.09-18.33.25:055][316]LogEditorViewport: Clicking Background
+[2024.07.09-18.56.01:453][529]LogInterchangeEngine: [Pending] Importing
+[2024.07.09-18.56.01:453][529]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/justinel/Do...ce 3D Painter/export/envEntrance_Sign_N.png]
+[2024.07.09-18.56.01:531][529]LogInterchangeEngine: [Success] Import Done
+[2024.07.09-18.56.01:536][529]LogTexture: Display: Building textures: /Game/Textures/envEntrance_Sign_N.envEntrance_Sign_N (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 381.562488 MB), EncodeSpeed: Fast
+[2024.07.09-18.56.01:542][529]LogInterchangeEngine: [Pending] Importing
+[2024.07.09-18.56.01:543][529]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/justinel/Do...ce 3D Painter/export/envEntrance_Sign_D.png]
+[2024.07.09-18.56.01:638][529]LogInterchangeEngine: [Success] Import Done
+[2024.07.09-18.56.01:649][529]LogTexture: Display: Building textures: /Game/Textures/envEntrance_Sign_D.envEntrance_Sign_D (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.07.09-18.56.01:966][530]LogInterchangeEngine: [Success] Import Done
+[2024.07.09-18.56.01:984][530]LogInterchangeEngine: [Success] Import Done
+[2024.07.09-18.56.15:133][580]LogEditorViewport: Clicking Background
+[2024.07.09-18.56.38:735][833]LogEditorViewport: Clicking Background
+[2024.07.09-18.56.44:264][865]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.07.09-18.56.55:749][919]LogEditorViewport: Clicking Background
+[2024.07.09-18.57.26:019][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2024.07.09-18.57.26:022][ 22]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.010
+[2024.07.09-18.57.26:022][ 22]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/envEntrance_Sign_D] ([1] browsable assets)...
+[2024.07.09-18.57.26:026][ 22]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/envEntrance_Sign_D.envEntrance_Sign_D]
+[2024.07.09-18.57.26:026][ 22]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/envEntrance_Sign_D]
+[2024.07.09-18.57.26:043][ 22]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Textures/envEntrance_Sign_D_Auto7
+[2024.07.09-18.57.26:043][ 22]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/envEntrance_Sign_D_Auto7933E0A934E4EF142B78BD5A99CA49F15.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/Autosaves/Game/Textures/envEntrance_Sign_D_Auto7.uasset'
+[2024.07.09-18.57.26:045][ 22]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/envEntrance_Sign_N] ([1] browsable assets)...
+[2024.07.09-18.57.26:049][ 22]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/envEntrance_Sign_N.envEntrance_Sign_N]
+[2024.07.09-18.57.26:049][ 22]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/envEntrance_Sign_N]
+[2024.07.09-18.57.26:071][ 22]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Textures/envEntrance_Sign_N_Auto7
+[2024.07.09-18.57.26:071][ 22]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/envEntrance_Sign_N_Auto7F7F1DD63437D829193DC75A234C44DF0.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/Autosaves/Game/Textures/envEntrance_Sign_N_Auto7.uasset'
+[2024.07.09-18.57.26:072][ 22]LogFileHelpers: Auto-saving content packages took 0.050
+[2024.07.09-19.09.13:882][151]LogDerivedDataCache: C:/Users/justinel/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:14.330 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 7334 files in 8896 folders with total size 443 MiB.
+[2024.07.09-19.25.11:297][123]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2024.07.09-19.25.11:302][123]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.09-19.25.11:357][123]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/envEntrance_Sign_D" FILE="D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/Textures/envEntrance_Sign_D.uasset" SILENT=true
+[2024.07.09-19.25.11:442][123]LogSavePackage: Moving output files for package: /Game/Textures/envEntrance_Sign_D
+[2024.07.09-19.25.11:442][123]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/envEntrance_Sign_D97D636E94E59A593651931931008B452.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/Textures/envEntrance_Sign_D.uasset'
+[2024.07.09-19.25.11:444][123]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/envEntrance_Sign_N" FILE="D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/Textures/envEntrance_Sign_N.uasset" SILENT=true
+[2024.07.09-19.25.11:522][123]LogSavePackage: Moving output files for package: /Game/Textures/envEntrance_Sign_N
+[2024.07.09-19.25.11:523][123]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/envEntrance_Sign_N3A8BE3BD486196EA02C64DBDE23AB879.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/Textures/envEntrance_Sign_N.uasset'
+[2024.07.09-19.25.11:531][123]LogFileHelpers: InternalPromptForCheckoutAndSave took 229 ms (total: 36.3 sec)
+[2024.07.09-19.25.11:535][123]AssetCheck: New page: Asset Save: multiple assets
+[2024.07.09-19.25.11:535][123]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Textures/envEntrance_Sign_D.envEntrance_Sign_D
+[2024.07.09-19.25.11:535][123]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Textures/envEntrance_Sign_N.envEntrance_Sign_N
+[2024.07.09-19.25.14:876][281]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.09-19.25.14:939][281]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.07.09-19.25.14:947][281]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2024.07.09-19.25.14:953][281]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.07.09-19.25.14:966][281]LogFileHelpers: InternalPromptForCheckoutAndSave took 89 ms (total: 36.4 sec)
