@@ -2693,3 +2693,167 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.07.09-19.25.14:947][281]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
 [2024.07.09-19.25.14:953][281]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
 [2024.07.09-19.25.14:966][281]LogFileHelpers: InternalPromptForCheckoutAndSave took 89 ms (total: 36.4 sec)
+[2024.07.09-20.00.33:733][675]LogInterchangeEngine: [Pending] Importing
+[2024.07.09-20.00.33:733][675]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/justinel/Do...ce 3D Painter/export/envEntrance_Sign_N.png]
+[2024.07.09-20.00.33:809][675]LogInterchangeEngine: [Success] Import Done
+[2024.07.09-20.00.33:810][675]LogInterchangeEngine: [Pending] Importing
+[2024.07.09-20.00.33:810][675]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/justinel/Do...ce 3D Painter/export/envEntrance_Sign_D.png]
+[2024.07.09-20.00.33:816][675]LogTexture: Display: Building textures: /Game/Textures/envEntrance_Sign_N.envEntrance_Sign_N (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 381.562488 MB), EncodeSpeed: Fast
+[2024.07.09-20.00.33:914][675]LogInterchangeEngine: [Success] Import Done
+[2024.07.09-20.00.33:921][675]LogTexture: Display: Building textures: /Game/Textures/envEntrance_Sign_D.envEntrance_Sign_D (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.07.09-20.00.34:280][676]LogInterchangeEngine: [Success] Import Done
+[2024.07.09-20.00.34:295][676]LogInterchangeEngine: [Success] Import Done
+[2024.07.09-20.00.48:554][725]LogEditorViewport: Clicking Background
+[2024.07.09-20.00.58:779][776]LogEditorViewport: Clicking Background
+[2024.07.09-20.01.01:653][786]LogEditorViewport: Clicking Background
+[2024.07.09-20.01.34:298][908]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.07.09-20.01.34:301][908]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.016
+[2024.07.09-20.01.34:301][908]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/envEntrance_Sign_D] ([1] browsable assets)...
+[2024.07.09-20.01.34:310][908]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/envEntrance_Sign_D.envEntrance_Sign_D]
+[2024.07.09-20.01.34:310][908]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/envEntrance_Sign_D]
+[2024.07.09-20.01.34:326][908]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Textures/envEntrance_Sign_D_Auto8
+[2024.07.09-20.01.34:327][908]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/envEntrance_Sign_D_Auto8B71FEC914E7A996B272B85B6CB1FE068.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/Autosaves/Game/Textures/envEntrance_Sign_D_Auto8.uasset'
+[2024.07.09-20.01.34:327][908]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/envEntrance_Sign_N] ([1] browsable assets)...
+[2024.07.09-20.01.34:371][908]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/envEntrance_Sign_N.envEntrance_Sign_N]
+[2024.07.09-20.01.34:371][908]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/envEntrance_Sign_N]
+[2024.07.09-20.01.34:389][908]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Textures/envEntrance_Sign_N_Auto8
+[2024.07.09-20.01.34:389][908]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/envEntrance_Sign_N_Auto8916F34734668B3FACFC7C69D978A057E.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/Autosaves/Game/Textures/envEntrance_Sign_N_Auto8.uasset'
+[2024.07.09-20.01.34:389][908]LogFileHelpers: Auto-saving content packages took 0.088
+[2024.07.09-20.09.12:753][284]LogDerivedDataCache: C:/Users/justinel/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:13.201 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 7349 files in 8911 folders with total size 446 MiB.
+[2024.07.09-20.15.50:358][585]LogInterchangeEngine: [Pending] Importing
+[2024.07.09-20.15.50:358][585]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/justinel/Do...ce 3D Painter/export/envEntrance_Sign_N.png]
+[2024.07.09-20.15.50:437][585]LogInterchangeEngine: [Success] Import Done
+[2024.07.09-20.15.50:439][585]LogInterchangeEngine: [Pending] Importing
+[2024.07.09-20.15.50:439][585]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/justinel/Do...ce 3D Painter/export/envEntrance_Sign_D.png]
+[2024.07.09-20.15.50:441][585]LogTexture: Display: Building textures: /Game/Textures/envEntrance_Sign_N.envEntrance_Sign_N (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 381.562488 MB), EncodeSpeed: Fast
+[2024.07.09-20.15.50:540][585]LogInterchangeEngine: [Success] Import Done
+[2024.07.09-20.15.50:546][585]LogTexture: Display: Building textures: /Game/Textures/envEntrance_Sign_D.envEntrance_Sign_D (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.07.09-20.15.50:917][586]LogInterchangeEngine: [Success] Import Done
+[2024.07.09-20.15.50:937][586]LogInterchangeEngine: [Success] Import Done
+[2024.07.09-20.16.33:999][734]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2024.07.09-20.16.34:003][734]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.014
+[2024.07.09-20.16.34:004][734]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/envEntrance_Sign_D] ([1] browsable assets)...
+[2024.07.09-20.16.34:007][734]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/envEntrance_Sign_D.envEntrance_Sign_D]
+[2024.07.09-20.16.34:007][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/envEntrance_Sign_D]
+[2024.07.09-20.16.34:027][734]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Textures/envEntrance_Sign_D_Auto9
+[2024.07.09-20.16.34:027][734]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/envEntrance_Sign_D_Auto960511ADB49CA03E61690E396676FC35D.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/Autosaves/Game/Textures/envEntrance_Sign_D_Auto9.uasset'
+[2024.07.09-20.16.34:028][734]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/envEntrance_Sign_N] ([1] browsable assets)...
+[2024.07.09-20.16.34:033][734]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/envEntrance_Sign_N.envEntrance_Sign_N]
+[2024.07.09-20.16.34:033][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/envEntrance_Sign_N]
+[2024.07.09-20.16.34:063][734]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Textures/envEntrance_Sign_N_Auto9
+[2024.07.09-20.16.34:063][734]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/envEntrance_Sign_N_Auto9D70350DE4CC68D4F33C3179576FF07E3.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/Autosaves/Game/Textures/envEntrance_Sign_N_Auto9.uasset'
+[2024.07.09-20.16.34:064][734]LogFileHelpers: Auto-saving content packages took 0.060
+[2024.07.09-20.26.51:840][601]LogEditorViewport: Clicking Background
+[2024.07.09-20.43.08:064][  9]LogEditorViewport: Clicking Background
+[2024.07.09-20.43.24:316][727]LogCore: Display: Tracing Screenshot "HighresScreenshot00000" taken with size: 2869 x 1614
+[2024.07.09-20.43.25:021][727]LogClient: High resolution screenshot saved as D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/Screenshots/WindowsEditor/HighresScreenshot00000.png
+[2024.07.09-20.44.06:545][971]Cmd: r.ResetRenderTargetsExtent
+[2024.07.09-20.44.06:558][971]Scene texture extent history reset. Next scene render will reallocate textures at the requested size.
+[2024.07.09-20.44.06:558][971]LogSlate: Window 'High Resolution Screenshot' being destroyed
+[2024.07.09-20.44.08:813][ 85]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.07.09-20.44.10:877][181]Cmd: DELETE
+[2024.07.09-20.44.10:877][181]Cmd: ACTOR DELETE
+[2024.07.09-20.44.11:005][181]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.07.09-20.44.11:062][181]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2024.07.09-20.44.11:066][181]LogEditorActor: Deleted 1 Actors (0.155 secs)
+[2024.07.09-20.44.13:710][306]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.07.09-20.44.30:147][115]Cmd: TRANSACTION UNDO
+[2024.07.09-20.44.30:147][115]LogEditorTransaction: Undo Move Elements
+[2024.07.09-20.44.34:709][320]Cmd: TRANSACTION UNDO
+[2024.07.09-20.44.34:709][320]LogEditorTransaction: Undo Move Elements
+[2024.07.09-20.44.43:174][704]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.07.09-20.44.54:022][264]LogEditorViewport: Clicking Background
+[2024.07.09-20.44.57:126][416]LogEditorViewport: Clicking Background
+[2024.07.09-20.45.22:534][856]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.07.09-20.45.22:557][856]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/C4/FWVOMT6W26ZO3A36G6FJFF_Auto0
+[2024.07.09-20.45.22:557][856]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/FWVOMT6W26ZO3A36G6FJFF_Auto0F8CA462F4EE1130DF6C653B683743115.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/C4/FWVOMT6W26ZO3A36G6FJFF_Auto0.uasset'
+[2024.07.09-20.45.22:578][856]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/15/15L55332KA36ILMPA6N0U1_Auto0
+[2024.07.09-20.45.22:578][856]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/15L55332KA36ILMPA6N0U1_Auto0CC99FD3A4B65F7B5EF40F6A8CFDBE8E6.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/15/15L55332KA36ILMPA6N0U1_Auto0.uasset'
+[2024.07.09-20.45.22:580][856]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/83/U9VBA4P8R0D7M6A5RJ0PUR_Auto0
+[2024.07.09-20.45.22:580][856]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/U9VBA4P8R0D7M6A5RJ0PUR_Auto0CA41D31746C833589C2A90997D6DA9A1.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/83/U9VBA4P8R0D7M6A5RJ0PUR_Auto0.uasset'
+[2024.07.09-20.45.22:588][856]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/6K/VJRWJ4SO89DEOHRYBPSYZY_Auto0
+[2024.07.09-20.45.22:588][856]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/VJRWJ4SO89DEOHRYBPSYZY_Auto004D1B196431A7AB022D2AEA2E827149C.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/6K/VJRWJ4SO89DEOHRYBPSYZY_Auto0.uasset'
+[2024.07.09-20.45.22:590][856]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/TM/I78IKLFK64J6UNQ92WHGS0_Auto0
+[2024.07.09-20.45.22:590][856]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/I78IKLFK64J6UNQ92WHGS0_Auto08B7B6DDF485BB2CBD488DE820A6FFF87.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/TM/I78IKLFK64J6UNQ92WHGS0_Auto0.uasset'
+[2024.07.09-20.45.22:591][856]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.064
+[2024.07.09-20.45.22:591][856]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.064
+[2024.07.09-20.45.22:591][856]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Textures/envEntrance_Sign_D] ([1] browsable assets)...
+[2024.07.09-20.45.22:591][856]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/envEntrance_Sign_D]
+[2024.07.09-20.45.22:608][856]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Textures/envEntrance_Sign_D_Auto0
+[2024.07.09-20.45.22:608][856]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/envEntrance_Sign_D_Auto03380180248CE5C5AA91209A24641CB01.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/Autosaves/Game/Textures/envEntrance_Sign_D_Auto0.uasset'
+[2024.07.09-20.45.22:609][856]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Textures/envEntrance_Sign_N] ([1] browsable assets)...
+[2024.07.09-20.45.22:609][856]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/envEntrance_Sign_N]
+[2024.07.09-20.45.22:625][856]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Textures/envEntrance_Sign_N_Auto0
+[2024.07.09-20.45.22:625][856]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/envEntrance_Sign_N_Auto02D8868DA44BB1C9B5C9CDCA69AA149C6.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/Autosaves/Game/Textures/envEntrance_Sign_N_Auto0.uasset'
+[2024.07.09-20.45.22:626][856]LogFileHelpers: Auto-saving content packages took 0.035
+[2024.07.09-20.45.46:679][223]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.07.09-20.45.48:226][295]LogEditorViewport: Clicking Background
+[2024.07.09-20.46.04:350][122]LogCore: Display: Tracing Screenshot "HighresScreenshot00000" taken with size: 2869 x 1614
+[2024.07.09-20.46.05:056][123]LogClient: High resolution screenshot saved as D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/Screenshots/WindowsEditor/HighresScreenshot00000.png
+[2024.07.09-20.46.51:616][362]Cmd: r.ResetRenderTargetsExtent
+[2024.07.09-20.46.51:616][362]Scene texture extent history reset. Next scene render will reallocate textures at the requested size.
+[2024.07.09-20.46.51:616][362]LogSlate: Window 'High Resolution Screenshot' being destroyed
+[2024.07.09-20.46.54:441][515]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.07.09-20.47.08:344][240]LogEditorViewport: Clicking Background
+[2024.07.09-20.47.17:035][683]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.07.09-20.47.21:978][921]Cmd: TRANSACTION UNDO
+[2024.07.09-20.47.21:978][921]LogEditorTransaction: Undo Move Elements
+[2024.07.09-20.47.25:989][120]LogEditorViewport: Clicking Background
+[2024.07.09-20.47.34:120][635]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.07.09-20.47.34:126][635]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.09-20.47.34:282][635]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2024.07.09-20.47.34:290][635]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2024.07.09-20.47.34:296][635]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2024.07.09-20.47.34:301][635]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/C4/FWVOMT6W26ZO3A36G6FJFF
+[2024.07.09-20.47.34:302][635]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/FWVOMT6W26ZO3A36G6FJFF732CA7514DF60508DFD001A1DA3F001D.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/C4/FWVOMT6W26ZO3A36G6FJFF.uasset'
+[2024.07.09-20.47.34:307][635]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/15/15L55332KA36ILMPA6N0U1
+[2024.07.09-20.47.34:307][635]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/15L55332KA36ILMPA6N0U15559F28D49F9F9774374FF8EDC6B5B2C.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/15/15L55332KA36ILMPA6N0U1.uasset'
+[2024.07.09-20.47.34:310][635]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/83/U9VBA4P8R0D7M6A5RJ0PUR
+[2024.07.09-20.47.34:310][635]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/U9VBA4P8R0D7M6A5RJ0PUR4D0D39524603A92361BC08A18DD17793.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/83/U9VBA4P8R0D7M6A5RJ0PUR.uasset'
+[2024.07.09-20.47.34:313][635]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/6K/VJRWJ4SO89DEOHRYBPSYZY
+[2024.07.09-20.47.34:313][635]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/VJRWJ4SO89DEOHRYBPSYZY0744B74949F03A1595EE6DB81E3F0D79.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/6K/VJRWJ4SO89DEOHRYBPSYZY.uasset'
+[2024.07.09-20.47.34:321][635]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/TM/I78IKLFK64J6UNQ92WHGS0
+[2024.07.09-20.47.34:321][635]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/I78IKLFK64J6UNQ92WHGS09BAE07C04EC85239FD37158B86B10333.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/TM/I78IKLFK64J6UNQ92WHGS0.uasset'
+[2024.07.09-20.47.34:322][635]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/envEntrance_Sign_D" FILE="D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/Textures/envEntrance_Sign_D.uasset" SILENT=true
+[2024.07.09-20.47.34:395][635]LogSavePackage: Moving output files for package: /Game/Textures/envEntrance_Sign_D
+[2024.07.09-20.47.34:395][635]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/envEntrance_Sign_D55BA29C6467CD5508F21B384B2DDD687.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/Textures/envEntrance_Sign_D.uasset'
+[2024.07.09-20.47.34:397][635]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/envEntrance_Sign_N" FILE="D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/Textures/envEntrance_Sign_N.uasset" SILENT=true
+[2024.07.09-20.47.34:461][635]LogSavePackage: Moving output files for package: /Game/Textures/envEntrance_Sign_N
+[2024.07.09-20.47.34:462][635]LogSavePackage: Moving 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/envEntrance_Sign_N85152E1D4742DF17F7C37DBF3DA0DD10.tmp' to 'D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Content/Textures/envEntrance_Sign_N.uasset'
+[2024.07.09-20.47.34:470][635]LogFileHelpers: InternalPromptForCheckoutAndSave took 343 ms (total: 36.8 sec)
+[2024.07.09-20.47.34:489][635]AssetCheck: New page: Asset Save: multiple assets
+[2024.07.09-20.47.34:489][635]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_04D9F51D25107E0002_2046168672
+[2024.07.09-20.47.34:489][635]LogContentValidation: Display: Validating /Script/Engine.PointLight /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.PointLight_UAID_04D9F51D2510880002_2115450431
+[2024.07.09-20.47.34:489][635]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_04D9F51D25107E0002_2087502673
+[2024.07.09-20.47.34:489][635]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_04D9F51D2510890002_1772025609
+[2024.07.09-20.47.34:489][635]LogContentValidation: Display: Validating /Script/Engine.PointLight /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.PointLight_UAID_04D9F51D2510890002_1242374608
+[2024.07.09-20.47.34:489][635]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Textures/envEntrance_Sign_D.envEntrance_Sign_D
+[2024.07.09-20.47.34:489][635]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Textures/envEntrance_Sign_N.envEntrance_Sign_N
+[2024.07.09-20.47.35:683][731]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.09-20.47.35:747][731]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.07.09-20.47.35:755][731]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.07.09-20.47.35:761][731]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2024.07.09-20.47.35:796][731]LogFileHelpers: InternalPromptForCheckoutAndSave took 113 ms (total: 36.9 sec)
+[2024.07.09-20.47.39:687][ 33]LogViewport: Scene viewport resized to 1972x806, mode Windowed.
+[2024.07.09-20.47.39:756][ 34]LogViewport: Scene viewport resized to 1972x793, mode Windowed.
+[2024.07.09-20.47.39:834][ 35]LogViewport: Scene viewport resized to 1972x782, mode Windowed.
+[2024.07.09-20.47.43:593][250]LogSlate: Window 'High Resolution Screenshot' being destroyed
+[2024.07.09-20.47.59:426][958]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.09-20.47.59:451][958]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.09-20.47.59:478][958]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.09-20.47.59:496][958]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.09-20.47.59:517][958]LogViewport: Scene viewport resized to 1972x782, mode Windowed.
+[2024.07.09-20.48.04:786][198]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.07.09-20.48.05:940][251]LogEditorViewport: Clicking Background
+[2024.07.09-20.48.12:918][598]LogEditorViewport: Clicking Background
+[2024.07.09-20.48.22:947][291]LogCore: Display: Tracing Screenshot "HighresScreenshot00000" taken with size: 2780 x 1564
+[2024.07.09-20.48.23:610][292]LogClient: High resolution screenshot saved as D:/production/UNITY_Production/Unreal-Env01/OutdoorEnv/Saved/Screenshots/WindowsEditor/HighresScreenshot00000.png
+[2024.07.09-20.49.28:938][574]Cmd: r.ResetRenderTargetsExtent
+[2024.07.09-20.49.28:938][574]Scene texture extent history reset. Next scene render will reallocate textures at the requested size.
+[2024.07.09-20.49.28:938][574]LogSlate: Window 'High Resolution Screenshot' being destroyed
+[2024.07.09-20.49.31:635][737]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.07.09-20.49.33:921][848]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.09-20.49.33:981][848]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.07.09-20.49.33:989][848]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2024.07.09-20.49.33:994][848]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2024.07.09-20.49.34:048][848]LogFileHelpers: InternalPromptForCheckoutAndSave took 126 ms (total: 37.0 sec)
